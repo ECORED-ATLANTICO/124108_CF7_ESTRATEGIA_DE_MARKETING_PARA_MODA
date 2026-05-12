@@ -1,1 +1,1 @@
-module.exports = 'Titulo del componente formativo'
+module.exports = 'Estrategias de mercadeo digital y comercio electrónico'
