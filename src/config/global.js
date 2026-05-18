@@ -211,7 +211,7 @@ export default {
       significado: 'Indicadores clave para medir desempeño digital.',
     },
     {
-      termino: 'Marketing digital',
+      termino: '<em>Marketing</em> digital',
       significado: 'Estrategias promocionales mediante canales digitales.',
     },
     {
