@@ -148,7 +148,7 @@
           .col-lg-10(data-aos="fade-up")
             .tarjeta.color-primario.bg-color-16.p-3.mb-5
               .row.justify-content-around.align-items-center
-                .col-3.col-sm-2.col-lg-1
+                .col-3.col-sm-2.col-lg-auto
                   img(src="@/assets/curso/tema3/15.svg")
                 .col
                   .row.justify-content-between.align-items-center

@@ -254,7 +254,7 @@
         figure
           img(src="@/assets/curso/tema4/19.png", data-aos="zoom-in")
       .col-lg-6.order-1
-        .bg-color-1.tarjeta.p-3
+        .bg-color-1.tarjeta.p-2
           .row.align-items-center
             .col-lg-auto.mb-3.mb-lg-0
               img.d-none.d-lg-flex(src="@/assets/curso/tema4/18.png").mx-auto

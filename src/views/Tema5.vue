@@ -186,6 +186,293 @@
     
     #t_5_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 5.4 Tipos de herramientas
+    
+    .row.justify-content-center.align-items-center.mb-5
+      .col-md-8.col-lg-5.col-xl-9.mb-3.mb-xl-0
+        .row.justify-content-center.align-items-center.mb-3
+          .col-md-8.col-lg-5.col-xl-6.mb-3.mb-xl-0
+            figure
+              img(src="@/assets/curso/tema5/13.png", data-aos="zoom-in")
+          .col-lg-7.col-xl-6
+            .bg-color-2.p-4.tarjeta 
+              p.mb-0 Las herramientas de marketing digital corresponden a las plataformas tecnológicas utilizadas para planificar, ejecutar, automatizar y medir campañas promocionales en entornos digitales. Estas herramientas facilitan la gestión de contenidos, la segmentación de audiencias, el análisis de resultados y la administración de relaciones con clientes, su utilización permite optimizar la eficiencia operativa de las estrategias digitales empresariales. 
+        .bg-color-sintesis.tarjeta.p-4
+          .row.align-items-center
+            .col-lg-auto.mb-3.mb-lg-0
+              img.d-none.d-lg-flex(src="@/assets/curso/tema5/9.svg").mx-auto
+            .col-lg
+              p.mb-0 Entre los principales tipos de herramientas se encuentran las plataformas de gestión de redes sociales, herramientas de analítica digital, sistemas de automatización de marketing y plataformas de gestión de clientes (CRM). 
+      .col-md-8.col-lg-5.col-xl-3.mb-3.mb-xl-0
+        figure
+          img(src="@/assets/curso/tema5/14.png", data-aos="zoom-in")
+    
+    .row.justify-content-center
+      .col-lg-10
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 7.
+          span Herramientas digitales y su aplicación en el sistema moda
+        .tabla-a.color-secundario.mb-5.tbl
+          table
+            caption Nota. SENA, (2026).
+            thead
+              tr
+                th.bg-color-7 Herramienta
+                th.bg-color-7 Función
+                th.bg-color-7 Ejemplo aplicado al sistema moda
+            tbody
+              tr.bg-color-white
+                td <b>CRM (<em>Customer Relationship Management</em>).</b>
+                td Gestión y segmentación de clientes, historial de compras y seguimiento de interacción.
+                td Una marca de ropa registra qué clientes compraron la colección primavera y le envía un acceso anticipado exclusivo a la nueva colección verano, aumentando recompra y fidelización.
+              tr.bg-color-8
+                td <b>Analítica web.</b>
+                td Medición de tráfico, comportamiento del usuario y tasas de conversión en el sitio web.
+                td Una tienda online detecta que muchas visitas abandonan el carrito en el paso de pago y optimiza ese proceso, reduciendo fricciones y aumentando ventas.
+              tr.bg-color-white
+                td <b>Automatización de marketing.</b>
+                td Programación y ejecución automática de campañas digitales según comportamiento del usuario.
+                td Si un cliente visualiza varias veces una chaqueta sin comprarla, el sistema envía automáticamente un correo con descuento personalizado para incentivar la conversión.
+              tr.bg-color-8
+                td <b>Gestión de redes sociales.</b>
+                td Programación, monitoreo y análisis de publicaciones en plataformas sociales.
+                td Una marca programa el lanzamiento de su nueva colección con contenidos coordinados en Instagram, TikTok y Facebook, midiendo engagement y ajustando mensajes según interacción.
+    
+    .bg-color-16.p-4.tarjeta
+      p.mb-0 Las empresas del sistema moda utilizan herramientas de analítica para evaluar el comportamiento de los consumidores, plataformas de automatización para enviar campañas segmentadas y sistemas CRM para fortalecer la fidelización, la integración tecnológica de herramientas mejora la eficiencia comercial y la toma de decisiones basada en datos.
+
+    separador
+    
+    #t_5_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 5.5 Tipos de estrategias digitales
+    
+    .bg-full-width.bg-fondo-1
+      .px-4.px-lg-5
+        .row.justify-content-center.align-items-center.mb-5
+          .col-lg-4.mb-3.mb-lg-0
+            figure
+              img(src="@/assets/curso/tema5/15.png", data-aos="zoom-in")
+          .col-lg-8
+            p Las estrategias digitales corresponden al conjunto de planes de acción diseñados para alcanzar objetivos comerciales mediante el uso de medios y plataformas digitales, estas estrategias se orientan a la generación de tráfico, posicionamiento de marca, captación de clientes potenciales y fidelización del consumidor. En el sistema moda, la correcta selección de estrategias digitales permite mejorar la visibilidad de colecciones, fortalecer la identidad de marca y aumentar las ventas en comercio electrónico, su implementación requiere análisis de audiencias, definición de objetivos y selección de canales adecuados.
+            .bg-color-16.p-4.tarjeta
+              p.mb-0 Entre los principales tipos de estrategias digitales se encuentran la estrategia de atracción (<em>inbound marketing</em>), la estrategia de conversión, la estrategia de fidelización y la estrategia de posicionamiento de marca. 
+
+        .row.justify-content-center.align-items-center.z-2.mb-5
+          .col-lg-8
+            .titulo-sexto.color-acento-contenido.mb-4
+              h5 Figura 6.
+              span Tipos de estrategias digitales
+            img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema5/16.png", alt="la figura presenta los cuatro tipos de estrategias digitales.")
+            img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema5/16-1.png", alt="la figura presenta los cuatro tipos de estrategias digitales.")
+            figcaption <strong>Fuente:</strong> SENA, 2026
+        
+        .row.justify-content-center.align-items-center.mb-3
+          .col-lg-10(data-aos="fade-up")
+            .tarjeta.color-primario.bg-color-10.p-3.mb-5
+              .row.justify-content-around.align-items-center
+                .col-3.col-sm-2.col-lg-2
+                  img(src="@/assets/curso/tema5/28.png")
+                .col
+                  .row.justify-content-between.align-items-center
+                    .col.mb-3.mb-sm-0
+                      h3.mb-1 Aplicación de estrategias digitales
+                      p.mb-0 Zara, marca del grupo Inditex, es uno de los referentes globales del sistema moda en integración de estrategias digitales con retail físico y comercio electrónico.
+                    .col-sm-auto
+                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Aplicacion_de_estrategias_digitales_D2.pdf')" target="_blank")
+                        span Descargar pdf
+                        i.fas.fa-file-download
+        
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-4.mb-3.mb-lg-0
+        figure
+          img(src="@/assets/curso/tema5/17.png", data-aos="zoom-in")
+      .col-lg-6
+        .bg-color-1.tarjeta.p-2
+          .row.align-items-center
+            .col-lg-auto.mb-3.mb-lg-0
+              img.d-none.d-lg-flex(src="@/assets/curso/tema5/18.png").mx-auto
+            .col-lg
+              h5.mb-0 Pregunta de aplicación
+              p.mb-0 ¿Qué estrategia digital se orienta principalmente a transformar visitantes en compradores?
+    
+    separador
+    
+    #t_5_6.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 5.6 Arquetipos digitales
+    
+    img(src="@/assets/curso/tema5/19.png", alt="Imagen decorativa")
+    
+    .row.justify-content-center.align-items-center.z-2.mb-5
+      .col-lg-10(data-aos="fade-up")
+        p.banner-text Los arquetipos digitales representan modelos de personalidad de marca utilizados para orientar la comunicación estratégica en entornos digitales, estos arquetipos permiten construir mensajes coherentes, fortalecer la identidad corporativa y facilitar la conexión emocional con los consumidores. En el sistema moda, la definición del arquetipo digital contribuye a diferenciar la marca en mercados altamente competitivos y saturados de información.
+    
+    .row.justify-content-center.align-items-center.mb-3
+      .col-lg-10(data-aos="fade-up")
+        .tarjeta.color-primario.bg-color-16.p-3.mb-5
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-auto
+              img(src="@/assets/curso/tema5/20.png")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h3.mb-1 Tipos de arquetipos
+                  p.mb-0 Te invitamos a ver el siguiente video educativo, donde podrás profundizar en la temática. Este contenido de Edutin Academy explica los arquetipos publicitarios y cómo ayudan a crear historias coherentes que conectan emocionalmente con el público.
+                .col-sm-auto
+                  a.boton.color-acento-botones(href="https://youtu.be/tdEv-yO1Uvg?si=W4kmv5psirpUbjwd " target="_blank")
+                    span Ir al video
+                    i.fas.fa-file-download
+    
+    .row.justify-content-center.align-items-center.mb-3
+      .col-md-8.col-lg-5.col-xl-9.mb-3.mb-xl-0
+        .row.justify-content-center.align-items-center.mb-3
+          .col-md-8.col-lg-5.col-xl-6.mb-3.mb-xl-0
+            figure
+              img(src="@/assets/curso/tema5/21.png", data-aos="zoom-in")
+          .col-lg-7.col-xl-6
+            .bg-color-2.p-4.tarjeta 
+              p.mb-0 Las empresas del sector moda emplean modelos de arquetipos de marca para diseñar campañas coherentes en redes sociales, publicidad digital y contenido audiovisual, asegurando que cada mensaje refleje una personalidad definida y reconocible. 
+        .bg-color-sintesis.tarjeta.p-4
+          .row.align-items-center
+            .col-lg-auto.mb-3.mb-lg-0
+              img.d-none.d-lg-flex(src="@/assets/curso/tema5/9.svg").mx-auto
+            .col-lg
+              p.mb-0 Cuando el arquetipo se mantiene consistente en todos los puntos de contacto, se fortalece la recordación de marca y se facilita la fidelización del consumidor, ya que la audiencia identifica patrones emocionales y simbólicos claros. Esta coherencia narrativa mejora la conexión emocional, permitiendo que la marca trascienda la simple transacción comercial y construya vínculos más profundos. 
+      .col-md-8.col-lg-5.col-xl-3.mb-3.mb-xl-0
+        figure
+          img(src="@/assets/curso/tema5/22.png", data-aos="zoom-in")
+    
+    .bg-color-18.mb-5.tarjeta.p-4
+      p.mb-0 A su vez, una identidad clara simplifica el posicionamiento competitivo, porque delimita el territorio simbólico que la empresa ocupa en la mente del consumidor. En consecuencia, la diferenciación estratégica impulsa el reconocimiento de marca, siempre que la planificación comunicativa se alinee de manera rigurosa con el arquetipo seleccionado y se mantenga coherente en el tiempo.
+
+    separador
+    
+    #t_5_7.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 5.7 Estrategia de marca
+    
+    .bg-full-width.bg-fondo-1
+      .px-4.px-lg-5
+        .row.justify-content-center.align-items-center.mb-5
+          .col-lg-4.mb-3
+            figure
+              img(src="@/assets/curso/tema5/23.png", data-aos="zoom-in")
+          .col-lg-8
+            p La estrategia de marca corresponde al conjunto de decisiones orientadas a construir una identidad diferenciada, reconocible y coherente en el mercado. En entornos digitales, esta estrategia se manifiesta mediante el diseño visual, el tono comunicativo, la propuesta de valor y la experiencia del cliente en todos los canales digitales. En el sistema moda, la estrategia de marca determina la percepción del consumidor frente a las colecciones y la propuesta estética de la empresa.
+            .bg-color-10.px-5.py-4.tarjeta
+              p.mb-0 Una estrategia de marca digital incluye elementos como branding visual, storytelling, coherencia de contenidos y posicionamiento en plataformas digitales. El branding visual define la identidad gráfica; el <em>storytelling</em> construye narrativas que conectan emocionalmente con el consumidor; la coherencia de contenidos asegura uniformidad comunicativa; y el posicionamiento digital fortalece la visibilidad de la marca. Estos componentes permiten consolidar una identidad corporativa sólida.
+    
+        .row.justify-content-center
+          .col-lg-12
+            .titulo-sexto.color-acento-contenido
+              h5 Tabla 8.
+              span Estrategias de marca digital aplicadas al sistema moda
+            .tabla-a.color-secundario.mb-5.tbl
+              table
+                caption Nota. SENA, (2026).
+                thead
+                  tr
+                    th.bg-color-7 Estrategia
+                    th.bg-color-7 Definición
+                    th.bg-color-7 Ejemplo aplicado al sistema moda
+                    th.bg-color-7 Impacto estratégico
+                tbody
+                  tr.bg-color-white
+                    td <b>Branding visual.</b>
+                    td Define la identidad gráfica de la marca (logo, colores, tipografía, estilo fotográfico).
+                    td Una marca de moda sostenible utiliza tonos tierra, fotografías en entornos naturales y empaques ecológicos coherentes en web y redes sociales.
+                    td Genera reconocimiento inmediato y refuerza la identidad corporativa.
+                  tr.bg-color-8
+                    td <b><em>Storytelling.</em></b>
+                    td Construcción de narrativas que conectan emocionalmente con el consumidor.
+                    td Una marca urbana comparte historias reales de sus diseñadores y procesos creativos en <em>reels</em> y videos, mostrando autenticidad.
+                    td Fortalece vínculo emocional y aumenta la conexión con el público objetivo.
+                  tr.bg-color-white
+                    td <b>Coherencia de contenidos.</b>
+                    td Uniformidad en tono, mensaje y estilo comunicativo en todos los canales digitales.
+                    td Una marca elegante mantiene lenguaje sofisticado y estética minimalista tanto en Instagram como en su tienda online y campañas publicitarias.
+                    td Consolida credibilidad, profesionalismo y consistencia comunicativa.
+                  tr.bg-color-8
+                    td <b>Posicionamiento digital.</b>
+                    td Estrategias para aumentar visibilidad en buscadores y plataformas digitales.
+                    td Optimización SEO para búsquedas como “vestidos de fiesta”, campañas segmentadas en redes y colaboración con micro <em>influencers</em> locales.
+                    td Incrementa tráfico cualificado, visibilidad de marca y ventas en comercio electrónico.
+
+        .row.justify-content-center.align-items-center.mb-5
+          .col-lg-8
+            .bg-color-1.p-3.tarjeta
+              .row.align-items-center
+                .col-lg-auto.mb-3.mb-lg-0
+                  img.d-none.d-lg-flex(src="@/assets/curso/tema5/24.png").mx-auto
+                .col-lg
+                  p.mb-0  <b>Clave estratégica</b>. La coherencia visual y narrativa fortalece la recordación de marca en entornos digitales.
+    
+    separador
+    
+    #t_5_8.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 5.8 Técnicas publicitarias
+    
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-4.mb-3.mb-lg-0
+        figure
+          img(src="@/assets/curso/tema5/25.png", data-aos="zoom-in")
+      .col-lg-8
+        p Las técnicas publicitarias digitales comprenden los métodos utilizados para promocionar productos o servicios mediante anuncios en plataformas digitales, estas técnicas incluyen publicidad en buscadores, publicidad en redes sociales, <em>remarketing</em> y publicidad programática, su finalidad es incrementar la visibilidad de la marca, atraer clientes potenciales y estimular la conversión comercial.
+
+    .row.justify-content-center
+      .col-lg-12
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 9.
+          span Técnicas publicitarias digitales aplicadas al sistema moda
+        .tabla-a.color-secundario.mb-5.tbl
+          table
+            caption Nota. SENA, (2026).
+            thead
+              tr
+                th.bg-color-7 Estrategia
+                th.bg-color-7 Definición
+                th.bg-color-7 Ejemplo aplicado al sistema moda
+                th.bg-color-7 Impacto estratégico
+            tbody
+              tr.bg-color-white
+                td <b>Publicidad en buscadores (SEM).</b>
+                td Posiciona anuncios pagados según palabras clave ingresadas por los usuarios en motores de búsqueda.
+                td Una marca de ropa deportiva invierte en Google Ads para aparecer cuando alguien busca “leggings deportivos mujer” o “ropa fitness Bogotá”.
+                td Atrae tráfico con alta intención de compra y aumenta conversiones directas.
+              tr.bg-color-8
+                td <b>Publicidad en redes sociales.</b>
+                td Permite segmentar audiencias específicas según edad, intereses, ubicación y comportamiento digital.
+                td Una marca de moda femenina segmenta anuncios en Instagram a mujeres entre 20 y 35 años interesadas en tendencias y compras online.
+                td Incrementa alcance cualificado y mejora la eficiencia del presupuesto publicitario.
+              tr.bg-color-white
+                td <b><em>Remarketing.</em></b>
+                td Impacta nuevamente a usuarios que ya interactuaron con la marca, pero no finalizaron compra.
+                td Un usuario visita una tienda online de chaquetas y luego ve anuncios del mismo producto con descuento mientras navega en otras páginas o redes sociales.
+                td Recupera carritos abandonados y mejora la tasa de conversión.
+              tr.bg-color-8
+                td <b>Publicidad programática.</b>
+                td Automatiza la compra de espacios publicitarios digitales mediante algoritmos y datos de comportamiento.
+                td Una marca internacional de moda lanza una campaña automatizada que muestra anuncios personalizados según historial de navegación y perfil del usuario.
+                td Optimiza inversión publicitaria en tiempo real y aumenta precisión en segmentación.
+    
+    .row.justify-content-center.align-items-center.mb-3
+      .col-md-8.col-lg-5.col-xl-9.mb-3.mb-xl-0
+        .row.justify-content-center.align-items-center.mb-3
+          .col-md-8.col-lg-5.col-xl-6.mb-3.mb-xl-0
+            figure
+              img(src="@/assets/curso/tema5/26.png", data-aos="zoom-in")
+          .col-lg-7.col-xl-6
+            .bg-color-2.p-4.tarjeta 
+              p.mb-0 Las empresas del sistema moda utilizan estas técnicas publicitarias para promocionar colecciones, lanzamientos y campañas estacionales con mayor precisión en la inversión, ya que la segmentación avanzada permite dirigir los mensajes a audiencias específicas según intereses, comportamiento y etapa del proceso de compra. 
+        .bg-color-sintesis.tarjeta.p-4
+          .row.align-items-center
+            .col-lg-auto.mb-3.mb-lg-0
+              img.d-none.d-lg-flex(src="@/assets/curso/tema5/9.svg").mx-auto
+            .col-lg
+              p.mb-0 Como consecuencia, se mejora el retorno de inversión al reducir la dispersión del presupuesto y concentrarlo en públicos con mayor probabilidad de conversión. A su vez, la medición constante de resultados facilita la optimización de campañas en tiempo real, ajustando creatividades, segmentaciones o presupuestos según el desempeño observado.  
+      .col-md-8.col-lg-5.col-xl-3.mb-3.mb-xl-0
+        figure
+          img(src="@/assets/curso/tema5/27.png", data-aos="zoom-in")
+    
+    .bg-color-18.mb-5.tarjeta.p-4
+      p.mb-0 En este entorno dinámico, la creatividad publicitaria se convierte en un factor clave para fortalecer la diferenciación, mientras que la innovación tecnológica amplía las oportunidades promocionales mediante nuevos formatos y automatizaciones. No obstante, para que estos elementos generen impacto sostenible, la planificación estratégica debe garantizar coherencia comunicativa en todos los canales digitales.
 
 </template>
 

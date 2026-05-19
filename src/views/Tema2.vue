@@ -175,7 +175,7 @@
                       h3.mb-1 Plan estratégico de mercadeo
                       p.mb-0 A continuación, se presenta un ejemplo condensado, en el cual cada aspecto puede desarrollarse con la profundidad conceptual necesaria para precisar y contextualizar su intención estratégica. 
                     .col-sm-auto
-                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Plan estratégico de mercadeo_D1.pdf')" target="_blank")
+                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Plan_estrategico_de_mercadeo_D1.pdf')" target="_blank")
                         span Descargar pdf
                         i.fas.fa-file-download
 
