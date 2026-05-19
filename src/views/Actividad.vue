@@ -17,10 +17,10 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Conceptos estratégicos del marketing en el sistema moda.',
+      tema: 'Conceptos estratégicos del <em>marketing</em> en el sistema moda.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> verificar la comprensión de los fundamentos del marketing en el sistema moda mediante la resolución de preguntas de verdadero o falso aplicadas a contextos empresariales.',
+        '<b> Objetivo:</b> verificar la comprensión de los fundamentos del <em>marketing</em> en el sistema moda mediante la resolución de preguntas de verdadero o falso aplicadas a contextos empresariales.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!.',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
@@ -148,7 +148,7 @@ export default {
         {
           id: 9,
           texto:
-            'El marketing digital se enfoca exclusivamente en redes sociales y no incluye otros canales digitales.',
+            'El <em>marketing</em> digital se enfoca exclusivamente en redes sociales y no incluye otros canales digitales.',
           imagen: require('@/assets/actividad/imagen9.png'),
           barajarRespuestas: true,
           opciones: [
@@ -163,7 +163,7 @@ export default {
         {
           id: 10,
           texto:
-            'Las herramientas de analítica digital permiten medir el rendimiento de las estrategias de marketing.',
+            'Las herramientas de analítica digital permiten medir el rendimiento de las estrategias de <em>marketing</em>.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -178,7 +178,7 @@ export default {
         {
           id: 11,
           texto:
-            'El email marketing es una técnica utilizada para comunicar promociones, contenidos y ofertas a clientes potenciales.',
+            'El email <em>marketing</em> es una técnica utilizada para comunicar promociones, contenidos y ofertas a clientes potenciales.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -238,7 +238,7 @@ export default {
         {
           id: 15,
           texto:
-            'El análisis de competidores no influye en la formulación de estrategias de marketing.',
+            'El análisis de competidores no influye en la formulación de estrategias de <em>marketing</em>.',
           imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [
@@ -268,7 +268,7 @@ export default {
         {
           id: 17,
           texto:
-            'El plan de marketing digital se construye sin necesidad de objetivos comerciales definidos.',
+            'El plan de <em>marketing</em> digital se construye sin necesidad de objetivos comerciales definidos.',
           imagen: require('@/assets/actividad/imagen8.png'),
           barajarRespuestas: true,
           opciones: [
@@ -328,7 +328,7 @@ export default {
         {
           id: 17,
           texto:
-            'El plan de marketing digital se construye sin necesidad de objetivos comerciales definidos.',
+            'El plan de <em>marketing</em> digital se construye sin necesidad de objetivos comerciales definidos.',
           imagen: require('@/assets/actividad/imagen8.png'),
           barajarRespuestas: true,
           opciones: [

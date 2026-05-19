@@ -277,9 +277,9 @@
           .col-lg-12
             .titulo-sexto.color-acento-contenido.mb-4
               h5 Figura 1.
-              span Elementos de la mezcla de marketing
-            img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/22.png", alt="la figura muestra los elementos de la mezcla del marketing, como lo son las 4P.")
-            img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/22-1.png", alt="la figura muestra los elementos de la mezcla del marketing, como lo son las 4P.")
+              span Elementos de la mezcla de <em>marketing</em>
+            img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/22.png", alt="la figura muestra los elementos de la mezcla del <em>marketing</em>, como lo son las 4P.")
+            img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/22-1.png", alt="la figura muestra los elementos de la mezcla del <em>marketing</em>, como lo son las 4P.")
             figcaption Fuente: SENA, 2026
 
     .bg-color-1.mb-5.tarjeta.p-4
@@ -287,18 +287,18 @@
         .col-lg-auto.mb-3.mb-lg-0
           img.d-none.d-lg-flex(src="@/assets/curso/tema1/23.svg").mx-auto
         .col-lg
-          p.mb-0 <b>Clave estratégica</b>.  La correcta combinación de las 4P permite a las organizaciones responder de manera eficiente a los cambios del mercado y a las expectativas de los consumidores. Las empresas que ajustan constantemente su mezcla de marketing logran mayor adaptación competitiva.
+          p.mb-0 <b>Clave estratégica</b>.  La correcta combinación de las 4P permite a las organizaciones responder de manera eficiente a los cambios del mercado y a las expectativas de los consumidores. Las empresas que ajustan constantemente su mezcla de <em>marketing</em> logran mayor adaptación competitiva.
     
     separador
     
     #t_1_6.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 1.6 Marketing digital
+      h2 1.6 <em>Marketing</em> digital
 
     img(src="@/assets/curso/tema1/24.png", alt="Imagen decorativa")
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up")
-        p.banner-text El marketing digital se refiere al conjunto de estrategias y acciones comerciales que utilizan plataformas digitales y tecnologías de la información para promover productos, servicios o experiencias; este enfoque trasciende el objetivo tradicional de venta, ya que se basa en crear relaciones interactivas y medibles entre la marca y el consumidor, aprovechando medios como redes sociales, motores de búsqueda, sitios web, correo electrónico y publicidad en línea; en el capítulo cinco (5), de la presente guía, se trabajará de forma ampliada esta temática. 
+        p.banner-text El <em>marketing</em> digital se refiere al conjunto de estrategias y acciones comerciales que utilizan plataformas digitales y tecnologías de la información para promover productos, servicios o experiencias; este enfoque trasciende el objetivo tradicional de venta, ya que se basa en crear relaciones interactivas y medibles entre la marca y el consumidor, aprovechando medios como redes sociales, motores de búsqueda, sitios web, correo electrónico y publicidad en línea; en el capítulo cinco (5), de la presente guía, se trabajará de forma ampliada esta temática. 
     
     separador
     
@@ -329,7 +329,7 @@
           img(src="@/assets/curso/tema1/26.png", data-aos="zoom-in")
       .col-lg-9.order-1
         .bg-color-9.p-5.tarjeta
-          p.mb-0 El <em>email marketing</em> funciona mejor cuando se concibe como una herramienta relacional y no únicamente promocional, fortaleciendo vínculos a largo plazo. En un entorno donde la saturación de mensajes es constante, la creatividad y la segmentación se vuelven indispensables para evitar comunicaciones irrelevantes. Asimismo, la automatización mejora la eficiencia operativa y permite escalar procesos. Implementado estratégicamente, el email marketing contribuye a consolidar ventas recurrentes y fidelización sostenible.
+          p.mb-0 El <em>email marketing</em> funciona mejor cuando se concibe como una herramienta relacional y no únicamente promocional, fortaleciendo vínculos a largo plazo. En un entorno donde la saturación de mensajes es constante, la creatividad y la segmentación se vuelven indispensables para evitar comunicaciones irrelevantes. Asimismo, la automatización mejora la eficiencia operativa y permite escalar procesos. Implementado estratégicamente, el email <em>marketing</em> contribuye a consolidar ventas recurrentes y fidelización sostenible.
 
     separador
     
@@ -394,7 +394,7 @@
               img(src="@/assets/curso/tema1/32.png", data-aos="zoom-in")
           .col-lg-5.col-xl-5
             .bg-color-2.p-4.tarjeta 
-              p.mb-0 Por ello, las campañas deben reflejar con coherencia la identidad conceptual de cada colección, asegurando consistencia entre diseño, comunicación y ambientación. La innovación tecnológica, a través de experiencias inmersivas y recursos interactivos, amplía las posibilidades de conexión emocional. Dado que el consumidor de moda busca significado y no solo funcionalidad, el marketing asume un enfoque estratégico y cultural, traduciendo tendencias en propuestas comerciales con valor simbólico.
+              p.mb-0 Por ello, las campañas deben reflejar con coherencia la identidad conceptual de cada colección, asegurando consistencia entre diseño, comunicación y ambientación. La innovación tecnológica, a través de experiencias inmersivas y recursos interactivos, amplía las posibilidades de conexión emocional. Dado que el consumidor de moda busca significado y no solo funcionalidad, el <em>marketing</em> asume un enfoque estratégico y cultural, traduciendo tendencias en propuestas comerciales con valor simbólico.
           .col-md-8.col-lg-5.col-xl-3.mb-3.mb-xl-0
             figure
               img(src="@/assets/curso/tema1/33.png", data-aos="zoom-in")

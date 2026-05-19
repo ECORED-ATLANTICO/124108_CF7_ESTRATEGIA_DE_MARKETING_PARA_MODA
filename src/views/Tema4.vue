@@ -14,7 +14,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema4/1.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 El ecosistema digital representa la articulación estratégica de plataformas, tecnologías, procesos y usuarios que interactúan de manera permanente dentro del entorno digital empresarial. Su comprensión resulta esencial para las organizaciones del sistema moda, debido a que las decisiones de marketing, ventas, comunicación y servicio al cliente dependen cada vez más de la integración tecnológica. En este contexto, la competitividad empresarial no se determina únicamente por la calidad del producto, sino por la eficiencia de su presencia digital.
+            p.mb-0 El ecosistema digital representa la articulación estratégica de plataformas, tecnologías, procesos y usuarios que interactúan de manera permanente dentro del entorno digital empresarial. Su comprensión resulta esencial para las organizaciones del sistema moda, debido a que las decisiones de <em>marketing</em>, ventas, comunicación y servicio al cliente dependen cada vez más de la integración tecnológica. En este contexto, la competitividad empresarial no se determina únicamente por la calidad del producto, sino por la eficiencia de su presencia digital.
 
         .row.justify-content-center.align-items-center.mb-5
           .col-md-8.col-lg-5.col-xl-9.mb-3.mb-xl-0
@@ -47,7 +47,7 @@
           .col-lg-8
             p Un ecosistema digital se define como el conjunto interconectado de plataformas, tecnologías, datos y actores que interactúan para generar valor dentro de un entorno digital empresarial, su estructura se asemeja a los ecosistemas biológicos, donde múltiples componentes cooperan de manera dinámica para mantener la estabilidad y el crecimiento del sistema. Este enfoque permite comprender que la presencia digital empresarial no es un canal aislado, sino una red estratégica integrada.
             .bg-color-9.tarjeta.p-4
-              p.mb-0 En el sector moda, marcas como Zara integran comercio electrónico, redes sociales, aplicaciones móviles, CRM y sistemas logísticos en un solo entorno digital coordinado, este modelo permite optimizar la experiencia del cliente desde la búsqueda del producto hasta la entrega final, su análisis del ecosistema digital facilita identificar puntos de mejora en procesos de marketing y ventas.
+              p.mb-0 En el sector moda, marcas como Zara integran comercio electrónico, redes sociales, aplicaciones móviles, CRM y sistemas logísticos en un solo entorno digital coordinado, este modelo permite optimizar la experiencia del cliente desde la búsqueda del producto hasta la entrega final, su análisis del ecosistema digital facilita identificar puntos de mejora en procesos de <em>marketing</em> y ventas.
     
     separador
     
@@ -134,7 +134,7 @@
                   tr.bg-color-8
                     td <b>Automatización Inteligente</b>
                     td Uso combinado de inteligencia artificial y automatización de procesos.
-                    td Automatiza respuestas en Instagram, envíos de email marketing y recomendaciones de prendas según historial de compra.
+                    td Automatiza respuestas en Instagram, envíos de email <em>marketing</em> y recomendaciones de prendas según historial de compra.
                   tr.bg-color-white
                     td <b><em>Blockchain</em></b>
                     td Tecnología de registro descentralizado y seguro.
@@ -175,7 +175,7 @@
             .col-lg-auto.mb-3.mb-lg-0
               img.d-none.d-lg-flex(src="@/assets/curso/tema4/4.svg").mx-auto
             .col-lg
-              p.mb-0  <b>Clave estratégica</b>. Las empresas deben capacitar a sus equipos de marketing constantemente para estar a la vanguardia de la terminología tecnológica aplicada al mercadeo.
+              p.mb-0  <b>Clave estratégica</b>. Las empresas deben capacitar a sus equipos de <em>marketing</em> constantemente para estar a la vanguardia de la terminología tecnológica aplicada al mercadeo.
     
     separador
     
@@ -231,7 +231,7 @@
           .col-lg-8
             p Las plataformas digitales son infraestructuras tecnológicas que permiten la interacción entre usuarios, empresas y servicios mediante aplicaciones en línea que integran comunicación, comercio, análisis de datos y gestión de contenidos. Estas plataformas constituyen el núcleo operativo de los ecosistemas digitales empresariales, ya que facilitan la automatización de procesos comerciales, la administración de clientes y la distribución de productos. 
             .bg-color-10.tarjeta.p-4
-              p.mb-0 En el sistema moda cumplen funciones de catálogos virtuales, gestión logística, atención al cliente y marketing automatizado, su implementación requiere planificación tecnológica alineada con los objetivos estratégicos de la organización. Las empresas seleccionan plataformas según escalabilidad, compatibilidad, costos operativos y seguridad, la correcta integración tecnológica permite centralizar la información y mejorar la eficiencia organizacional. La tendencia actual apunta a plataformas integradas que conectan comercio electrónico, redes sociales y sistemas de gestión empresarial, esto fortalece la competitividad digital.
+              p.mb-0 En el sistema moda cumplen funciones de catálogos virtuales, gestión logística, atención al cliente y <em>marketing</em> automatizado, su implementación requiere planificación tecnológica alineada con los objetivos estratégicos de la organización. Las empresas seleccionan plataformas según escalabilidad, compatibilidad, costos operativos y seguridad, la correcta integración tecnológica permite centralizar la información y mejorar la eficiencia organizacional. La tendencia actual apunta a plataformas integradas que conectan comercio electrónico, redes sociales y sistemas de gestión empresarial, esto fortalece la competitividad digital.
 
         .row.justify-content-center.align-items-center.z-2.mb-5
           .col-lg-6
@@ -273,7 +273,7 @@
         
         .row.justify-content-center.align-items-center.z-2.mb-5
           .col-lg-10(data-aos="fade-up")
-            p.banner-text Las herramientas digitales son aplicaciones, <em>software</em> y recursos tecnológicos que facilitan la ejecución de actividades dentro de los ecosistemas digitales, incluyendo marketing, comunicación, diseño, análisis de datos y automatización de procesos, estas herramientas permiten optimizar el trabajo operativo y estratégico de las organizaciones, reduciendo tiempos de ejecución y mejorando la precisión de las decisiones. 
+            p.banner-text Las herramientas digitales son aplicaciones, <em>software</em> y recursos tecnológicos que facilitan la ejecución de actividades dentro de los ecosistemas digitales, incluyendo <em>marketing</em>, comunicación, diseño, análisis de datos y automatización de procesos, estas herramientas permiten optimizar el trabajo operativo y estratégico de las organizaciones, reduciendo tiempos de ejecución y mejorando la precisión de las decisiones. 
         
         .titulo-con-imagen.mb-5(data-aos="fade-right")
           .titulo-con-imagen__fondo
@@ -282,10 +282,10 @@
         
 
         TabsB.color-acento-contenido.mb-5
-          .py-4.py-md-5(titulo="Marketing" :icono="require('@/assets/componentes/2.svg')")
+          .py-4.py-md-5(titulo="<em>Marketing</em>" :icono="require('@/assets/componentes/2.svg')")
             .row.justify-content-center.align-items-center.p-4.p-lg-0
               .col-lg-7.mb-4.mb-lg-0.order-2
-                h4 Marketing
+                h4 <em>Marketing</em>
                 p Facilitan la gestión de campañas publicitarias, programación de contenidos y monitoreo de engagement; su característica principal es la optimización comunicacional.
               .col-lg-4.order-1
                 figure
@@ -312,7 +312,7 @@
             figure
               img(src="@/assets/curso/tema4/24.png", data-aos="zoom-in")
           .col-lg-8
-            p En la industria de la moda, las herramientas digitales permiten coordinar equipos creativos, lanzar campañas promocionales y analizar tendencias globales en tiempo real. La integración de analítica y marketing facilita estrategias basadas en datos que incrementan la efectividad comercial. Las empresas que adoptan herramientas automatizadas logran reducir costos operativos y mejorar la precisión en la segmentación de clientes, asimismo, la automatización de procesos repetitivos permite concentrar recursos en innovación y creatividad. 
+            p En la industria de la moda, las herramientas digitales permiten coordinar equipos creativos, lanzar campañas promocionales y analizar tendencias globales en tiempo real. La integración de analítica y <em>marketing</em> facilita estrategias basadas en datos que incrementan la efectividad comercial. Las empresas que adoptan herramientas automatizadas logran reducir costos operativos y mejorar la precisión en la segmentación de clientes, asimismo, la automatización de procesos repetitivos permite concentrar recursos en innovación y creatividad. 
         
         .row.justify-content-center.align-items-center.mb-3
           .col-lg-12(data-aos="fade-up")
@@ -324,7 +324,7 @@
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0
                       h3.mb-1 <em>Insight</em>
-                      p.mb-0 Un informe especializado indica que alrededor del 40 % de las empresas colombianas que implementan automatización de marketing han observado aumentos significativos en sus tasas de conversión, evidenciando el valor estratégico de estas tecnologías para incrementar ventas y rendimiento comercial. Se sugiere al aprendiz consultar el siguiente enlace.  
+                      p.mb-0 Un informe especializado indica que alrededor del 40 % de las empresas colombianas que implementan automatización de <em>marketing</em> han observado aumentos significativos en sus tasas de conversión, evidenciando el valor estratégico de estas tecnologías para incrementar ventas y rendimiento comercial. Se sugiere al aprendiz consultar el siguiente enlace.  
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://cangrejodigital.com/wp-content/uploads/2025/07/Tendencias-de-Marketing-Digital-2025-2026-en-Colombia-Lo-que-tu-Negocio-Debe-Saber-para-Crecer-Cangrejo-Digital.pdf?utm_source=chatgpt.com" target="_blank")
                         span Ir al enlace
@@ -337,7 +337,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema4/26.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 <b>Ejemplo aplicado</b>. La plataforma de moda de lujo LUISAVIAROMA experimentó mejoras drásticas en su rendimiento comercial tras automatizar campañas omnicanal mediante una solución de marketing inteligente. Con perfiles más precisos y mensajes personalizados, la empresa logró aumentar su tasa de conversión en hasta 400 % y el ingreso generado por campañas de email marketing en 900 %, gracias a la automatización y la analítica aplicada para adaptar ofertas y contenido relevante para segmentos específicos de su audiencia global
+            p.mb-0 <b>Ejemplo aplicado</b>. La plataforma de moda de lujo LUISAVIAROMA experimentó mejoras drásticas en su rendimiento comercial tras automatizar campañas omnicanal mediante una solución de <em>marketing</em> inteligente. Con perfiles más precisos y mensajes personalizados, la empresa logró aumentar su tasa de conversión en hasta 400 % y el ingreso generado por campañas de email <em>marketing</em> en 900 %, gracias a la automatización y la analítica aplicada para adaptar ofertas y contenido relevante para segmentos específicos de su audiencia global
     
     separador
     
@@ -401,7 +401,7 @@
             .col-lg-auto.mb-3.mb-lg-0
               img.d-none.d-lg-flex(src="@/assets/curso/tema4/4.svg").mx-auto
             .col-lg
-              p.mb-0 Además, su correcta configuración facilita la interoperabilidad entre plataformas de comercio electrónico, sistemas de inventario y herramientas de marketing digital, optimizando procesos y asegurando coherencia operativa. 
+              p.mb-0 Además, su correcta configuración facilita la interoperabilidad entre plataformas de comercio electrónico, sistemas de inventario y herramientas de <em>marketing</em> digital, optimizando procesos y asegurando coherencia operativa. 
       .col-md-8.col-lg-5.col-xl-3.mb-3.mb-xl-0
         figure
           img(src="@/assets/curso/tema4/32.png", data-aos="zoom-in")

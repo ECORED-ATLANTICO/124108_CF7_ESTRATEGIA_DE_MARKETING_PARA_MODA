@@ -14,7 +14,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema6/1.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Las redes sociales constituyen uno de los principales componentes del marketing digital contemporáneo, debido a su capacidad de generar interacción directa entre marcas y consumidores en tiempo real. Tal como se definió en el capítulo de ecosistemas digitales, estas plataformas hacen parte de la infraestructura estratégica que conecta comunicación, comercio electrónico y posicionamiento de marca. 
+            p.mb-0 Las redes sociales constituyen uno de los principales componentes del <em>marketing</em> digital contemporáneo, debido a su capacidad de generar interacción directa entre marcas y consumidores en tiempo real. Tal como se definió en el capítulo de ecosistemas digitales, estas plataformas hacen parte de la infraestructura estratégica que conecta comunicación, comercio electrónico y posicionamiento de marca. 
         
         .row.justify-content-center.align-items-center.mb-3
           .col-md-8.col-lg-5.col-xl-9.mb-3.mb-xl-0
@@ -51,14 +51,14 @@
             .col-lg-auto.mb-3.mb-lg-0
               img.d-none.d-lg-flex(src="@/assets/curso/tema6/4.svg", style="max-width: 90px").mx-auto
             .col-lg
-              p.mb-0 Otra función relevante corresponde al análisis de comportamiento del consumidor, ya que las plataformas permiten monitorear interacciones, preferencias y comentarios de los usuarios, esta información se convierte en insumo estratégico para la toma de decisiones de marketing y desarrollo de productos. Asimismo, las redes sociales cumplen una función de canal de servicio al cliente, permitiendo resolver consultas de manera inmediata y mejorar la percepción de la marca.
+              p.mb-0 Otra función relevante corresponde al análisis de comportamiento del consumidor, ya que las plataformas permiten monitorear interacciones, preferencias y comentarios de los usuarios, esta información se convierte en insumo estratégico para la toma de decisiones de <em>marketing</em> y desarrollo de productos. Asimismo, las redes sociales cumplen una función de canal de servicio al cliente, permitiendo resolver consultas de manera inmediata y mejorar la percepción de la marca.
     
     .bg-color-1.mb-5.tarjeta.p-4
       .row.align-items-center
         .col-lg-auto.mb-3.mb-lg-0.order-2
           img.d-none.d-lg-flex(src="@/assets/curso/tema6/6.png").mx-auto
         .col-lg.order-1
-          p.mb-0 En el sistema moda, las redes sociales se posicionan como herramientas estratégicas al permitir marketing de influencia, <em>storytelling</em> (contar historias) visual y experiencias interactivas que fortalecen el reconocimiento de marca. La creación de comunidades digitales impulsa la fidelización y proporciona retroalimentación inmediata sobre productos y tendencias, mientras que la analítica social permite medir indicadores como engagement (enganche de las personas con las marcas), alcance y conversiones para optimizar decisiones. 
+          p.mb-0 En el sistema moda, las redes sociales se posicionan como herramientas estratégicas al permitir <em>marketing</em> de influencia, <em>storytelling</em> (contar historias) visual y experiencias interactivas que fortalecen el reconocimiento de marca. La creación de comunidades digitales impulsa la fidelización y proporciona retroalimentación inmediata sobre productos y tendencias, mientras que la analítica social permite medir indicadores como engagement (enganche de las personas con las marcas), alcance y conversiones para optimizar decisiones. 
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-3
@@ -93,7 +93,7 @@
             figure
               img(src="@/assets/curso/tema6/10.png", data-aos="zoom-in")
           .col-lg-8
-            p Los procedimientos en redes sociales corresponden al conjunto de pasos organizados que guían la planificación, publicación, monitoreo y evaluación de contenidos digitales, estos procedimientos garantizan coherencia comunicativa, eficiencia operativa y alineación con los objetivos estratégicos de marketing. En el sistema moda, la estandarización de procedimientos permite coordinar campañas de lanzamiento de colecciones y promociones estacionales de manera estructurada.
+            p Los procedimientos en redes sociales corresponden al conjunto de pasos organizados que guían la planificación, publicación, monitoreo y evaluación de contenidos digitales, estos procedimientos garantizan coherencia comunicativa, eficiencia operativa y alineación con los objetivos estratégicos de <em>marketing</em>. En el sistema moda, la estandarización de procedimientos permite coordinar campañas de lanzamiento de colecciones y promociones estacionales de manera estructurada.
             .bg-color-19.tarjeta.px-5.py-4
               p.mb-0 El procedimiento básico incluye la definición de objetivos de comunicación, la planificación del calendario editorial, la producción de contenidos, la publicación programada y la evaluación de indicadores de desempeño. 
 
@@ -203,7 +203,7 @@
         figure
           img(src="@/assets/curso/tema6/15.png", data-aos="zoom-in")
       .col-lg-8
-        p Los métodos de gestión en redes sociales corresponden a las formas organizadas mediante las cuales las empresas administran la creación, programación, monitoreo y optimización de contenidos, estos métodos permiten estructurar el trabajo del equipo de marketing digital y mejorar la eficiencia de las campañas comunicativas. En el sistema moda, los métodos estratégicos facilitan la coordinación entre diseño, marketing y ventas en la publicación de contenidos promocionales.
+        p Los métodos de gestión en redes sociales corresponden a las formas organizadas mediante las cuales las empresas administran la creación, programación, monitoreo y optimización de contenidos, estos métodos permiten estructurar el trabajo del equipo de <em>marketing</em> digital y mejorar la eficiencia de las campañas comunicativas. En el sistema moda, los métodos estratégicos facilitan la coordinación entre diseño, <em>marketing</em> y ventas en la publicación de contenidos promocionales.
         .bg-color-19.tarjeta.px-5.py-4
           p.mb-0 Entre los principales métodos se encuentran la gestión manual, la gestión programada y la gestión automatizada. La gestión manual se caracteriza por la publicación directa de contenidos en tiempo real; la gestión programada permite planificar publicaciones mediante herramientas digitales; y la gestión automatizada integra sistemas que responden automáticamente a interacciones de usuarios. 
 

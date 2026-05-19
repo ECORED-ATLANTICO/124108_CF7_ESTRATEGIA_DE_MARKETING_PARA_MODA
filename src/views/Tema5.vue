@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 5
-      h1 Marketing digital
+      h1 <em>Marketing</em> digital
     
     .bg-full-width.bg-fondo-2
       .px-4.px-lg-5
@@ -14,9 +14,9 @@
             figure
               img(src="@/assets/curso/tema5/1.png", data-aos="zoom-in")
           .col-lg-8
-            p El marketing digital constituye el conjunto de estrategias, herramientas y procesos orientados a promocionar productos, servicios y marcas mediante canales digitales interconectados. En el sistema moda, su relevancia se ha incrementado debido al cambio en los hábitos de consumo, donde los clientes investigan, comparan y compran a través de internet antes de tomar decisiones de compra.
+            p El <em>marketing</em> digital constituye el conjunto de estrategias, herramientas y procesos orientados a promocionar productos, servicios y marcas mediante canales digitales interconectados. En el sistema moda, su relevancia se ha incrementado debido al cambio en los hábitos de consumo, donde los clientes investigan, comparan y compran a través de internet antes de tomar decisiones de compra.
             .bg-color-16.p-4.tarjeta
-              p.mb-0 El capítulo aborda el concepto, características, técnicas y herramientas del marketing digital, analizando su aplicación práctica en el sistema moda mediante casos empresariales, tablas conceptuales y preguntas de aplicación. El desarrollo busca fortalecer la comprensión estratégica del aprendiz frente al uso de tecnologías digitales en procesos comerciales, posicionamiento de marca y fidelización de clientes.
+              p.mb-0 El capítulo aborda el concepto, características, técnicas y herramientas del <em>marketing</em> digital, analizando su aplicación práctica en el sistema moda mediante casos empresariales, tablas conceptuales y preguntas de aplicación. El desarrollo busca fortalecer la comprensión estratégica del aprendiz frente al uso de tecnologías digitales en procesos comerciales, posicionamiento de marca y fidelización de clientes.
 
         separador
         
@@ -28,14 +28,14 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema5/2.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 El marketing digital se define como el conjunto de estrategias promocionales desarrolladas mediante plataformas digitales con el propósito de atraer, convertir y fidelizar clientes. A diferencia del marketing tradicional, se fundamenta en el uso de datos en tiempo real que permiten segmentar audiencias, personalizar mensajes y evaluar el desempeño de las campañas de manera continua, este enfoque convierte la comunicación empresarial en un proceso interactivo orientado a la experiencia del usuario.
+            p.mb-0 El <em>marketing</em> digital se define como el conjunto de estrategias promocionales desarrolladas mediante plataformas digitales con el propósito de atraer, convertir y fidelizar clientes. A diferencia del <em>marketing</em> tradicional, se fundamenta en el uso de datos en tiempo real que permiten segmentar audiencias, personalizar mensajes y evaluar el desempeño de las campañas de manera continua, este enfoque convierte la comunicación empresarial en un proceso interactivo orientado a la experiencia del usuario.
         
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-4.mb-3.mb-lg-0.order-2
             figure
               img(src="@/assets/curso/tema5/3.png", data-aos="zoom-in")
           .col-lg-8.order-1
-            p En el sistema moda, el marketing digital permite promocionar colecciones mediante redes sociales, comercio electrónico, campañas de correo electrónico y posicionamiento en buscadores. Estas acciones facilitan la visibilidad de la marca y amplían el alcance del mercado sin necesidad de grandes inversiones en medios tradicionales, la capacidad de medición inmediata constituye una de sus principales ventajas estratégicas.
+            p En el sistema moda, el <em>marketing</em> digital permite promocionar colecciones mediante redes sociales, comercio electrónico, campañas de correo electrónico y posicionamiento en buscadores. Estas acciones facilitan la visibilidad de la marca y amplían el alcance del mercado sin necesidad de grandes inversiones en medios tradicionales, la capacidad de medición inmediata constituye una de sus principales ventajas estratégicas.
 
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-10
@@ -44,7 +44,7 @@
                 .col-lg-auto.mb-3.mb-lg-0
                   img.d-none.d-lg-flex(src="@/assets/curso/tema5/4.png").mx-auto
                 .col-lg
-                  p.mb-0  <b>Clave estratégica</b>: las empresas que adoptan estrategias de marketing digital logran mayor eficiencia en la captación de clientes y mejor comprensión de sus preferencias de consumo. 
+                  p.mb-0  <b>Clave estratégica</b>: las empresas que adoptan estrategias de <em>marketing</em> digital logran mayor eficiencia en la captación de clientes y mejor comprensión de sus preferencias de consumo. 
     
     separador
     
@@ -56,40 +56,40 @@
         figure
           img(src="@/assets/curso/tema5/5.png", data-aos="zoom-in")
       .col-lg-8
-        p El marketing digital se caracteriza por la interactividad, la medición en tiempo real, la segmentación avanzada y la automatización de procesos promocionales. La interactividad permite que los consumidores participen activamente mediante comentarios, reseñas y contenido generado por usuarios. 
+        p El <em>marketing</em> digital se caracteriza por la interactividad, la medición en tiempo real, la segmentación avanzada y la automatización de procesos promocionales. La interactividad permite que los consumidores participen activamente mediante comentarios, reseñas y contenido generado por usuarios. 
         .row.align-items-center.bg-color-3.tarjeta.p-4
           .col-lg-auto.mb-3.mb-lg-0
             img.d-lg-flex.d-none(src="@/assets/curso/tema5/9.svg").mx-auto
           .col-lg
-            p.mb-0 La medición en tiempo real facilita evaluar el desempeño de campañas de manera inmediata, permitiendo ajustes estratégicos oportunos. Estas características hacen del marketing digital un sistema dinámico y adaptable.
+            p.mb-0 La medición en tiempo real facilita evaluar el desempeño de campañas de manera inmediata, permitiendo ajustes estratégicos oportunos. Estas características hacen del <em>marketing</em> digital un sistema dinámico y adaptable.
     
     .bg-color-1.mb-5.tarjeta.p-4
       .row.align-items-center
         .col-lg-auto.mb-3.mb-lg-0.order-2
           img.d-none.d-lg-flex(src="@/assets/curso/tema5/6.svg").mx-auto
         .col-lg.order-1
-          p.mb-0 Otra característica relevante es la personalización del mensaje, que permite adaptar contenidos según intereses, comportamientos y preferencias del consumidor, asimismo, la automatización optimiza procesos repetitivos como envíos de correos promocionales, respuestas automatizadas y segmentación de audiencias, estas capacidades mejoran la eficiencia operativa y reducen costos de marketing.
+          p.mb-0 Otra característica relevante es la personalización del mensaje, que permite adaptar contenidos según intereses, comportamientos y preferencias del consumidor, asimismo, la automatización optimiza procesos repetitivos como envíos de correos promocionales, respuestas automatizadas y segmentación de audiencias, estas capacidades mejoran la eficiencia operativa y reducen costos de <em>marketing</em>.
     
     .row.justify-content-center
       .col-lg-10
         .titulo-sexto.color-acento-contenido
           h5 Tabla 6.
-          span Tipos de marketing digital y sus características
+          span Tipos de <em>marketing</em> digital y sus características
         .tabla-a.color-secundario.mb-5.tbl
           table
             caption Nota. SENA, (2026).
             thead
               tr
-                th.bg-color-7 Tipo de marketing digital
+                th.bg-color-7 Tipo de <em>marketing</em> digital
                 th.bg-color-7 Características principales
                 th.bg-color-7 Canal o herramienta común
             tbody
               tr.bg-color-white
-                td <b>Marketing de contenidos.</b>
+                td <b><em>marketing</em> de contenidos.</b>
                 td Ofrece valor educativo o emocional antes de vender.
                 td Blogs, infografías, videos, podcasts.
               tr.bg-color-8
-                td <b>Email marketing.</b>
+                td <b><em>Email marketing.</em></b>
                 td Comunicación directa, automatizada y personalizada.
                 td Plataformas de mailing (mailchimp, etc.)
               tr.bg-color-white
@@ -97,7 +97,7 @@
                 td Compra automatizada de espacios publicitarios por subasta.
                 td Google Ads, Meta Ads.
               tr.bg-color-8
-                td <b>Social media marketing.</b>
+                td <b>Social media <em>marketing</em>.</b>
                 td Promueve la marca a través de redes sociales y comunidades.
                 td Facebook, Instagram, LinkedIn.
               tr.bg-color-white
@@ -105,7 +105,7 @@
                 td Mejora visibilidad orgánica en motores de búsqueda.
                 td Google, Bing, herramientas SEO.
               tr.bg-color-8
-                td <b>Influencer marketing.</b>
+                td <b>Influencer <em>marketing</em>.</b>
                 td Utiliza líderes de opinión digitales para ganar credibilidad.
                 td YouTube, Instagram, TikTok.
     
@@ -129,7 +129,7 @@
           img(src="@/assets/curso/tema5/8.png", data-aos="zoom-in")
 
     .bg-color-16.mb-5.tarjeta.p-4
-      p.mb-0 Esta dinámica se ve impulsada por la innovación tecnológica, que transforma continuamente las posibilidades del marketing digital y exige una actualización permanente de capacidades. En consecuencia, la adaptación estratégica se convierte en un factor clave para fortalecer el posicionamiento competitivo. A su vez, la interacción continua con los clientes mejora la fidelización, consolidando una relación más cercana y duradera donde la experiencia del cliente se posiciona como prioridad estratégica central.
+      p.mb-0 Esta dinámica se ve impulsada por la innovación tecnológica, que transforma continuamente las posibilidades del <em>marketing</em> digital y exige una actualización permanente de capacidades. En consecuencia, la adaptación estratégica se convierte en un factor clave para fortalecer el posicionamiento competitivo. A su vez, la interacción continua con los clientes mejora la fidelización, consolidando una relación más cercana y duradera donde la experiencia del cliente se posiciona como prioridad estratégica central.
   
     separador
     
@@ -142,12 +142,12 @@
         
         .row.justify-content-center.align-items-center.z-2.mb-5
           .col-lg-10(data-aos="fade-up")
-            p.banner-text Las técnicas de marketing digital corresponden a los métodos estratégicos utilizados para posicionar marcas, atraer audiencias y generar conversiones mediante medios digitales. Entre las principales técnicas se encuentran el posicionamiento en buscadores (SEO), la publicidad digital (SEM), el marketing de contenidos y el marketing en redes sociales. Cada técnica cumple funciones específicas dentro de la estrategia integral de comunicación empresarial.
+            p.banner-text Las técnicas de <em>marketing</em> digital corresponden a los métodos estratégicos utilizados para posicionar marcas, atraer audiencias y generar conversiones mediante medios digitales. Entre las principales técnicas se encuentran el posicionamiento en buscadores (SEO), la publicidad digital (SEM), el <em>marketing</em> de contenidos y el <em>marketing</em> en redes sociales. Cada técnica cumple funciones específicas dentro de la estrategia integral de comunicación empresarial.
 
         .titulo-con-imagen.mb-5(data-aos="fade-right")
           .titulo-con-imagen__fondo
             img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
-            h3.titulo-con-imagen__texto Tecnícas de marketing
+            h3.titulo-con-imagen__texto Tecnícas de <em>marketing</em>
 
         .row.mb-5.align-items-center.justify-content-center
           .col-md-8.col-lg-5.mb-3.mb-lg-0
@@ -159,9 +159,9 @@
                 p.ms-5 Se orienta a mejorar la visibilidad orgánica en buscadores mediante optimización de contenidos y estructura web.
               div(titulo="SEM (<em>Search Engine Marketing</em>)")
                 p.ms-5 Utiliza publicidad paga para posicionar anuncios en resultados de búsqueda o plataformas digitales.
-              div(titulo="Marketing de contenidos")
+              div(titulo="<em>marketing</em> de contenidos")
                 p.ms-5 Busca atraer audiencias mediante información relevante.
-              div(titulo="Marketing en redes sociales")
+              div(titulo="<em>marketing</em> en redes sociales")
                 p.ms-5 Fortalece la interacción y la construcción de comunidad.
 
         .row.justify-content-center.align-items-center.mb-5
@@ -195,13 +195,13 @@
               img(src="@/assets/curso/tema5/13.png", data-aos="zoom-in")
           .col-lg-7.col-xl-6
             .bg-color-2.p-4.tarjeta 
-              p.mb-0 Las herramientas de marketing digital corresponden a las plataformas tecnológicas utilizadas para planificar, ejecutar, automatizar y medir campañas promocionales en entornos digitales. Estas herramientas facilitan la gestión de contenidos, la segmentación de audiencias, el análisis de resultados y la administración de relaciones con clientes, su utilización permite optimizar la eficiencia operativa de las estrategias digitales empresariales. 
+              p.mb-0 Las herramientas de <em>marketing</em> digital corresponden a las plataformas tecnológicas utilizadas para planificar, ejecutar, automatizar y medir campañas promocionales en entornos digitales. Estas herramientas facilitan la gestión de contenidos, la segmentación de audiencias, el análisis de resultados y la administración de relaciones con clientes, su utilización permite optimizar la eficiencia operativa de las estrategias digitales empresariales. 
         .bg-color-sintesis.tarjeta.p-4
           .row.align-items-center
             .col-lg-auto.mb-3.mb-lg-0
               img.d-none.d-lg-flex(src="@/assets/curso/tema5/9.svg").mx-auto
             .col-lg
-              p.mb-0 Entre los principales tipos de herramientas se encuentran las plataformas de gestión de redes sociales, herramientas de analítica digital, sistemas de automatización de marketing y plataformas de gestión de clientes (CRM). 
+              p.mb-0 Entre los principales tipos de herramientas se encuentran las plataformas de gestión de redes sociales, herramientas de analítica digital, sistemas de automatización de <em>marketing</em> y plataformas de gestión de clientes (CRM). 
       .col-md-8.col-lg-5.col-xl-3.mb-3.mb-xl-0
         figure
           img(src="@/assets/curso/tema5/14.png", data-aos="zoom-in")
@@ -229,7 +229,7 @@
                 td Medición de tráfico, comportamiento del usuario y tasas de conversión en el sitio web.
                 td Una tienda online detecta que muchas visitas abandonan el carrito en el paso de pago y optimiza ese proceso, reduciendo fricciones y aumentando ventas.
               tr.bg-color-white
-                td <b>Automatización de marketing.</b>
+                td <b>Automatización de <em>marketing</em>.</b>
                 td Programación y ejecución automática de campañas digitales según comportamiento del usuario.
                 td Si un cliente visualiza varias veces una chaqueta sin comprarla, el sistema envía automáticamente un correo con descuento personalizado para incentivar la conversión.
               tr.bg-color-8

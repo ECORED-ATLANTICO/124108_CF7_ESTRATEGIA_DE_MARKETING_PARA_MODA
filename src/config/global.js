@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Estrategias de mercadeo digital y comercio electrónico',
     Description:
-      'El componente presenta los fundamentos del marketing aplicado al Sistema Moda, integrando planeación estratégica, comercio electrónico, ecosistemas digitales, marketing digital y gestión de redes sociales. Su propósito es desarrollar capacidades para analizar mercados, formular estrategias comerciales y gestionar herramientas digitales, mediante enfoques conceptuales, casos empresariales y ejercicios aplicados orientados a contextos reales.',
+      'El componente presenta los fundamentos del <em>marketing</em> aplicado al Sistema Moda, integrando planeación estratégica, comercio electrónico, ecosistemas digitales, <em>marketing</em> digital y gestión de redes sociales. Su propósito es desarrollar capacidades para analizar mercados, formular estrategias comerciales y gestionar herramientas digitales, mediante enfoques conceptuales, casos empresariales y ejercicios aplicados orientados a contextos reales.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -40,7 +40,11 @@ export default {
           { numero: '1.3', titulo: 'Consumidores', hash: 't_1_3' },
           { numero: '1.4', titulo: 'Análisis de competidores', hash: 't_1_4' },
           { numero: '1.5', titulo: 'Mezcla de mercadeo', hash: 't_1_5' },
-          { numero: '1.6', titulo: 'Marketing digital', hash: 't_1_6' },
+          {
+            numero: '1.6',
+            titulo: '<em>Marketing</em> digital',
+            hash: 't_1_6',
+          },
           { numero: '1.7', titulo: '<em>Email marketing</em>', hash: 't_1_7' },
           { numero: '1.8', titulo: 'Estrategia digital', hash: 't_1_8' },
           { numero: '1.9', titulo: 'Mercadeo de moda', hash: 't_1_9' },
@@ -97,7 +101,7 @@ export default {
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Marketing digital',
+        titulo: '<em>marketing</em> digital',
         desarrolloContenidos: true,
         subMenu: [
           { numero: '5.1', titulo: 'Concepto', hash: 't_5_1' },

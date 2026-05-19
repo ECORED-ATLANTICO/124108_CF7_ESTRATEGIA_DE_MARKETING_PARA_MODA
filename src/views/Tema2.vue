@@ -14,7 +14,7 @@
             figure
               img(src="@/assets/curso/tema2/1.png", data-aos="zoom-in")
           .col-lg-8
-            p(data-aos="fade-right") La planeación estratégica constituye el fundamento estructural de toda acción de marketing en el sistema moda. En un entorno caracterizado por cambios acelerados en tendencias, comportamientos de consumo y dinámicas digitales, la improvisación empresarial representa un alto riesgo competitivo. 
+            p(data-aos="fade-right") La planeación estratégica constituye el fundamento estructural de toda acción de <em>marketing</em> en el sistema moda. En un entorno caracterizado por cambios acelerados en tendencias, comportamientos de consumo y dinámicas digitales, la improvisación empresarial representa un alto riesgo competitivo. 
             .bg-color-10.tarjeta.p-4.mb-3
               .row.align-items-center
                 .col-lg-auto.mb-3.mb-lg-0
@@ -39,7 +39,7 @@
             figure
               img(src="@/assets/curso/tema2/4.png", data-aos="zoom-in")
           .col-lg-8
-            p En el ámbito del marketing, este proceso exige analizar previamente el entorno, la competencia y el comportamiento del consumidor antes de ejecutar acciones comerciales, garantizando decisiones fundamentadas y no improvisadas. 
+            p En el ámbito del <em>marketing</em>, este proceso exige analizar previamente el entorno, la competencia y el comportamiento del consumidor antes de ejecutar acciones comerciales, garantizando decisiones fundamentadas y no improvisadas. 
             .row.align-items-center.bg-color-3.p-4
               .col-lg-auto.mb-3.mb-lg-0
                 img.d-lg-flex.d-none(src="@/assets/curso/tema2/5.svg").mx-auto
