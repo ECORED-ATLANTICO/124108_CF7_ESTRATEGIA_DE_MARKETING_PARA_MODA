@@ -7,7 +7,7 @@
         span 5
       h1 Marketing digital
     
-    .bg-full-width.bg-fondo-1
+    .bg-full-width.bg-fondo-2
       .px-4.px-lg-5
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-4.mb-3.mb-lg-0
@@ -136,7 +136,7 @@
     #t_5_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 5.3 Técnicas
     
-    .bg-full-width.bg-fondo-1
+    .bg-full-width.bg-fondo-2
       .px-4.px-lg-5
         img(src="@/assets/curso/tema5/10.png", alt="Imagen decorativa")
         
@@ -245,7 +245,7 @@
     #t_5_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 5.5 Tipos de estrategias digitales
     
-    .bg-full-width.bg-fondo-1
+    .bg-full-width.bg-fondo-2
       .px-4.px-lg-5
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-4.mb-3.mb-lg-0
@@ -263,7 +263,7 @@
               span Tipos de estrategias digitales
             img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema5/16.png", alt="la figura presenta los cuatro tipos de estrategias digitales.")
             img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema5/16-1.png", alt="la figura presenta los cuatro tipos de estrategias digitales.")
-            figcaption <strong>Fuente:</strong> SENA, 2026
+            figcaption Fuente: SENA, 2026
         
         .row.justify-content-center.align-items-center.mb-3
           .col-lg-10(data-aos="fade-up")
@@ -348,7 +348,7 @@
     #t_5_7.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 5.7 Estrategia de marca
     
-    .bg-full-width.bg-fondo-1
+    .bg-full-width.bg-fondo-2
       .px-4.px-lg-5
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-4.mb-3

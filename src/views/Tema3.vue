@@ -79,7 +79,7 @@
               span Tipos de comercio electrónico
             img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema3/8.png", alt="la figura muestra los principales tipos de comercio electrónico.")
             img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/8-1.png", alt="la figura muestra los principales tipos de comercio electrónico.")
-            figcaption <strong>Fuente:</strong> SENA, 2026
+            figcaption Fuente:SENA, 2026
 
         p.mb-5 La elección del modelo depende de la estrategia empresarial. Cada tipo implica dinámicas operativas diferentes.
 

@@ -239,7 +239,7 @@
               h5 Figura 4.
               span Tipos de plataformas digitales
             img(data-aos="fade-up", src="@/assets/curso/tema4/16.png", alt="La figura muestra los diferentes tipos de plataformas digitales.")
-            figcaption <strong>Fuente:</strong> SENA, 2026
+            figcaption Fuente: SENA, 2026
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-3.mb-lg-0
