@@ -21,7 +21,7 @@
           .col-md-8.col-lg-5.col-xl-4.mb-3.mb-xl-0
             figure
               img(src="@/assets/curso/intro/2.png", data-aos="zoom-in")
-          .col-lg-7.col-xl-5.mb-3.mb-lg-0
+          .col-lg-7.col-xl-5.mb-3.mb-xl-0
             .bg-color-2.p-4.tarjeta 
               p.mb-0 Su desarrollo fortalece la capacidad del aprendiz para analizar mercados, formular estrategias comerciales y utilizar herramientas tecnológicas de manera estratégica. Los contenidos se abordarán mediante explicaciones conceptuales, análisis de casos empresariales del sector moda, ejercicios aplicados y ejemplos prácticos que faciliten la transferencia del conocimiento hacia contextos reales de desempeño organizacional.
           .col-md-8.col-lg-5.col-xl-3.mb-3.mb-xl-0

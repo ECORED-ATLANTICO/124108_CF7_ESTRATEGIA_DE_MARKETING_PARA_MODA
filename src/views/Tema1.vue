@@ -61,8 +61,8 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 Las estrategias de mercadeo pueden clasificarse en tres tipos asi: crecimiento, competitivas y de posicionamiento; en moda, la diferenciación suele basarse en diseño y marca, la elección estratégica depende del contexto competitivo, donde la coherencia estratégica es determinante.
 
-        .row.mb-5
-          .col-md-6.col-xl.mb-4.mb-xl-0
+        .row.mb-5.justify-content-center
+          .col-md-6.col-xl-4.mb-4.mb-xl-0
             //- .tarjeta-numerada debe ir acompañado de una de una de estas clases => 
             //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
             //- estas clases tambien tienen un modificador --borde
@@ -73,7 +73,7 @@
                 b Crecimiento 
               p.text-center Incluyen penetración, desarrollo de mercado y diversificación.
 
-          .col-md-6.col-xl.mb-4.mb-xl-0
+          .col-md-6.col-xl-4.mb-4.mb-xl-0
             //- .tarjeta-numerada debe ir acompañado de una de una de estas clases => 
             //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
             //- estas clases tambien tienen un modificador --borde
@@ -84,7 +84,7 @@
                 b Competitivas 
               p.text-center Se orientan a liderazgo en costos o diferenciación.
 
-          .col-md-6.col-xl.mb-4.mb-xl-0
+          .col-md-6.col-xl-4.mb-4.mb-xl-0
             //- .tarjeta-numerada debe ir acompañado de una de una de estas clases => 
             //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
             //- estas clases tambien tienen un modificador --borde
@@ -96,16 +96,16 @@
               p.text-center Buscan ocupar un lugar claro en la mente del consumidor.
 
         .row.justify-content-center.align-items-center.mb-5
-          .col-lg-10.mb-3
-            .bg-color-6.mb-5.p-4.tarjeta
+          .col-lg-10
+            .bg-color-6.p-4.tarjeta
               .row.align-items-center
-                .col-lg-auto.mb-3.mb-lg-0
+                .col-lg-auto.mb-lg-0
                   img.d-none.d-lg-flex(src="@/assets/curso/tema1/6.svg").mx-auto
                 .col-lg
                   p.mb-0 <b>Ejemplo aplicado</b>. Nike aplica diferenciación basada en innovación y propósito, en contraste, marcas <em>fast fashion</em> aplican penetración de mercado mediante precios accesibles. En Colombia, Tennis combina posicionamiento juvenil con identidad nacional. 
         
         .row.mb-5.justify-content-center.align-items-center
-          .col-lg-3.mb-3.mb-lg-0
+          .col-md-8.col-lg-3.mb-3.mb-lg-0
             figure
               img(src="@/assets/curso/tema1/7.png", data-aos="zoom-in")
           .col-lg-9
@@ -115,7 +115,7 @@
               .col-lg-10.mb-3
                 .bg-color-6.p-4.tarjeta
                   .row.align-items-center
-                    .col-lg-auto.mb-3.mb-lg-0
+                    .col-lg-auto.mb-lg-0
                       img.d-none.d-lg-flex(src="@/assets/curso/tema1/8.png").mx-auto
                     .col-lg
                       p.mb-0  <b><em>Insight</em></b>. La estrategia define el rumbo; la táctica ejecuta el camino.
@@ -125,28 +125,32 @@
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.3 Consumidores
     
-    .row.justify-content-center.align-items-center.mb-5
-      .col-md-8.col-lg-5.col-xl-9.mb-3.mb-xl-0
-        .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3
+      .col-xl-9.mb-3.mb-xl-0
+        .row.justify-content-center.align-items-center
           .col-md-8.col-lg-5.col-xl-6.mb-3.mb-xl-0
             figure
               img(src="@/assets/curso/tema1/9.png", data-aos="zoom-in")
-          .col-lg-7.col-xl-6
+          .col-lg-7.col-xl-6.mb-3
             .bg-color-2.p-4.tarjeta 
               p.mb-0 El consumidor es el eje del mercadeo contemporáneo, especialmente en el sistema moda donde la identidad simbólica influye en la decisión de compra. El análisis del consumidor permite identificar motivaciones, comportamientos y preferencias, conllevando a definir las personalidades de compra o buyer personas, los cuales representan perfiles semi ficticios basados en datos reales. Estos perfiles integran variables demográficas, psicográficas y digitales, comprenderlos facilita diseñar mensajes relevantes, con segmentos bien definidos, lo que permite optimizar recursos publicitarios. 
-        .bg-color-sintesis.tarjeta.p-4
-          .row.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
-              img.d-none.d-lg-flex(src="@/assets/curso/tema1/11.svg").mx-auto
-            .col-lg
-              p.mb-0 En el entorno digital, la trazabilidad de datos fortalece el análisis conductual, lo que ayuda a una personalización de los posibles clientes, para sacar una ventaja competitiva.
-      .col-md-8.col-lg-5.col-xl-3.mb-3.mb-xl-0
+          
+          .bg-color-sintesis.tarjeta.p-4
+            .row.align-items-center
+              .col-lg-auto.mb-3.mb-lg-0
+                img.d-none.d-lg-flex(src="@/assets/curso/tema1/11.svg").mx-auto
+              .col-lg
+                p.mb-0 En el entorno digital, la trazabilidad de datos fortalece el análisis conductual, lo que ayuda a una personalización de los posibles clientes, para sacar una ventaja competitiva.
+        
+      .col-md-8.col-lg-4.col-xl-3.mb-3.mb-xl-0
         figure
           img(src="@/assets/curso/tema1/10.png", data-aos="zoom-in")
     
+    
+    
     .bg-color-1.mb-5.tarjeta.p-4
       .row.justify-content-center.align-items-center
-        .col-lg-2.mb-3.mb-lg-0
+        .col-md-6.col-lg-2.mb-3.mb-lg-0
           figure
             img(src="@/assets/curso/tema1/12.png", data-aos="zoom-in")
         .col-lg-8
@@ -201,10 +205,10 @@
         p.mb-0(data-aos="fade-right") El análisis de competidores permite identificar fortalezas, debilidades y estrategias presentes en el entorno empresarial, constituyéndose en una herramienta fundamental para la toma de decisiones estratégicas. Este proceso incluye prácticas como el benchmarking, el monitoreo de precios y la evaluación del posicionamiento de marca, lo que facilita una comprensión estructurada del mercado. Al entender cómo actúan los competidores, las organizaciones pueden detectar oportunidades reales de diferenciación y evitar decisiones basadas en suposiciones. 
     
     .row.justify-content-center.align-items-center.mb-3
-      .col-lg-3.mb-3.order-2
+      .col-md-8.col-lg-3.mb-3.order-2
         figure
           img(src="@/assets/curso/tema1/15.png", data-aos="zoom-in")
-      .col-lg-9.order-1
+      .col-lg-9.order-1.mb-3.mb-lg-0
         .bg-color-1.tarjeta.p-4
           .row.align-items-center
             .col-lg-auto.mb-3.mb-lg-0
@@ -306,7 +310,7 @@
       h2 1.7 <em>Email marketing</em>
     
     .row.justify-content-center.align-items-center.mb-3
-      .col-lg-3.mb-3.mb-lg-0
+      .col-md-6.col-lg-3.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema1/25.png", data-aos="zoom-in")
       .col-lg-9
@@ -318,7 +322,7 @@
           .col-lg-12.mb-3
             .bg-color-1.p-3.tarjeta
               .row.align-items-center
-                .col-lg-auto.mb-3.mb-lg-0
+                .col-lg-auto.mb-lg-0
                   img.d-none.d-lg-flex(src="@/assets/curso/tema1/8.png").mx-auto
                 .col-lg
                   p.mb-0  <b><em>Insight</em></b>. El valor del correo está en la relevancia del contenido.
@@ -389,10 +393,10 @@
     .bg-full-width.bg-fondo-2
       .px-4.px-lg-5
         .row.justify-content-center.align-items-center.mb-5
-          .col-md-8.col-lg-5.col-xl-4.mb-3.mb-xl-0
+          .col-md-8.col-lg-6.col-xl-4.mb-3.mb-xl-0
             figure
               img(src="@/assets/curso/tema1/32.png", data-aos="zoom-in")
-          .col-lg-5.col-xl-5
+          .col-lg-6.col-xl-5
             .bg-color-2.p-4.tarjeta 
               p.mb-0 Por ello, las campañas deben reflejar con coherencia la identidad conceptual de cada colección, asegurando consistencia entre diseño, comunicación y ambientación. La innovación tecnológica, a través de experiencias inmersivas y recursos interactivos, amplía las posibilidades de conexión emocional. Dado que el consumidor de moda busca significado y no solo funcionalidad, el <em>marketing</em> asume un enfoque estratégico y cultural, traduciendo tendencias en propuestas comerciales con valor simbólico.
           .col-md-8.col-lg-5.col-xl-3.mb-3.mb-xl-0
@@ -430,7 +434,7 @@
           .col-lg-8
             .bg-color-1.p-4.tarjeta
               .row.align-items-center
-                .col-lg-auto.mb-3.mb-lg-0
+                .col-lg-auto.mb-lg-0
                   img.d-none.d-lg-flex(src="@/assets/curso/tema1/34.svg").mx-auto
                 .col-lg
                   h5.mb-0 Cita de reflexión

@@ -30,7 +30,7 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 El <em>marketing</em> digital se define como el conjunto de estrategias promocionales desarrolladas mediante plataformas digitales con el propósito de atraer, convertir y fidelizar clientes. A diferencia del <em>marketing</em> tradicional, se fundamenta en el uso de datos en tiempo real que permiten segmentar audiencias, personalizar mensajes y evaluar el desempeño de las campañas de manera continua, este enfoque convierte la comunicación empresarial en un proceso interactivo orientado a la experiencia del usuario.
         
-        .row.justify-content-center.align-items-center.mb-5
+        .row.justify-content-center.align-items-center.mb-3
           .col-lg-4.mb-3.mb-lg-0.order-2
             figure
               img(src="@/assets/curso/tema5/3.png", data-aos="zoom-in")
@@ -41,7 +41,7 @@
           .col-lg-10
             .bg-color-3.p-4.tarjeta
               .row.align-items-center
-                .col-lg-auto.mb-3.mb-lg-0
+                .col-lg-auto.mb-lg-0
                   img.d-none.d-lg-flex(src="@/assets/curso/tema5/4.png").mx-auto
                 .col-lg
                   p.mb-0  <b>Clave estratégica</b>: las empresas que adoptan estrategias de <em>marketing</em> digital logran mayor eficiencia en la captación de clientes y mejor comprensión de sus preferencias de consumo. 
@@ -58,7 +58,7 @@
       .col-lg-8
         p El <em>marketing</em> digital se caracteriza por la interactividad, la medición en tiempo real, la segmentación avanzada y la automatización de procesos promocionales. La interactividad permite que los consumidores participen activamente mediante comentarios, reseñas y contenido generado por usuarios. 
         .row.align-items-center.bg-color-3.tarjeta.p-4
-          .col-lg-auto.mb-3.mb-lg-0
+          .col-lg-auto.mb-lg-0
             img.d-lg-flex.d-none(src="@/assets/curso/tema5/9.svg").mx-auto
           .col-lg
             p.mb-0 La medición en tiempo real facilita evaluar el desempeño de campañas de manera inmediata, permitiendo ajustes estratégicos oportunos. Estas características hacen del <em>marketing</em> digital un sistema dinámico y adaptable.
@@ -110,7 +110,7 @@
                 td YouTube, Instagram, TikTok.
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-md-8.col-lg-5.col-xl-9.mb-3.mb-xl-0
+      .col-xl-9.mb-3.mb-xl-0
         .row.justify-content-center.align-items-center.mb-3
           .col-md-8.col-lg-5.col-xl-6.mb-3.mb-xl-0
             figure
@@ -124,7 +124,7 @@
               img.d-none.d-lg-flex(src="@/assets/curso/tema5/9.svg").mx-auto
             .col-lg
               p.mb-0 Gracias a la capacidad de analizar datos en tiempo real, pueden anticipar demandas del mercado, ajustar inventarios y estructurar estrategias comerciales más efectivas, reduciendo la improvisación y aumentando la probabilidad de conversión. 
-      .col-md-8.col-lg-5.col-xl-3.mb-3.mb-xl-0
+      .col-md-8.col-lg-4.col-xl-3.mb-3.mb-xl-0
         figure
           img(src="@/assets/curso/tema5/8.png", data-aos="zoom-in")
 
@@ -165,10 +165,10 @@
                 p.ms-5 Fortalece la interacción y la construcción de comunidad.
 
         .row.justify-content-center.align-items-center.mb-5
-          .col-lg-3.mb-3.mb-lg-0.order-2
+          .col-md-6.col-lg-3.order-2
             figure
               img(src="@/assets/curso/tema5/12.png", data-aos="zoom-in")
-          .col-lg-9.order-1
+          .col-lg-9.order-1.mb-3.mb-lg-0
             p En el sistema moda, las empresas articulan contenido visual atractivo, campañas pagas en redes sociales y estrategias de posicionamiento en buscadores para ampliar el alcance de sus colecciones y captar audiencias segmentadas. Esta combinación coordinada de técnicas digitales no solo incrementa la visibilidad de marca, sino que impacta directamente en el rendimiento comercial al atraer tráfico calificado y estimular la conversión. Sin embargo, para que estas acciones generen resultados sostenibles, es indispensable una planificación estratégica que permita seleccionar la técnica más adecuada según los objetivos empresariales, el público meta y la etapa del ciclo de producto. A partir de ello, la medición constante de indicadores facilita la optimización continua de las campañas, ajustando presupuestos y mensajes según el desempeño observado.
             .bg-color-16.p-4.tarjeta
               p.mb-0 En este entorno dinámico, la innovación digital impulsa la aparición de nuevas técnicas promocionales, mientras que la creatividad se consolida como el elemento diferenciador que fortalece la competitividad y posiciona a la marca en un mercado altamente visual y cambiante.
@@ -177,7 +177,7 @@
       .col-lg-8
         .bg-color-3.p-4.tarjeta
           .row.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-lg-0
               img.d-none.d-lg-flex(src="@/assets/curso/tema5/4.png").mx-auto
             .col-lg
               p.mb-0  <b>Clave estratégica</b>. La integración de varias técnicas digitales genera mejores resultados que el uso aislado de una sola.
@@ -188,7 +188,7 @@
       h2 5.4 Tipos de herramientas
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-md-8.col-lg-5.col-xl-9.mb-3.mb-xl-0
+      .col-xl-9.mb-3.mb-xl-0
         .row.justify-content-center.align-items-center.mb-3
           .col-md-8.col-lg-5.col-xl-6.mb-3.mb-xl-0
             figure
@@ -202,7 +202,7 @@
               img.d-none.d-lg-flex(src="@/assets/curso/tema5/9.svg").mx-auto
             .col-lg
               p.mb-0 Entre los principales tipos de herramientas se encuentran las plataformas de gestión de redes sociales, herramientas de analítica digital, sistemas de automatización de <em>marketing</em> y plataformas de gestión de clientes (CRM). 
-      .col-md-8.col-lg-5.col-xl-3.mb-3.mb-xl-0
+      .col-md-8.col-lg-4.col-xl-3.mb-3.mb-xl-0
         figure
           img(src="@/assets/curso/tema5/14.png", data-aos="zoom-in")
     
@@ -257,7 +257,7 @@
               p.mb-0 Entre los principales tipos de estrategias digitales se encuentran la estrategia de atracción (<em>inbound marketing</em>), la estrategia de conversión, la estrategia de fidelización y la estrategia de posicionamiento de marca. 
 
         .row.justify-content-center.align-items-center.z-2.mb-5
-          .col-lg-8
+          .col-lg-10.col-xl-8
             .titulo-sexto.color-acento-contenido.mb-4
               h5 Figura 6.
               span Tipos de estrategias digitales
@@ -286,9 +286,9 @@
         figure
           img(src="@/assets/curso/tema5/17.png", data-aos="zoom-in")
       .col-lg-6
-        .bg-color-1.tarjeta.p-2
+        .bg-color-1.tarjeta.p-3.p-lg-2
           .row.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-lg-0
               img.d-none.d-lg-flex(src="@/assets/curso/tema5/18.png").mx-auto
             .col-lg
               h5.mb-0 Pregunta de aplicación
@@ -322,7 +322,7 @@
                     i.fas.fa-file-download
     
     .row.justify-content-center.align-items-center.mb-3
-      .col-md-8.col-lg-5.col-xl-9.mb-3.mb-xl-0
+      .col-xl-9.mb-3.mb-xl-0
         .row.justify-content-center.align-items-center.mb-3
           .col-md-8.col-lg-5.col-xl-6.mb-3.mb-xl-0
             figure
@@ -336,7 +336,7 @@
               img.d-none.d-lg-flex(src="@/assets/curso/tema5/9.svg").mx-auto
             .col-lg
               p.mb-0 Cuando el arquetipo se mantiene consistente en todos los puntos de contacto, se fortalece la recordación de marca y se facilita la fidelización del consumidor, ya que la audiencia identifica patrones emocionales y simbólicos claros. Esta coherencia narrativa mejora la conexión emocional, permitiendo que la marca trascienda la simple transacción comercial y construya vínculos más profundos. 
-      .col-md-8.col-lg-5.col-xl-3.mb-3.mb-xl-0
+      .col-md-6.col-lg-4.col-xl-3.mb-3.mb-xl-0
         figure
           img(src="@/assets/curso/tema5/22.png", data-aos="zoom-in")
     
@@ -453,7 +453,7 @@
                 td Optimiza inversión publicitaria en tiempo real y aumenta precisión en segmentación.
     
     .row.justify-content-center.align-items-center.mb-3
-      .col-md-8.col-lg-5.col-xl-9.mb-3.mb-xl-0
+      .col-xl-9.mb-3.mb-xl-0
         .row.justify-content-center.align-items-center.mb-3
           .col-md-8.col-lg-5.col-xl-6.mb-3.mb-xl-0
             figure
@@ -467,7 +467,7 @@
               img.d-none.d-lg-flex(src="@/assets/curso/tema5/9.svg").mx-auto
             .col-lg
               p.mb-0 Como consecuencia, se mejora el retorno de inversión al reducir la dispersión del presupuesto y concentrarlo en públicos con mayor probabilidad de conversión. A su vez, la medición constante de resultados facilita la optimización de campañas en tiempo real, ajustando creatividades, segmentaciones o presupuestos según el desempeño observado.  
-      .col-md-8.col-lg-5.col-xl-3.mb-3.mb-xl-0
+      .col-md-8.col-lg-4.col-xl-3.mb-3.mb-xl-0
         figure
           img(src="@/assets/curso/tema5/27.png", data-aos="zoom-in")
     

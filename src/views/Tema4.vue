@@ -17,7 +17,7 @@
             p.mb-0 El ecosistema digital representa la articulación estratégica de plataformas, tecnologías, procesos y usuarios que interactúan de manera permanente dentro del entorno digital empresarial. Su comprensión resulta esencial para las organizaciones del sistema moda, debido a que las decisiones de <em>marketing</em>, ventas, comunicación y servicio al cliente dependen cada vez más de la integración tecnológica. En este contexto, la competitividad empresarial no se determina únicamente por la calidad del producto, sino por la eficiencia de su presencia digital.
 
         .row.justify-content-center.align-items-center.mb-5
-          .col-md-8.col-lg-5.col-xl-9.mb-3.mb-xl-0
+          .col-xl-9.mb-3.mb-xl-0
             .row.justify-content-center.align-items-center.mb-3
               .col-md-8.col-lg-5.col-xl-6.mb-3.mb-xl-0
                 figure
@@ -31,7 +31,7 @@
                   img.d-none.d-lg-flex(src="@/assets/curso/tema4/4.svg").mx-auto
                 .col-lg
                   p.mb-0 El desarrollo se presenta mediante casos empresariales, tablas conceptuales y preguntas de aplicación que permiten contextualizar los aprendizajes en escenarios reales del sistema moda.
-          .col-md-8.col-lg-5.col-xl-3.mb-3.mb-xl-0
+          .col-md-8.col-lg-4.col-xl-3.mb-3.mb-xl-0
             figure
               img(src="@/assets/curso/tema4/3.png", data-aos="zoom-in")
 
@@ -128,43 +128,43 @@
                     th.bg-color-7 Aterrizaje al sistema moda
                 tbody
                   tr.bg-color-white
-                    td <b><em>API Economy</em></b>
+                    td <b><em>API Economy.</em></b>
                     td Modelo económico basado en la integración de servicios digitales mediante APIs.
                     td Permite integrar la tienda online con pasarelas de pago, logística, CRM y marketplaces como Mercado Libre o Amazon sin perder coherencia operativa.
                   tr.bg-color-8
-                    td <b>Automatización Inteligente</b>
+                    td <b>Automatización Inteligente.</b>
                     td Uso combinado de inteligencia artificial y automatización de procesos.
                     td Automatiza respuestas en Instagram, envíos de email <em>marketing</em> y recomendaciones de prendas según historial de compra.
                   tr.bg-color-white
-                    td <b><em>Blockchain</em></b>
+                    td <b><em>Blockchain.</em></b>
                     td Tecnología de registro descentralizado y seguro.
                     td Facilita certificación de autenticidad en prendas de lujo o sostenibles y trazabilidad en cadenas de suministro.
                   tr.bg-color-8
-                    td <b>CDP (<em>Customer Data Platform</em>)</b>
+                    td <b>CDP (<em>Customer Data Platform</em>).</b>
                     td Plataforma que centraliza datos del cliente en tiempo real.
                     td Unifica datos de compras online, interacción en redes y visitas web para personalizar lanzamientos de colecciones.
                   tr.bg-color-white
-                    td <b><em>Composable Commerce</em></b>
+                    td <b><em>Composable Commerce.</em></b>
                     td Modelo modular de comercio digital basado en componentes flexibles.
                     td Permite construir una tienda virtual adaptable según temporada, integrando módulos para preventas o drops exclusivos.
                   tr.bg-color-8
-                    td <b><em>Creator Economy</em></b>
+                    td <b><em>Creator Economy.</em></b>
                     td Ecosistema económico basado en creadores de contenido digital.
                     td Colaboraciones con influencers que lanzan cápsulas de colección o realizan live shopping.
                   tr.bg-color-white
-                    td <b><em>Data Governance</em></b>
+                    td <b><em>Data Governance.</em></b>
                     td Gestión estratégica de calidad, seguridad y uso de datos.
                     td Garantiza cumplimiento de la Ley de Protección de Datos y uso responsable de información de clientes.
                   tr.bg-color-8
-                    td <b><em>Headless Commerce</em></b>
+                    td <b><em>Headless Commerce.</em></b>
                     td Separación entre frontend y backend en e-commerce.
                     td Permite mostrar la colección en web, app y redes sociales con experiencias visuales distintas pero mismo sistema operativo interno.
                   tr.bg-color-white
-                    td <b>Omnicanalidad</b>
+                    td <b>Omnicanalidad.</b>
                     td Integración coherente de todos los canales de contacto.
                     td Cliente puede ver la prenda en Instagram, comprar en la web y recoger en tienda física sin fricciones.
                   tr.bg-color-8
-                    td <b>Web3</b>
+                    td <b>Web3.</b>
                     td Nueva generación de internet basada en descentralización y blockchain.
                     td Posibilidad de lanzar NFTs asociados a colecciones exclusivas o comunidades digitales de marca.
     
@@ -172,7 +172,7 @@
       .col-lg-8
         .bg-color-3.p-4.tarjeta
           .row.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-lg-0
               img.d-none.d-lg-flex(src="@/assets/curso/tema4/4.svg").mx-auto
             .col-lg
               p.mb-0  <b>Clave estratégica</b>. Las empresas deben capacitar a sus equipos de <em>marketing</em> constantemente para estar a la vanguardia de la terminología tecnológica aplicada al mercadeo.
@@ -199,7 +199,7 @@
       h2 4.5 Redes sociales
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-md-8.col-lg-5.col-xl-9.mb-3.mb-xl-0
+      .col-xl-9.mb-3.mb-xl-0
         .row.justify-content-center.align-items-center.mb-3
           .col-md-8.col-lg-5.col-xl-5.mb-3.mb-xl-0
             figure
@@ -213,7 +213,7 @@
               img.d-none.d-lg-flex(src="@/assets/curso/tema4/4.svg").mx-auto
             .col-lg
               p.mb-0 Según Coiera (2013) las redes sociales son medios de comunicación, diferentes a los tradicionales, ya que utilizan un conjunto de tecnologías, con el fin de crear espacios virtuales para que los usuarios puedan interactuar entre sí. en el capítulo cinco (6), de la presente guía, se trabajará de forma ampliada esta temática. 
-      .col-md-8.col-lg-5.col-xl-3.mb-3.mb-xl-0
+      .col-md-8.col-lg-4.col-xl-3.mb-3.mb-xl-0
         figure
           img(src="@/assets/curso/tema4/14.png", data-aos="zoom-in")
 
@@ -250,13 +250,13 @@
           p.mb-0 Cada categoría presenta características técnicas relacionadas con almacenamiento de datos, integraciones API (<em>Application Programming Interface</em>-Interfaz de Programación de Aplicaciones- conjunto de reglas y protocolos que permite que dos sistemas o aplicaciones diferentes se comuniquen entre sí sin que el usuario tenga que intervenir.), seguridad informática y automatización, la elección depende de la etapa de madurez digital de la empresa, así mismo su integración mejora la eficiencia operativa, además de permitir una visión integral del cliente.
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4.mb-3.mb-lg-0.order-2
+      .col-lg-4.order-2
         figure
           img(src="@/assets/curso/tema4/19.png", data-aos="zoom-in")
-      .col-lg-6.order-1
-        .bg-color-1.tarjeta.p-2
+      .col-lg-6.order-1.mb-3.mb-lg-0
+        .bg-color-1.tarjeta.p-3.p-lg-2
           .row.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-lg-0
               img.d-none.d-lg-flex(src="@/assets/curso/tema4/18.png").mx-auto
             .col-lg
               h5.mb-0 Pregunta de aplicación
@@ -284,26 +284,26 @@
         TabsB.color-acento-contenido.mb-5
           .py-4.py-md-5(titulo="<em>Marketing</em>" :icono="require('@/assets/componentes/2.svg')")
             .row.justify-content-center.align-items-center.p-4.p-lg-0
-              .col-lg-7.mb-4.mb-lg-0.order-2
+              .col-lg-7.order-2
                 h4 <em>Marketing</em>
                 p Facilitan la gestión de campañas publicitarias, programación de contenidos y monitoreo de engagement; su característica principal es la optimización comunicacional.
-              .col-lg-4.order-1
+              .col-lg-4.order-1.mb-4.mb-lg-0
                 figure
                   img(src='@/assets/curso/tema4/21.png', alt='alt')
           .py-4.py-md-5(titulo="Analítica" :icono="require('@/assets/componentes/3.svg')")
             .row.justify-content-center.align-items-center.p-4.p-lg-0
-              .col-lg-7.mb-4.mb-lg-0.order-2
+              .col-lg-7.order-2
                 h4 Analítica
                 p Permiten medir indicadores de rendimiento, analizar tendencias de mercado y evaluar el comportamiento del consumidor, destacándose por su enfoque en datos.
-              .col-lg-4.order-1
+              .col-lg-4.order-1.mb-4.mb-lg-0
                 figure
                   img(src='@/assets/curso/tema4/22.png', alt='alt')
           .py-4.py-md-5(titulo="Productividad" :icono="require('@/assets/componentes/4.svg')")
             .row.justify-content-center.align-items-center.p-4.p-lg-0
-              .col-lg-7.mb-4.mb-lg-0.order-2
+              .col-lg-7.order-2
                 h4 Productividad
                 p Mejoran la organización del trabajo mediante gestión de proyectos, almacenamiento en la nube y automatización de tareas.
-              .col-lg-4.order-1
+              .col-lg-4.order-1.mb-4.mb-lg-0
                 figure
                   img(src='@/assets/curso/tema4/23.png', alt='alt')
 
@@ -388,7 +388,7 @@
             p.mb-0 Permiten el envío estructurado de archivos entre sistemas informáticos, garantizando la integridad de la información.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-md-8.col-lg-5.col-xl-9.mb-3.mb-xl-0
+      .col-xl-9.mb-3.mb-xl-0
         .row.justify-content-center.align-items-center.mb-3
           .col-md-8.col-lg-5.col-xl-5.mb-3.mb-xl-0
             figure
@@ -402,13 +402,13 @@
               img.d-none.d-lg-flex(src="@/assets/curso/tema4/4.svg").mx-auto
             .col-lg
               p.mb-0 Además, su correcta configuración facilita la interoperabilidad entre plataformas de comercio electrónico, sistemas de inventario y herramientas de <em>marketing</em> digital, optimizando procesos y asegurando coherencia operativa. 
-      .col-md-8.col-lg-5.col-xl-3.mb-3.mb-xl-0
+      .col-md-8.col-lg-4.col-xl-3.mb-3.mb-xl-0
         figure
           img(src="@/assets/curso/tema4/32.png", data-aos="zoom-in")
     
     .bg-color-1.mb-5.tarjeta.p-4
       .row.justify-content-center.align-items-center
-        .col-lg-2.mb-3.mb-lg-0
+        .col-md-6.col-lg-2.mb-3.mb-lg-0
           figure
             img(src="@/assets/curso/tema4/4.png", data-aos="zoom-in")
         .col-lg-8
@@ -440,7 +440,7 @@
         .bg-full-width.bg-fondo-3.mb-5
           .px-4.px-md-5
             .row.justify-content-center.align-items-center
-              .col-lg-8.order-lg-2
+              .col-xl-8.order-lg-2
                 SlyderF(columnas="col-12 col-lg-6").p-4
                   .bg-color-white.p-4.h-100.box-shadow
                     img(src='@/assets/curso/tema4/34.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
@@ -509,7 +509,7 @@
     
     .bg-color-1.mb-5.tarjeta.p-4
       .row.justify-content-center.align-items-center
-        .col-lg-2.mb-3.mb-lg-0
+        .col-md-6.col-lg-2.mb-3.mb-lg-0
           figure
             img(src="@/assets/curso/tema4/4.png", data-aos="zoom-in")
         .col-lg-8
@@ -524,7 +524,7 @@
     .bg-full-width.bg-fondo-1
       .px-4.px-lg-5
         .row.justify-content-center.align-items-center.mb-3
-          .col-lg-3.mb-3.mb-lg-0
+          .col-md-6.col-lg-3.mb-3.mb-lg-0
             figure
               img(src="@/assets/curso/tema4/41.png", data-aos="zoom-in")
           .col-lg-9
@@ -539,15 +539,15 @@
                   p.mb-0 En las empresas del sistema moda, la omnicanalidad permite sincronizar inventarios de tiendas físicas y virtuales, ofreciendo disponibilidad en tiempo real al consumidor, esto, facilita campañas promocionales que integran redes sociales, comercio electrónico y tiendas presenciales. 
 
         .row.justify-content-center.align-items-center.mb-5
-          .col-lg-4.mb-3.mb-lg-0.order-2
+          .col-lg-4.order-2
             figure
               img(src="@/assets/curso/tema4/43.png", data-aos="zoom-in")
-          .col-lg-8.order-1
+          .col-lg-8.order-1.mb-3.mb-lg-0
             .bg-color-16.tarjeta.p-3.mb-3
-               p <b><em>Insight</em></b>: Las organizaciones que implementan estrategias omnicanal logran mayor retención de clientes y aumento en la frecuencia de compra.
+               p.mb-0 <b><em>Insight</em></b>: Las organizaciones que implementan estrategias omnicanal logran mayor retención de clientes y aumento en la frecuencia de compra.
             .bg-color-1.tarjeta.p-3
               .row.align-items-center
-                .col-lg-auto.mb-3.mb-lg-0
+                .col-lg-auto.mb-lg-0
                   img.d-none.d-lg-flex(src="@/assets/curso/tema4/18.png").mx-auto
                 .col-lg
                   h5.mb-0 Pregunta de aplicación
@@ -559,7 +559,7 @@
       h2 4.12 Marco legal
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-md-8.col-lg-5.col-xl-9.mb-3.mb-xl-0
+      .col-xl-9.mb-3.mb-xl-0
         .row.justify-content-center.align-items-center.mb-3
           .col-md-8.col-lg-5.col-xl-5.mb-3.mb-xl-0
             figure
@@ -573,7 +573,7 @@
               img.d-none.d-lg-flex(src="@/assets/curso/tema4/4.png").mx-auto
             .col-lg
               p.mb-0 Las empresas que operan en ecosistemas digitales deben cumplir las normativas relacionadas con comercio electrónico, habeas data, propiedad intelectual y protección del consumidor, el desconocimiento de estas regulaciones puede generar sanciones económicas y pérdida de reputación corporativa, de allí que la actualización permanente en legislación digital sea fundamental para la gestión empresarial, esto, fortalece la seguridad jurídica de las operaciones comerciales. 
-      .col-md-8.col-lg-5.col-xl-3.mb-3.mb-xl-0
+      .col-md-8.col-lg-4.col-xl-3.mb-3.mb-xl-0
         figure
           img(src="@/assets/curso/tema4/45.png", data-aos="zoom-in")
     
@@ -583,7 +583,7 @@
           .col-lg-8
             .bg-color-3.p-4.tarjeta
               .row.align-items-center
-                .col-lg-auto.mb-3.mb-lg-0
+                .col-lg-auto.mb-lg-0
                   img.d-none.d-lg-flex(src="@/assets/curso/tema4/4.svg").mx-auto
                 .col-lg
                   p.mb-0  <b>Clave estratégica.</b>  El cumplimiento normativo se convierte en factor competitivo. La responsabilidad digital empresarial exige vigilancia normativa constante.
@@ -651,7 +651,7 @@
         .bg-color-2.p-4.tarjeta.mb-3
           p.mb-0 En el sistema moda, el cumplimiento del marco legal permite desarrollar estrategias digitales seguras, proteger datos de clientes y operar plataformas de comercio electrónico conforme a la legislación vigente, asimismo, fortalece la reputación empresarial al garantizar transparencia en la gestión de información personal y transacciones comerciales. Las empresas que integran la gestión legal dentro de su estrategia digital reducen riesgos operativos y sanciones regulatorias. 
         .row.align-items-center.bg-color-1.p-3.tarjeta
-          .col-lg-auto.mb-3.mb-lg-0
+          .col-lg-auto.mb-lg-0
             img.d-lg-flex.d-none(src="@/assets/curso/tema4/47.png").mx-auto
           .col-lg
             h5.mb-0 Cita de reflexión

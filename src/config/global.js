@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Estrategias de mercadeo digital y comercio electrónico',
     Description:
-      'El componente presenta los fundamentos del <em>marketing</em> aplicado al Sistema Moda, integrando planeación estratégica, comercio electrónico, ecosistemas digitales, <em>marketing</em> digital y gestión de redes sociales. Su propósito es desarrollar capacidades para analizar mercados, formular estrategias comerciales y gestionar herramientas digitales, mediante enfoques conceptuales, casos empresariales y ejercicios aplicados orientados a contextos reales.',
+      'El componente presenta los fundamentos del <em>marketing</em> aplicado al sistema moda, integrando planeación estratégica, comercio electrónico, ecosistemas digitales, <em>marketing</em> digital y gestión de redes sociales. Su propósito es desarrollar capacidades para analizar mercados, formular estrategias comerciales y gestionar herramientas digitales, mediante enfoques conceptuales, casos empresariales y ejercicios aplicados orientados a contextos reales.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -101,7 +101,7 @@ export default {
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: '<em>marketing</em> digital',
+        titulo: '<em>Marketing</em> digital',
         desarrolloContenidos: true,
         subMenu: [
           { numero: '5.1', titulo: 'Concepto', hash: 't_5_1' },

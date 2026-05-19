@@ -17,7 +17,7 @@
             p.mb-0 Las redes sociales constituyen uno de los principales componentes del <em>marketing</em> digital contemporáneo, debido a su capacidad de generar interacción directa entre marcas y consumidores en tiempo real. Tal como se definió en el capítulo de ecosistemas digitales, estas plataformas hacen parte de la infraestructura estratégica que conecta comunicación, comercio electrónico y posicionamiento de marca. 
         
         .row.justify-content-center.align-items-center.mb-3
-          .col-md-8.col-lg-5.col-xl-9.mb-3.mb-xl-0
+          .col-xl-9.mb-3.mb-xl-0
             .row.justify-content-center.align-items-center.mb-3
               .col-md-8.col-lg-5.col-xl-6.mb-3.mb-xl-0
                 figure
@@ -31,7 +31,7 @@
                   img.d-none.d-lg-flex(src="@/assets/curso/tema6/4.svg").mx-auto
                 .col-lg
                   p.mb-0 El capítulo desarrolla los elementos operativos de la gestión estratégica de redes sociales, abordando sus funciones, procedimientos, expresiones comunicativas y métodos de operación mediante ejemplos empresariales, tablas conceptuales y preguntas de aplicación que facilitan la contextualización en el sistema moda. 
-          .col-md-8.col-lg-5.col-xl-3.mb-3.mb-xl-0
+          .col-md-8.col-lg-4.col-xl-3.mb-3.mb-xl-0
             figure
               img(src="@/assets/curso/tema6/3.png", data-aos="zoom-in")
 
@@ -48,14 +48,14 @@
         p Las redes sociales cumplen funciones estratégicas de comunicación, posicionamiento de marca, atención al cliente, investigación de mercado y promoción comercial, estas funciones permiten a las organizaciones interactuar con sus audiencias de manera directa, generando relaciones más cercanas y dinámicas que las obtenidas mediante medios tradicionales. 
         .bg-color-1.mb-5.tarjeta.p-4
           .row.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-lg-0
               img.d-none.d-lg-flex(src="@/assets/curso/tema6/4.svg", style="max-width: 90px").mx-auto
             .col-lg
               p.mb-0 Otra función relevante corresponde al análisis de comportamiento del consumidor, ya que las plataformas permiten monitorear interacciones, preferencias y comentarios de los usuarios, esta información se convierte en insumo estratégico para la toma de decisiones de <em>marketing</em> y desarrollo de productos. Asimismo, las redes sociales cumplen una función de canal de servicio al cliente, permitiendo resolver consultas de manera inmediata y mejorar la percepción de la marca.
     
     .bg-color-1.mb-5.tarjeta.p-4
       .row.align-items-center
-        .col-lg-auto.mb-3.mb-lg-0.order-2
+        .col-lg-auto.mb-lg-0.order-2
           img.d-none.d-lg-flex(src="@/assets/curso/tema6/6.png").mx-auto
         .col-lg.order-1
           p.mb-0 En el sistema moda, las redes sociales se posicionan como herramientas estratégicas al permitir <em>marketing</em> de influencia, <em>storytelling</em> (contar historias) visual y experiencias interactivas que fortalecen el reconocimiento de marca. La creación de comunidades digitales impulsa la fidelización y proporciona retroalimentación inmediata sobre productos y tendencias, mientras que la analítica social permite medir indicadores como engagement (enganche de las personas con las marcas), alcance y conversiones para optimizar decisiones. 
@@ -69,13 +69,13 @@
           p.mb-0 Además, posibilitan probar micro campañas con menor riesgo antes de realizar inversiones mayores, su integración con plataformas de comercio electrónico facilita compras directas desde publicaciones o transmisiones en vivo, reduciendo complicaciones en el proceso de compra. No obstante, su efectividad depende de una gestión profesional que incluya planificación editorial, automatización y monitoreo de reputación, consolidándolas como activos estratégicos de crecimiento empresarial.
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4.mb-3.mb-lg-0.order-2
+      .col-lg-4.order-2
         figure
           img(src="@/assets/curso/tema6/9.png", data-aos="zoom-in")
-      .col-lg-6.order-1
-        .bg-color-1.tarjeta.p-2
+      .col-lg-6.order-1.mb-3.mb-lg-0
+        .bg-color-1.tarjeta.p-3.p-lg-2
           .row.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-lg-0
               img.d-none.d-lg-flex(src="@/assets/curso/tema6/8.png").mx-auto
             .col-lg
               h5.mb-0 Pregunta de aplicación
@@ -107,7 +107,7 @@
             figcaption Fuente: SENA, 2026  
     
     .row.justify-content-center
-      .col-lg-10
+      .col-xl-10
         .bg-color-1.mb-5.tarjeta.p-4
           .row.align-items-center
             .col-lg-auto.mb-3.mb-lg-0
@@ -188,7 +188,7 @@
           .col-lg-8
             .bg-color-3.p-4.tarjeta
               .row.align-items-center
-                .col-lg-auto.mb-3.mb-lg-0
+                .col-lg-auto.mb-lg-0
                   img.d-none.d-lg-flex(src="@/assets/curso/tema6/14.png").mx-auto
                 .col-lg
                   p.mb-0  <b>Clave estratégica</b>. La coherencia del tono comunicativo fortalece la identidad digital de la marca.
@@ -208,13 +208,13 @@
           p.mb-0 Entre los principales métodos se encuentran la gestión manual, la gestión programada y la gestión automatizada. La gestión manual se caracteriza por la publicación directa de contenidos en tiempo real; la gestión programada permite planificar publicaciones mediante herramientas digitales; y la gestión automatizada integra sistemas que responden automáticamente a interacciones de usuarios. 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4.mb-3.mb-lg-0.order-2
+      .col-lg-4.order-2
         figure
           img(src="@/assets/curso/tema6/16.png", data-aos="zoom-in")
-      .col-lg-6.order-1
-        .bg-color-1.tarjeta.p-2
+      .col-lg-6.order-1.mb-3.mb-lg-0
+        .bg-color-1.tarjeta.p-3.p-lg-2
           .row.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-lg-0
               img.d-none.d-lg-flex(src="@/assets/curso/tema6/8.png").mx-auto
             .col-lg
               h5.mb-0 Pregunta de aplicación
@@ -274,7 +274,7 @@
       .col-lg-8
         .bg-color-3.p-4.tarjeta
           .row.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-lg-0
               img.d-none.d-lg-flex(src="@/assets/curso/tema6/14.png").mx-auto
             .col-lg
               p.mb-0  <b>Clave estratégica</b>. El análisis constante del comportamiento de la audiencia permite optimizar técnicas de publicación.
@@ -285,7 +285,7 @@
       h2 6.6 Pauta digital
     
     .row.justify-content-center.align-items-center.mb-3
-      .col-md-8.col-lg-5.col-xl-9.mb-3.mb-xl-0
+      .col-xl-9.mb-3.mb-xl-0
         .row.justify-content-center.align-items-center.mb-3
           .col-md-8.col-lg-5.col-xl-6.mb-3.mb-xl-0
             figure
@@ -299,7 +299,7 @@
               img.d-none.d-lg-flex(src="@/assets/curso/tema6/4.svg").mx-auto
             .col-lg
               p.mb-0 A diferencia del alcance orgánico, la pauta digital permite dirigir mensajes específicos a públicos definidos mediante criterios demográficos, geográficos y comportamentales. En el sistema moda, esta estrategia es clave para el lanzamiento de colecciones y campañas estacionales.
-      .col-md-8.col-lg-5.col-xl-3.mb-3.mb-xl-0
+      .col-md-8.col-lg-4.col-xl-3.mb-3.mb-xl-0
         figure
           img(src="@/assets/curso/tema6/23.png", data-aos="zoom-in")
     
@@ -337,7 +337,7 @@
           p.mb-0 En el sistema moda, los <em>hashtags</em> facilitan la difusión de tendencias, campañas y eventos promocionales, pueden clasificarse en hashtags de marca, de campaña y de tendencia; los de marca identifican a la empresa y fortalecen su posicionamiento, los de campaña se utilizan temporalmente para promociones específicas, y los de tendencia permiten vincular contenidos a temas populares en el entorno digital. 
     
     .row.justify-content-center
-      .col-lg-10
+      .col-xl-10
         .bg-color-1.mb-5.tarjeta.p-4
           .row.align-items-center
             .col-lg-auto.mb-3.mb-lg-0.order-2

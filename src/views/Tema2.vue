@@ -142,10 +142,11 @@
       .col-lg-8
         p En el sistema moda, el análisis situacional puede incluir estudio de tendencias globales y comportamiento digital. La formulación estratégica orienta metas comerciales por temporada. La implementación involucra diseño, producción y comunicación digital. El control evalúa ventas y percepción de marca. 
         .row.align-items-center.bg-color-1.p-3.tarjeta
-          .col-lg-auto.mb-3.mb-lg-0
+          .col-lg-auto.mb-lg-0
             img.d-lg-flex.d-none(src="@/assets/curso/tema2/12.png").mx-auto
           .col-lg
             p.mb-0 <b><em>Insight</em></b>. El seguimiento convierte la planeación en aprendizaje continuo.
+        
     
     separador
     
@@ -183,7 +184,7 @@
           .col-lg-8(data-aos="fade-up")
             .bg-color-3.mb-5.tarjeta.p-4
               .row.align-items-center
-                .col-lg-auto.mb-3.mb-lg-0
+                .col-lg-auto.mb-lg-0
                   img.d-none.d-lg-flex(src="@/assets/curso/tema2/5.svg").mx-auto
                 .col-lg
                   h5.mb-0 Cita de reflexión

@@ -40,7 +40,7 @@
             p.mb-0 El comercio electrónico puede definirse como el conjunto de transacciones comerciales de bienes y servicios realizadas mediante medios digitales, principalmente a través de internet (Laudon & Traver, 2022), lo que permite una interacción directa entre empresa y consumidor sin limitaciones geográficas ni restricciones de horario. 
         
     .row.justify-content-center.align-items-center.mb-5
-      .col-md-8.col-lg-5.col-xl-9.mb-3.mb-xl-0
+      .col-xl-9.mb-3.mb-xl-0
         .row.justify-content-center.align-items-center.mb-3
           .col-md-8.col-lg-5.col-xl-6.mb-3.mb-xl-0
             figure
@@ -54,7 +54,7 @@
               img.d-none.d-lg-flex(src="@/assets/curso/tema3/3.svg").mx-auto
             .col-lg
               p.mb-0 Las tiendas virtuales operan como vitrinas digitales permanentes, mientras que su integración con sistemas logísticos asegura procesos eficientes de distribución, en consecuencia, el comercio electrónico transforma la experiencia de compra tradicional y su crecimiento responde al avance sostenido de la digitalización global.
-      .col-md-8.col-lg-5.col-xl-3.mb-3.mb-xl-0
+      .col-md-8.col-lg-4.col-xl-3.mb-3.mb-xl-0
         figure
           img(src="@/assets/curso/tema3/6.png", data-aos="zoom-in")
     
@@ -85,7 +85,7 @@
 
     .bg-color-4.mb-5.tarjeta.p-3
       .row.justify-content-center.align-items-center
-        .col-lg-2.mb-3.mb-lg-0
+        .col-6.col-md-4.col-lg-2.mb-3.mb-lg-0
           figure
             img(src="@/assets/curso/tema3/9.png", data-aos="zoom-in")
         .col-lg-10
@@ -97,7 +97,7 @@
           img(src="@/assets/curso/tema3/10.png", data-aos="zoom-in")
       .col-lg-8
         p Comprender los tipos de comercio electrónico no es un ejercicio teórico aislado, sino un insumo clave para la toma de decisiones estratégicas. Cuando una empresa identifica con claridad si le conviene operar bajo un modelo B2C, B2B, C2C o incluso híbrido, puede alinear esa elección con sus objetivos comerciales, ya sea expansión de mercado, posicionamiento de marca o incremento en rentabilidad. A partir de este análisis estratégico, se define el modelo más conveniente según el público objetivo, la propuesta de valor y la capacidad operativa.
-        .bg-color-9.tarjeta.p-4.mb-5
+        .bg-color-9.tarjeta.p-4
           p.mb-0 En la práctica, muchas empresas consolidadas no se limitan a una sola modalidad, sino que operan en múltiples esquemas de manera simultánea. La digitalización ha facilitado esta convergencia de modelos, permitiendo integrar canales físicos y virtuales, <em>marketplaces</em> y tiendas propias en un ecosistema omnicanal, esta integración fortalece la cobertura de mercado, amplía el alcance geográfico y diversifica las fuentes de ingreso.
     
     separador
@@ -193,7 +193,7 @@
       .col-lg-8
         .bg-color-3.p-4.tarjeta
           .row.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-lg-0
               img.d-none.d-lg-flex(src="@/assets/curso/tema3/3.svg").mx-auto
             .col-lg
               h5.mb-0 Cita de reflexión
