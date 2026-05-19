@@ -282,8 +282,8 @@
             .titulo-sexto.color-acento-contenido.mb-4
               h5 Figura 1.
               span Elementos de la mezcla de <em>marketing</em>
-            img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/22.png", alt="la figura muestra los elementos de la mezcla del <em>marketing</em>, como lo son las 4P.")
-            img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/22-1.png", alt="la figura muestra los elementos de la mezcla del <em>marketing</em>, como lo son las 4P.")
+            img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/22.png", alt="La figura muestra la mezcla de marketing o 4P, integrada por cuatro elementos principales: Producto, relacionado con la oferta al consumidor; Precio, que define el valor económico; Plaza, enfocada en los canales de distribución; y Promoción, encargada de informar y persuadir al consumidor. Todos estos componentes se integran para apoyar las estrategias comerciales de la empres ")
+            img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/22-1.png", alt="La figura muestra la mezcla de marketing o 4P, integrada por cuatro elementos principales: Producto, relacionado con la oferta al consumidor; Precio, que define el valor económico; Plaza, enfocada en los canales de distribución; y Promoción, encargada de informar y persuadir al consumidor. Todos estos componentes se integran para apoyar las estrategias comerciales de la empres ")
             figcaption Fuente: SENA, 2026
 
     .bg-color-1.mb-5.tarjeta.p-4

@@ -100,10 +100,10 @@
         .row.justify-content-center.align-items-center.z-2.mb-5
           .col-lg-8
             .titulo-sexto.color-acento-contenido.mb-4
-              h5 Figura 5.
+              h5 Figura 6.
               span Ruta de procedimientos en redes sociales
-            img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema6/11.svg", alt="la figura muestra lo correspondiente a la ruta de procedimientos en redes sociales.")
-            img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema6/11-1.svg", alt="la figura muestra lo correspondiente a la ruta de procedimientos en redes sociales.")
+            img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema6/11.svg", alt="La figura muestra la ruta de procedimiento en redes sociales ; la cual presenta un proceso estratégico compuesto por varias etapas: inicia con el diagnóstico digital y la definición de objetivos, seguido de la segmentación de audiencia y la planificación de contenidos. Luego continúa con la producción y publicación de contenido, el monitoreo y gestión de comunidad, la medición y análisis de resultados, y finaliza con la optimización continua basada en datos para mejorar el desempeño estratégico.")
+            img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema6/11-1.svg", alt="La figura muestra la ruta de procedimiento en redes sociales ; la cual presenta un proceso estratégico compuesto por varias etapas: inicia con el diagnóstico digital y la definición de objetivos, seguido de la segmentación de audiencia y la planificación de contenidos. Luego continúa con la producción y publicación de contenido, el monitoreo y gestión de comunidad, la medición y análisis de resultados, y finaliza con la optimización continua basada en datos para mejorar el desempeño estratégico.")
             figcaption Fuente: SENA, 2026  
     
     .row.justify-content-center
