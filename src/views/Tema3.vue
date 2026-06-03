@@ -133,7 +133,7 @@
                   img(src="@/assets/curso/tema3/13.png", alt="alt")
               .crd_hover_txt--body
                 h4.mb-3 WooCommerce
-                p.mb-0 por su parte, permite una integración natural con sitios desarrollados en WordPress, ofreciendo flexibilidad para negocios que ya cuentan con presencia web y desean ampliar sus funcionalidades comerciales. 
+                p.mb-0 Por su parte, permite una integración natural con sitios desarrollados en WordPress, ofreciendo flexibilidad para negocios que ya cuentan con presencia web y desean ampliar sus funcionalidades comerciales. 
         
           .col-xl-4.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
             .crd_hover_txt(data-aos="flip-left").tarjeta

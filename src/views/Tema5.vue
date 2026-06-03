@@ -85,13 +85,13 @@
                 th.bg-color-7 Canal o herramienta común
             tbody
               tr.bg-color-white
-                td <b><em>marketing</em> de contenidos.</b>
+                td <b><em>Marketing</em> de contenidos.</b>
                 td Ofrece valor educativo o emocional antes de vender.
                 td Blogs, infografías, videos, podcasts.
               tr.bg-color-8
                 td <b><em>Email marketing.</em></b>
                 td Comunicación directa, automatizada y personalizada.
-                td Plataformas de mailing (mailchimp, etc.)
+                td Plataformas de <em>mailing</em> (<em>Mailchimp</em>, etc.)
               tr.bg-color-white
                 td <b>Publicidad programática.</b>
                 td Compra automatizada de espacios publicitarios por subasta.
@@ -147,7 +147,7 @@
         .titulo-con-imagen.mb-5(data-aos="fade-right")
           .titulo-con-imagen__fondo
             img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
-            h3.titulo-con-imagen__texto Tecnícas de <em>marketing</em>
+            h3.titulo-con-imagen__texto Técnicas de <em>Marketing</em>
 
         .row.mb-5.align-items-center.justify-content-center
           .col-md-8.col-lg-5.mb-3.mb-lg-0
@@ -227,7 +227,7 @@
               tr.bg-color-8
                 td <b>Analítica web.</b>
                 td Medición de tráfico, comportamiento del usuario y tasas de conversión en el sitio web.
-                td Una tienda online detecta que muchas visitas abandonan el carrito en el paso de pago y optimiza ese proceso, reduciendo fricciones y aumentando ventas.
+                td Una tienda <em>online</em> detecta que muchas visitas abandonan el carrito en el paso de pago y optimiza ese proceso, reduciendo fricciones y aumentando ventas.
               tr.bg-color-white
                 td <b>Automatización de <em>marketing</em>.</b>
                 td Programación y ejecución automática de campañas digitales según comportamiento del usuario.
@@ -235,7 +235,7 @@
               tr.bg-color-8
                 td <b>Gestión de redes sociales.</b>
                 td Programación, monitoreo y análisis de publicaciones en plataformas sociales.
-                td Una marca programa el lanzamiento de su nueva colección con contenidos coordinados en Instagram, TikTok y Facebook, midiendo engagement y ajustando mensajes según interacción.
+                td Una marca programa el lanzamiento de su nueva colección con contenidos coordinados en Instagram, TikTok y Facebook, midiendo <em>engagement</em> y ajustando mensajes según interacción.
     
     .bg-color-16.p-4.tarjeta
       p.mb-0 Las empresas del sistema moda utilizan herramientas de analítica para evaluar el comportamiento de los consumidores, plataformas de automatización para enviar campañas segmentadas y sistemas CRM para fortalecer la fidelización, la integración tecnológica de herramientas mejora la eficiencia comercial y la toma de decisiones basada en datos.
@@ -315,7 +315,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Tipos de arquetipos
-                  p.mb-0 Te invitamos a ver el siguiente video educativo, donde podrás profundizar en la temática. Este contenido de Edutin Academy explica los arquetipos publicitarios y cómo ayudan a crear historias coherentes que conectan emocionalmente con el público.
+                  p.mb-0 Te invitamos a consultar el siguiente video educativo, donde podrás profundizar en la temática. Este contenido de Edutin Academy explica los arquetipos publicitarios y cómo ayudan a crear historias coherentes que conectan emocionalmente con el público.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://youtu.be/tdEv-yO1Uvg?si=W4kmv5psirpUbjwd " target="_blank")
                     span Ir al video
@@ -357,7 +357,7 @@
           .col-lg-8
             p La estrategia de marca corresponde al conjunto de decisiones orientadas a construir una identidad diferenciada, reconocible y coherente en el mercado. En entornos digitales, esta estrategia se manifiesta mediante el diseño visual, el tono comunicativo, la propuesta de valor y la experiencia del cliente en todos los canales digitales. En el sistema moda, la estrategia de marca determina la percepción del consumidor frente a las colecciones y la propuesta estética de la empresa.
             .bg-color-10.px-5.py-4.tarjeta
-              p.mb-0 Una estrategia de marca digital incluye elementos como branding visual, storytelling, coherencia de contenidos y posicionamiento en plataformas digitales. El branding visual define la identidad gráfica; el <em>storytelling</em> construye narrativas que conectan emocionalmente con el consumidor; la coherencia de contenidos asegura uniformidad comunicativa; y el posicionamiento digital fortalece la visibilidad de la marca. Estos componentes permiten consolidar una identidad corporativa sólida.
+              p.mb-0 Una estrategia de marca digital incluye elementos como <em>branding</em> visual, <em>storytelling</em>, coherencia de contenidos y posicionamiento en plataformas digitales. El <em>branding</em> visual define la identidad gráfica; el <em>storytelling</em> construye narrativas que conectan emocionalmente con el consumidor; la coherencia de contenidos asegura uniformidad comunicativa; y el posicionamiento digital fortalece la visibilidad de la marca. Estos componentes permiten consolidar una identidad corporativa sólida.
     
         .row.justify-content-center
           .col-lg-12
@@ -387,7 +387,7 @@
                   tr.bg-color-white
                     td <b>Coherencia de contenidos.</b>
                     td Uniformidad en tono, mensaje y estilo comunicativo en todos los canales digitales.
-                    td Una marca elegante mantiene lenguaje sofisticado y estética minimalista tanto en Instagram como en su tienda online y campañas publicitarias.
+                    td Una marca elegante mantiene lenguaje sofisticado y estética minimalista tanto en Instagram como en su tienda <em>online</em> y campañas publicitarias.
                     td Consolida credibilidad, profesionalismo y consistencia comunicativa.
                   tr.bg-color-8
                     td <b>Posicionamiento digital.</b>
@@ -434,7 +434,7 @@
               tr.bg-color-white
                 td <b>Publicidad en buscadores (SEM).</b>
                 td Posiciona anuncios pagados según palabras clave ingresadas por los usuarios en motores de búsqueda.
-                td Una marca de ropa deportiva invierte en Google Ads para aparecer cuando alguien busca “leggings deportivos mujer” o “ropa fitness Bogotá”.
+                td Una marca de ropa deportiva invierte en Google Ads para aparecer cuando alguien busca “<em>leggings</em> deportivos mujer” o “ropa <em>fitness</em> Bogotá”.
                 td Atrae tráfico con alta intención de compra y aumenta conversiones directas.
               tr.bg-color-8
                 td <b>Publicidad en redes sociales.</b>

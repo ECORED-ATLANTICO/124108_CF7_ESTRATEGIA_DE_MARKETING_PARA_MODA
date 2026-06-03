@@ -50,7 +50,7 @@
     separador
     
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 1.2 Tipos de Estrategias
+      h2 1.2 Tipos de estrategias
     
     .bg-full-width.bg-fondo-2
       .px-4.px-lg-5
@@ -109,7 +109,7 @@
             figure
               img(src="@/assets/curso/tema1/7.png", data-aos="zoom-in")
           .col-lg-9
-            p.mb-3(data-aos="fade-right") Cada estrategia implica decisiones en producto, precio y comunicación, no existe una estrategia universal, su selección requiere análisis interno y externo, al tener en cuenta el entorno digital, se debe pensar que esto amplifica la competencia y la posibilidad de una mayor penetración en el mercado, ya que las estrategias digitales permiten microsegmentación precisa, sin embargo, la esta penetración exige claridad conceptual, ya que una estrategia mal definida genera dispersión de recursos. El aprendiz debe evaluar capacidades empresariales. La estrategia es dirección, no improvisación.
+            p.mb-3(data-aos="fade-right") Cada estrategia implica decisiones en producto, precio y comunicación, no existe una estrategia universal, su selección requiere análisis interno y externo, al tener en cuenta el entorno digital, se debe pensar que esto amplifica la competencia y la posibilidad de una mayor penetración en el mercado, ya que las estrategias digitales permiten microsegmentación precisa, sin embargo, esta penetración exige claridad conceptual, ya que una estrategia mal definida genera dispersión de recursos. El aprendiz debe evaluar capacidades empresariales. La estrategia es dirección, no improvisación.
         
             .row.justify-content-center.align-items-center
               .col-lg-10.mb-3
@@ -133,7 +133,7 @@
               img(src="@/assets/curso/tema1/9.png", data-aos="zoom-in")
           .col-lg-7.col-xl-6.mb-3
             .bg-color-2.p-4.tarjeta 
-              p.mb-0 El consumidor es el eje del mercadeo contemporáneo, especialmente en el sistema moda donde la identidad simbólica influye en la decisión de compra. El análisis del consumidor permite identificar motivaciones, comportamientos y preferencias, conllevando a definir las personalidades de compra o buyer personas, los cuales representan perfiles semi ficticios basados en datos reales. Estos perfiles integran variables demográficas, psicográficas y digitales, comprenderlos facilita diseñar mensajes relevantes, con segmentos bien definidos, lo que permite optimizar recursos publicitarios. 
+              p.mb-0 El consumidor es el eje del mercadeo contemporáneo, especialmente en el sistema moda donde la identidad simbólica influye en la decisión de compra. El análisis del consumidor permite identificar motivaciones, comportamientos y preferencias, conllevando a definir las personalidades de compra o <em>buyer</em> personas, los cuales representan perfiles semi ficticios basados en datos reales. Estos perfiles integran variables demográficas, psicográficas y digitales, comprenderlos facilita diseñar mensajes relevantes, con segmentos bien definidos, lo que permite optimizar recursos publicitarios. 
           
           .bg-color-sintesis.tarjeta.p-4
             .row.align-items-center
@@ -182,7 +182,7 @@
                   tr.bg-color-white
                     td <b>Aspiracional.</b>
                     td Busca estatus simbólico y reconocimiento social. Se deja influenciar por tendencias, celebridades e influencers. Valora la exclusividad, el diseño diferencial y la identidad de marca. Está dispuesto a pagar más por percepción de prestigio. Alta sensibilidad a la imagen y reputación digital.
-                    td Moda premium, colecciones limitadas, colaboraciones con diseñadores o figuras públicas, storytelling de marca, campañas visuales de alto impacto y presencia fuerte en redes sociales aspiracionales.
+                    td Moda <em>premium</em>, colecciones limitadas, colaboraciones con diseñadores o figuras públicas, <em>storytelling</em> de marca, campañas visuales de alto impacto y presencia fuerte en redes sociales aspiracionales.
                   tr.bg-color-8
                     td <b>Funcional.</b>
                     td Prioriza utilidad, comodidad y durabilidad. Evalúa la relación costo beneficio. Toma decisiones racionales basadas en calidad y practicidad. Busca soluciones específicas a necesidades concretas. Menor influencia de tendencias pasajeras.
@@ -190,7 +190,7 @@
                   tr.bg-color-white
                     td <b>Consciente.</b>
                     td Valora sostenibilidad, ética empresarial y transparencia. Investiga procesos productivos y origen de materiales. Prefiere marcas con responsabilidad social y ambiental. Se inclina por consumo responsable y compra reflexiva.
-                    td Moda ecológica, slow fashion, materiales reciclados u orgánicos. Comunicación basada en impacto ambiental positivo, certificaciones, trazabilidad y narrativa de propósito social.
+                    td Moda ecológica, <em>slow fashion</em>, materiales reciclados u orgánicos. Comunicación basada en impacto ambiental positivo, certificaciones, trazabilidad y narrativa de propósito social.
     
     separador
     
@@ -229,7 +229,7 @@
             img(src='@/assets/curso/tema1/01.svg' alt='')
           .tarjeta.tarjeta--azul
             .p-2
-              p.mb-0.me-5 <b><em>Benchmarking</em></b>: Comparación estratégica. Mejora procesos.
+              p.mb-0.me-5 <b><em>Benchmarking</em></b>: comparación estratégica. Mejora procesos.
           img.position-absolute.pst-1(src='@/assets/curso/tema1/17.svg', style="max-width: 101px" alt='')
 
         .tarjeta-avatar-b.align-items-center.mb-3.position-relative(data-aos="fade-down")
@@ -237,7 +237,7 @@
             img(src='@/assets/curso/tema1/02.svg' alt='')
           .tarjeta.tarjeta--azul
             .p-2
-              p.mb-0.me-5 <b>Monitoreo digital</b>: Seguimiento <em>online</em>, útil para detectar tendencias.
+              p.mb-0.me-5 <b>Monitoreo digital</b>: seguimiento <em>online</em>, útil para detectar tendencias.
           img.position-absolute.pst-1(src='@/assets/curso/tema1/18.svg', style="max-width: 101px" alt='')
 
         .tarjeta-avatar-b.align-items-center.mb-3.position-relative(data-aos="fade-up")
@@ -245,7 +245,7 @@
             img(src='@/assets/curso/tema1/03.svg' alt='')
           .tarjeta.tarjeta--azul
             .p-2
-              p.mb-0.me-5 <b>Participación</b>: Cuota de mercado. Útil para evaluar competitividad.
+              p.mb-0.me-5 <b>Participación</b>: cuota de mercado. Útil para evaluar competitividad.
           img.position-absolute.pst-1(src='@/assets/curso/tema1/19.svg', style="max-width: 101px" alt='')
       .col-md-8.col-lg-5.col-xl-3.mb-3.mb-xl-0.order-1
         figure
@@ -420,15 +420,15 @@
                   tr.bg-color-white
                     td <b>Tendencias.</b>
                     td Reflejan cambios culturales, sociales y estéticos que influyen en el comportamiento del consumidor. Se nutren de contextos globales, movimientos sociales, innovación textil y dinámicas digitales. Son cíclicas y evolucionan rápidamente.
-                    td Diseño y desarrollo de colecciones alineadas con temporadas, adaptación de paletas de color, siluetas y materiales. Planeación anticipada de lanzamientos según calendario comercial y análisis de forecasting.
+                    td Diseño y desarrollo de colecciones alineadas con temporadas, adaptación de paletas de color, siluetas y materiales. Planeación anticipada de lanzamientos según calendario comercial y análisis de <em>forecasting</em>.
                   tr.bg-color-8
                     td <b>Imagen de marca.</b>
                     td Conjunto de elementos visuales y simbólicos que construyen identidad y posicionamiento. Incluye logotipo, tono comunicativo, narrativa conceptual y coherencia estética. Determina percepción y diferenciación en el mercado.
-                    td Desarrollo de campañas publicitarias coherentes con la identidad de la colección, construcción de storytelling visual en redes sociales, diseño de piezas gráficas y lineamientos de branding en entornos físicos y digitales.
+                    td Desarrollo de campañas publicitarias coherentes con la identidad de la colección, construcción de <em>storytelling</em> visual en redes sociales, diseño de piezas gráficas y lineamientos de <em>branding</em> en entornos físicos y digitales.
                   tr.bg-color-white
                     td <b>Experiencia.</b>
                     td Interacción integral del cliente con la marca en todos los puntos de contacto. Incluye percepción sensorial, navegación digital, atención al cliente y servicio postventa. Influye en fidelización y recomendación.
-                    td Diseño de tiendas digitales intuitivas, visual merchandising en puntos físicos, implementación de tecnologías inmersivas, atención personalizada y estrategias omnicanal que integren compra, entrega y servicio.
+                    td Diseño de tiendas digitales intuitivas, visual <em>merchandising</em> en puntos físicos, implementación de tecnologías inmersivas, atención personalizada y estrategias omnicanal que integren compra, entrega y servicio.
 
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-8

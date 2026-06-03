@@ -130,7 +130,7 @@
                   tr.bg-color-white
                     td <b><em>API Economy.</em></b>
                     td Modelo económico basado en la integración de servicios digitales mediante APIs.
-                    td Permite integrar la tienda online con pasarelas de pago, logística, CRM y marketplaces como Mercado Libre o Amazon sin perder coherencia operativa.
+                    td Permite integrar la tienda <em>online</em> con pasarelas de pago, logística, CRM y <em>marketplaces</em> como Mercado Libre o Amazon sin perder coherencia operativa.
                   tr.bg-color-8
                     td <b>Automatización Inteligente.</b>
                     td Uso combinado de inteligencia artificial y automatización de procesos.
@@ -142,22 +142,22 @@
                   tr.bg-color-8
                     td <b>CDP (<em>Customer Data Platform</em>).</b>
                     td Plataforma que centraliza datos del cliente en tiempo real.
-                    td Unifica datos de compras online, interacción en redes y visitas web para personalizar lanzamientos de colecciones.
+                    td Unifica datos de compras <em>online</em>, interacción en redes y visitas web para personalizar lanzamientos de colecciones.
                   tr.bg-color-white
                     td <b><em>Composable Commerce.</em></b>
                     td Modelo modular de comercio digital basado en componentes flexibles.
-                    td Permite construir una tienda virtual adaptable según temporada, integrando módulos para preventas o drops exclusivos.
+                    td Permite construir una tienda virtual adaptable según temporada, integrando módulos para preventas o <em>drops</em> exclusivos.
                   tr.bg-color-8
                     td <b><em>Creator Economy.</em></b>
                     td Ecosistema económico basado en creadores de contenido digital.
-                    td Colaboraciones con influencers que lanzan cápsulas de colección o realizan live shopping.
+                    td Colaboraciones con influencers que lanzan cápsulas de colección o realizan live <em>shopping</em>.
                   tr.bg-color-white
                     td <b><em>Data Governance.</em></b>
                     td Gestión estratégica de calidad, seguridad y uso de datos.
                     td Garantiza cumplimiento de la Ley de Protección de Datos y uso responsable de información de clientes.
                   tr.bg-color-8
                     td <b><em>Headless Commerce.</em></b>
-                    td Separación entre frontend y backend en e-commerce.
+                    td Separación entre <em>frontend</em> y <em>backend</em> en <em>e-commerce</em>.
                     td Permite mostrar la colección en web, app y redes sociales con experiencias visuales distintas pero mismo sistema operativo interno.
                   tr.bg-color-white
                     td <b>Omnicanalidad.</b>
@@ -165,7 +165,7 @@
                     td Cliente puede ver la prenda en Instagram, comprar en la web y recoger en tienda física sin fricciones.
                   tr.bg-color-8
                     td <b>Web3.</b>
-                    td Nueva generación de internet basada en descentralización y blockchain.
+                    td Nueva generación de internet basada en descentralización y <em>blockchain</em>.
                     td Posibilidad de lanzar NFTs asociados a colecciones exclusivas o comunidades digitales de marca.
     
     .row.justify-content-center.align-items-center.mb-5
@@ -212,7 +212,7 @@
             .col-lg-auto.mb-3.mb-lg-0
               img.d-none.d-lg-flex(src="@/assets/curso/tema4/4.svg").mx-auto
             .col-lg
-              p.mb-0 Según Coiera (2013) las redes sociales son medios de comunicación, diferentes a los tradicionales, ya que utilizan un conjunto de tecnologías, con el fin de crear espacios virtuales para que los usuarios puedan interactuar entre sí. en el capítulo cinco (6), de la presente guía, se trabajará de forma ampliada esta temática. 
+              p.mb-0 Según Coiera (2013) las redes sociales son medios de comunicación, diferentes a los tradicionales, ya que utilizan un conjunto de tecnologías, con el fin de crear espacios virtuales para que los usuarios puedan interactuar entre sí. En el capítulo seis (6), de la presente guía, se trabajará de forma ampliada esta temática. 
       .col-md-8.col-lg-4.col-xl-3.mb-3.mb-xl-0
         figure
           img(src="@/assets/curso/tema4/14.png", data-aos="zoom-in")
@@ -247,7 +247,7 @@
           img(src="@/assets/curso/tema4/17.png", data-aos="zoom-in")
       .col-lg-8
         .bg-color-16.tarjeta.p-4
-          p.mb-0 Cada categoría presenta características técnicas relacionadas con almacenamiento de datos, integraciones API (<em>Application Programming Interface</em>-Interfaz de Programación de Aplicaciones- conjunto de reglas y protocolos que permite que dos sistemas o aplicaciones diferentes se comuniquen entre sí sin que el usuario tenga que intervenir.), seguridad informática y automatización, la elección depende de la etapa de madurez digital de la empresa, así mismo su integración mejora la eficiencia operativa, además de permitir una visión integral del cliente.
+          p.mb-0 Cada categoría presenta características técnicas relacionadas con almacenamiento de datos, integraciones API (<em>Application Programming Interface</em> - Interfaz de Programación de Aplicaciones - conjunto de reglas y protocolos que permite que dos sistemas o aplicaciones diferentes se comuniquen entre sí sin que el usuario tenga que intervenir.), seguridad informática y automatización, la elección depende de la etapa de madurez digital de la empresa, así mismo su integración mejora la eficiencia operativa, además de permitir una visión integral del cliente.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.order-2
@@ -495,10 +495,10 @@
             p.mb-0 Verifican que cada componente del sistema opere según lo diseñado, identificando errores operativos o fallas de interacción. 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Pruebas de rendimiento")
             h4 Pruebas de rendimiento
-            p.mb-0 evalúan la capacidad del sistema para soportar cargas de usuarios y volumen de operaciones, destacándose por su enfoque en velocidad y estabilidad. 
+            p.mb-0 Evalúan la capacidad del sistema para soportar cargas de usuarios y volumen de operaciones, destacándose por su enfoque en velocidad y estabilidad. 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Pruebas de seguridad")
             h4 Pruebas de seguridad
-            p.mb-0 analizan vulnerabilidades informáticas que podrían comprometer la información empresarial o de los clientes, siendo fundamentales para la protección de datos.
+            p.mb-0 Analizan vulnerabilidades informáticas que podrían comprometer la información empresarial o de los clientes, siendo fundamentales para la protección de datos.
 
 
     .row.align-items-center.bg-color-3.p-4.mb-5
@@ -544,7 +544,7 @@
               img(src="@/assets/curso/tema4/43.png", data-aos="zoom-in")
           .col-lg-8.order-1.mb-3.mb-lg-0
             .bg-color-16.tarjeta.p-3.mb-3
-               p.mb-0 <b><em>Insight</em></b>: Las organizaciones que implementan estrategias omnicanal logran mayor retención de clientes y aumento en la frecuencia de compra.
+               p.mb-0 <b><em>Insight</em></b>. Las organizaciones que implementan estrategias omnicanal logran mayor retención de clientes y aumento en la frecuencia de compra.
             .bg-color-1.tarjeta.p-3
               .row.align-items-center
                 .col-lg-auto.mb-lg-0

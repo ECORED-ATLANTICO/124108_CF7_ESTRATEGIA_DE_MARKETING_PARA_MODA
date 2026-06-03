@@ -204,7 +204,7 @@
                 p Lo invitamos a escuchar el siguiente Pódcast:
                 
                 TarjetaAudio.color-secundario.bg-color-white.mb-3(
-                  texto="Pendiente por definir el titulo del podcast"
+                  texto="Integración de análisis, decisión y valor competitivo"
                   tiempo
                   :audio="require('../assets/curso/podcast/podcast1.mp3')"
                 )

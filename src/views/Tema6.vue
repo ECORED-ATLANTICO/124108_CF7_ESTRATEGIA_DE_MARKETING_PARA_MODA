@@ -171,7 +171,7 @@
                   tr.bg-color-8
                     td <b>Promocional.</b>
                     td Mensaje diseñado para estimular la acción de compra mediante incentivos o llamados directos.
-                    td Campaña digital “-30 % en nueva colección otoño” con botón de compra directa en e-commerce.
+                    td Campaña digital “-30 % en nueva colección otoño” con botón de compra directa en <em>e-commerce</em>.
                     td Incrementa conversiones, acelera decisiones de compra y dinamiza inventario.
                   tr.bg-color-white
                     td <b>Educativa.</b>
@@ -181,7 +181,7 @@
                   tr.bg-color-8
                     td <b>Emocional.</b>
                     td Comunicación enfocada en generar conexión afectiva a través de valores, historias o identidad de marca.
-                    td Video storytelling que muestra el proceso artesanal detrás de una colección sostenible y la historia de sus diseñadores.
+                    td Video <em>storytelling</em> que muestra el proceso artesanal detrás de una colección sostenible y la historia de sus diseñadores.
                     td Fortalece el vínculo emocional, mejora recordación de marca y construye identidad diferenciada.
 
         .row.justify-content-center.align-items-center.mb-5
@@ -315,8 +315,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3.mb-1 Guía de Publicidad en Redes Sociales (Social Ads) para Principiantes
-                  p.mb-0 Lo invitamos a ver el siguiente video educativo para profundizar en la temática abordada. Este recurso explica de forma práctica cómo planificar y ejecutar campañas pagas en redes sociales, incluyendo objetivos publicitarios, segmentación de audiencias, creación de anuncios y análisis de métricas.
+                  h3.mb-1 Guía de Publicidad en Redes Sociales (<em>Social Ads</em>) para Principiantes
+                  p.mb-0 Lo invitamos a consultar el siguiente video educativo para profundizar en la temática abordada. Este recurso explica de forma práctica cómo planificar y ejecutar campañas pagas en redes sociales, incluyendo objetivos publicitarios, segmentación de audiencias, creación de anuncios y análisis de métricas.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Iky6l5Da9Vo" target="_blank")
                     span Ir al video
@@ -388,9 +388,9 @@
             p Lo invitamos a escuchar el siguiente Pódcast:
             
             TarjetaAudio.color-secundario.bg-color-white.mb-3(
-              texto="Pendiente por definir el titulo del podcast"
+              texto="Articulación estratégica entre interacción digital, posicionamiento y valor de marca"
               tiempo
-              :audio="require('../assets/curso/podcast/podcast1.mp3')"
+              :audio="require('../assets/curso/podcast/podcast2.mp3')"
             )
 
 </template>
