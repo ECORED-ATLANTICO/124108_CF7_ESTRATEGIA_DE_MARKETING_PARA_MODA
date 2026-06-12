@@ -84,15 +84,15 @@
                     th.bg-color-7 Utilidad estratégica en el sistema moda
                 tbody
                   tr.bg-color-white
-                    td <b>DOFA (FODA).</b>
+                    td <b>DOFA (FODA)</b>
                     td Analiza factores internos (debilidades y fortalezas) y externos (oportunidades y amenazas). Permite visualizar la posición competitiva de la organización y relacionar variables internas con condiciones del mercado. Facilita la formulación de estrategias ofensivas, defensivas, adaptativas o de supervivencia.
                     td Identificar ventajas competitivas, detectar brechas frente a competidores, anticipar riesgos del mercado y definir estrategias para lanzamientos de colecciones, posicionamiento de marca o expansión digital.
                   tr.bg-color-8
-                    td <b>PESTEL.</b>
+                    td <b>PESTEL</b>
                     td Examina variables del macroentorno: políticas, económicas, sociales, tecnológicas, ecológicas y legales. Permite comprender factores externos que influyen indirectamente en la organización y que están fuera de su control directo.
                     td Evaluar riesgos regulatorios, cambios en hábitos de consumo, impacto de tendencias sostenibles, avances tecnológicos en e-commerce y condiciones económicas que afectan precios y demanda en el sector moda.
                   tr.bg-color-white
-                    td <b>SMART.</b>
+                    td <b>SMART</b>
                     td Establece objetivos específicos, medibles, alcanzables, relevantes y con tiempo definido. Facilita claridad en metas y alineación entre estrategia y ejecución. Permite seguimiento cuantificable del desempeño.
                     td Controlar resultados de campañas digitales, definir metas de ventas por temporada, establecer indicadores de crecimiento en redes sociales y medir desempeño de lanzamientos de colección con criterios verificables.
     
@@ -133,7 +133,7 @@
           span Proceso de planeación
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema2/10.png", alt="la figura muestra las etapas del proceso de planeación estratégica organizado en un ciclo continuo, conformado por cuatro etapas principales. El análisis situacional; que estudia el mercado y la competencia. La formulación estratégica, donde se define la dirección empresarial. La implementación, que convierte las estrategias en acciones concretas. El control, encargado de evaluar el desempeño y los resultados obtenidos.")
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema2/10-1.png", alt="la figura muestra las etapas del proceso de planeación estratégica organizado en un ciclo continuo, conformado por cuatro etapas principales. El análisis situacional; que estudia el mercado y la competencia. La formulación estratégica, donde se define la dirección empresarial. La implementación, que convierte las estrategias en acciones concretas. El control, encargado de evaluar el desempeño y los resultados obtenidos.")
-        figcaption Fuente: SENA, 2026
+        figcaption Nota. SENA, 2026.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-3.mb-lg-0

@@ -128,43 +128,43 @@
                     th.bg-color-7 Aterrizaje al sistema moda
                 tbody
                   tr.bg-color-white
-                    td <b><em>API Economy.</em></b>
+                    td <b><em>API Economy</em></b>
                     td Modelo económico basado en la integración de servicios digitales mediante APIs.
                     td Permite integrar la tienda <em>online</em> con pasarelas de pago, logística, CRM y <em>marketplaces</em> como Mercado Libre o Amazon sin perder coherencia operativa.
                   tr.bg-color-8
-                    td <b>Automatización Inteligente.</b>
+                    td <b>Automatización Inteligente</b>
                     td Uso combinado de inteligencia artificial y automatización de procesos.
-                    td Automatiza respuestas en Instagram, envíos de email <em>marketing</em> y recomendaciones de prendas según historial de compra.
+                    td Automatiza respuestas en Instagram, envíos de <em>email marketing</em> y recomendaciones de prendas según historial de compra.
                   tr.bg-color-white
-                    td <b><em>Blockchain.</em></b>
+                    td <b><em>Blockchain</em></b>
                     td Tecnología de registro descentralizado y seguro.
                     td Facilita certificación de autenticidad en prendas de lujo o sostenibles y trazabilidad en cadenas de suministro.
                   tr.bg-color-8
-                    td <b>CDP (<em>Customer Data Platform</em>).</b>
+                    td <b>CDP (<em>Customer Data Platform</em>)</b>
                     td Plataforma que centraliza datos del cliente en tiempo real.
                     td Unifica datos de compras <em>online</em>, interacción en redes y visitas web para personalizar lanzamientos de colecciones.
                   tr.bg-color-white
-                    td <b><em>Composable Commerce.</em></b>
+                    td <b><em>Composable Commerce</em></b>
                     td Modelo modular de comercio digital basado en componentes flexibles.
                     td Permite construir una tienda virtual adaptable según temporada, integrando módulos para preventas o <em>drops</em> exclusivos.
                   tr.bg-color-8
-                    td <b><em>Creator Economy.</em></b>
+                    td <b><em>Creator Economy</em></b>
                     td Ecosistema económico basado en creadores de contenido digital.
-                    td Colaboraciones con influencers que lanzan cápsulas de colección o realizan live <em>shopping</em>.
+                    td Colaboraciones con <em>influencers</em> que lanzan cápsulas de colección o realizan <em>live shopping</em>.
                   tr.bg-color-white
-                    td <b><em>Data Governance.</em></b>
+                    td <b><em>Data Governance</em></b>
                     td Gestión estratégica de calidad, seguridad y uso de datos.
                     td Garantiza cumplimiento de la Ley de Protección de Datos y uso responsable de información de clientes.
                   tr.bg-color-8
-                    td <b><em>Headless Commerce.</em></b>
+                    td <b><em>Headless Commerce</em></b>
                     td Separación entre <em>frontend</em> y <em>backend</em> en <em>e-commerce</em>.
-                    td Permite mostrar la colección en web, app y redes sociales con experiencias visuales distintas pero mismo sistema operativo interno.
+                    td Permite mostrar la colección en web, <em>app</em> y redes sociales con experiencias visuales distintas pero mismo sistema operativo interno.
                   tr.bg-color-white
-                    td <b>Omnicanalidad.</b>
+                    td <b>Omnicanalidad</b>
                     td Integración coherente de todos los canales de contacto.
                     td Cliente puede ver la prenda en Instagram, comprar en la web y recoger en tienda física sin fricciones.
                   tr.bg-color-8
-                    td <b>Web3.</b>
+                    td <b>Web3</b>
                     td Nueva generación de internet basada en descentralización y <em>blockchain</em>.
                     td Posibilidad de lanzar NFTs asociados a colecciones exclusivas o comunidades digitales de marca.
     
@@ -239,7 +239,7 @@
               h5 Figura 4.
               span Tipos de plataformas digitales
             img(data-aos="fade-up", src="@/assets/curso/tema4/16.png", alt="La figura muestra los diferentes tipos de plataformas digitales, divididos en tres categorías: comerciales, orientadas a la compra y venta de productos; operativas, enfocadas en la gestión interna y optimización de procesos empresariales; y colaborativas, que facilitan la interacción y participación entre proveedores, clientes y aliados estratégicos")
-            figcaption Fuente: SENA, 2026
+            figcaption Nota. SENA, 2026.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-3.mb-lg-0
@@ -286,7 +286,7 @@
             .row.justify-content-center.align-items-center.p-4.p-lg-0
               .col-lg-7.order-2
                 h4 <em>Marketing</em>
-                p Facilitan la gestión de campañas publicitarias, programación de contenidos y monitoreo de engagement; su característica principal es la optimización comunicacional.
+                p Facilitan la gestión de campañas publicitarias, programación de contenidos y monitoreo de <em>engagement</em>; su característica principal es la optimización comunicacional.
               .col-lg-4.order-1.mb-4.mb-lg-0
                 figure
                   img(src='@/assets/curso/tema4/21.png', alt='alt')
@@ -337,7 +337,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema4/26.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 <b>Ejemplo aplicado</b>. La plataforma de moda de lujo LUISAVIAROMA experimentó mejoras drásticas en su rendimiento comercial tras automatizar campañas omnicanal mediante una solución de <em>marketing</em> inteligente. Con perfiles más precisos y mensajes personalizados, la empresa logró aumentar su tasa de conversión en hasta 400 % y el ingreso generado por campañas de email <em>marketing</em> en 900 %, gracias a la automatización y la analítica aplicada para adaptar ofertas y contenido relevante para segmentos específicos de su audiencia global
+            p.mb-0 <b>Ejemplo aplicado</b>. La plataforma de moda de lujo LUISAVIAROMA experimentó mejoras drásticas en su rendimiento comercial tras automatizar campañas omnicanal mediante una solución de <em>marketing</em> inteligente. Con perfiles más precisos y mensajes personalizados, la empresa logró aumentar su tasa de conversión en hasta 400 % y el ingreso generado por campañas de <em>email marketing</em> en 900 %, gracias a la automatización y la analítica aplicada para adaptar ofertas y contenido relevante para segmentos específicos de su audiencia global.
     
     separador
     
@@ -437,6 +437,11 @@
           .col-lg-8.order-1
             p En el sistema moda permiten actualizar catálogos de productos, inventarios, imágenes de colecciones y contenidos promocionales en tiempo real. La correcta implementación de estos métodos reduce errores operativos y mejora la experiencia del usuario final. Asimismo, facilita la integración entre plataformas empresariales y sistemas de comercio electrónico. Las organizaciones deben seleccionar el método adecuado según el volumen y la frecuencia de actualización de datos, su gestión estratégica impacta la eficiencia digital.
 
+        .titulo-con-imagen.mb-5(data-aos="fade-right")
+          .titulo-con-imagen__fondo
+            img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
+            h3.titulo-con-imagen__texto Clasificación de los métodos de cargue de información
+
         .bg-full-width.bg-fondo-3.mb-5
           .px-4.px-md-5
             .row.justify-content-center.align-items-center
@@ -484,6 +489,11 @@
       .col-lg-10(data-aos="fade-up")
         p.banner-text Los testeos de funcionamiento corresponden a procesos de verificación técnica que permiten evaluar el correcto desempeño de sistemas digitales, plataformas web y aplicaciones tecnológicas antes de su implementación o actualización. Estos procedimientos aseguran la calidad del servicio digital, la estabilidad operativa y la seguridad de la información. En los ecosistemas empresariales permiten detectar fallas técnicas, errores de programación o problemas de compatibilidad que podrían afectar la experiencia del usuario. 
     
+    .titulo-con-imagen.mb-5(data-aos="fade-right")
+      .titulo-con-imagen__fondo
+        img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
+        h3.titulo-con-imagen__texto Clasificación de los testeos de funcionamiento
+
     .row.mb-5.justify-content-center.align-items-center
       .col-md-8.col-lg-4.mb-3.mb-lg-0
         figure
@@ -513,7 +523,7 @@
           figure
             img(src="@/assets/curso/tema4/4.png", data-aos="zoom-in")
         .col-lg-8
-          p.mb-0(data-aos="fade-right") <b>Clave estratégica.</b> Las empresas que adoptan metodologías de testing estructurado logran mayor confiabilidad en sus servicios digitales, esto incrementa la satisfacción del consumidor y fortalece la reputación empresarial, así mismo, la evaluación continua permite detectar oportunidades de mejora tecnológica, lo que conlleva a una alta calidad digital convirtiendo esto en una ventaja competitiva.
+          p.mb-0(data-aos="fade-right") <b>Clave estratégica.</b> Las empresas que adoptan metodologías de <em>testing</em> estructurado logran mayor confiabilidad en sus servicios digitales, esto incrementa la satisfacción del consumidor y fortalece la reputación empresarial, así mismo, la evaluación continua permite detectar oportunidades de mejora tecnológica, lo que conlleva a una alta calidad digital convirtiendo esto en una ventaja competitiva.
     
     separador
     
@@ -572,7 +582,7 @@
             .col-lg-auto.mb-3.mb-lg-0
               img.d-none.d-lg-flex(src="@/assets/curso/tema4/4.png").mx-auto
             .col-lg
-              p.mb-0 Las empresas que operan en ecosistemas digitales deben cumplir las normativas relacionadas con comercio electrónico, habeas data, propiedad intelectual y protección del consumidor, el desconocimiento de estas regulaciones puede generar sanciones económicas y pérdida de reputación corporativa, de allí que la actualización permanente en legislación digital sea fundamental para la gestión empresarial, esto, fortalece la seguridad jurídica de las operaciones comerciales. 
+              p.mb-0 Las empresas que operan en ecosistemas digitales deben cumplir las normativas relacionadas con comercio electrónico, <em>habeas data</em>, propiedad intelectual y protección del consumidor, el desconocimiento de estas regulaciones puede generar sanciones económicas y pérdida de reputación corporativa, de allí que la actualización permanente en legislación digital sea fundamental para la gestión empresarial, esto, fortalece la seguridad jurídica de las operaciones comerciales. 
       .col-md-8.col-lg-4.col-xl-3.mb-3.mb-xl-0
         figure
           img(src="@/assets/curso/tema4/45.png", data-aos="zoom-in")
@@ -603,43 +613,43 @@
                     th.bg-color-7 Norma (nombre y breve resumen)
                 tbody
                   tr.bg-color-white
-                    td <b>Comercio electrónico y firma digital.</b>
+                    td <b>Comercio electrónico y firma digital</b>
                     td Establece validez jurídica de mensajes de datos, firma electrónica y transacciones digitales.
                     td Ley 527 de 1999: regula el acceso y uso de mensajes de datos y contratación por medios electrónicos.
                   tr.bg-color-8
-                    td <b>Protección de datos personales.</b>
+                    td <b>Protección de datos personales</b>
                     td Protege los datos de los usuarios, define deberes de tratamiento y derechos de los titulares.
                     td Ley 1581 de 2012: establece disposiciones generales para protección, tratamiento, actualización y supresión de datos personales.
                   tr.bg-color-white
-                    td <b>Derechos del consumidor.</b>
+                    td <b>Derechos del consumidor</b>
                     td Regula derechos, información clara, garantías y deberes de proveedores en comercio electrónico.
                     td Ley 1480 de 2011 (Estatuto del Consumidor): protege al consumidor en ventas a distancia y comercio electrónico.
                   tr.bg-color-8
-                    td <b>Facturación electrónica.</b>
+                    td <b>Facturación electrónica</b>
                     td Obliga al uso de factura electrónica y regula su implementación.
                     td Ley 223 de 1995 y disposiciones en normatividad tributaria, sobre factura electrónica y registro en comercio digital.
                   tr.bg-color-white
-                    td <b>Protección del consumidor en comercio electrónico.</b>
+                    td <b>Protección del consumidor en comercio electrónico</b>
                     td Especifica derechos en contratos y ventas no presenciales.
                     td Disposiciones del Estatuto del Consumidor (Ley 1480 de 2011) - Art. 49: define comercio electrónico y derechos asociados.
                   tr.bg-color-8
-                    td <b>Regulación del emprendimiento digital.</b>
+                    td <b>Regulación del emprendimiento digital</b>
                     td Promueve el ejercicio del comercio electrónico y emprendimiento digital.
                     td Ley 2069 de 2020: fomenta el emprendimiento, incluyendo actividades digitales y comercio en línea.
                   tr.bg-color-white
-                    td <b>Política de gobierno digital.</b>
+                    td <b>Política de gobierno digital</b>
                     td Define lineamientos para servicios digitales y habilitación de prestadores.
                     td Decreto 767 de 2022 y Resolución MINTIC 1951 de 2022: establecen requisitos para servicios digitales y estándares técnicos.
                   tr.bg-color-8
-                    td <b>Estatuto del consumidor - obligaciones publicidad y comercio.</b>
+                    td <b>Estatuto del consumidor - obligaciones publicidad y comercio</b>
                     td Regula obligaciones informativas y derechos del consumidor digital.
                     td Estatuto del Consumidor (Ley 1480 de 2011): artículos relacionados con información clara y calidad del producto.
                   tr.bg-color-white
-                    td <b>Protección de datos en transferencia internacional.</b>
+                    td <b>Protección de datos en transferencia internacional</b>
                     td Regula las condiciones para la transferencia de datos fuera de Colombia.
                     td Ley 1581 de 2012 - Artículo 26: prohíbe transferencia de datos a países sin protección adecuada sin consentimiento.
                   tr.bg-color-8
-                    td <b>Inclusión digital y servicios de valor agregado.</b>
+                    td <b>Inclusión digital y servicios de valor agregado</b>
                     td Regula acceso equitativo a las TIC y servicios digitales avanzados.
                     td Ley 1341 de 2009: reglamenta servicios de TIC y protección de usuarios digitales, con impacto en comercio electrónico.
     

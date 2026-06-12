@@ -180,15 +180,15 @@
                     th.bg-color-7 Aplicación estratégica en el sistema moda
                 tbody
                   tr.bg-color-white
-                    td <b>Aspiracional.</b>
+                    td <b>Aspiracional</b>
                     td Busca estatus simbólico y reconocimiento social. Se deja influenciar por tendencias, celebridades e influencers. Valora la exclusividad, el diseño diferencial y la identidad de marca. Está dispuesto a pagar más por percepción de prestigio. Alta sensibilidad a la imagen y reputación digital.
                     td Moda <em>premium</em>, colecciones limitadas, colaboraciones con diseñadores o figuras públicas, <em>storytelling</em> de marca, campañas visuales de alto impacto y presencia fuerte en redes sociales aspiracionales.
                   tr.bg-color-8
-                    td <b>Funcional.</b>
+                    td <b>Funcional</b>
                     td Prioriza utilidad, comodidad y durabilidad. Evalúa la relación costo beneficio. Toma decisiones racionales basadas en calidad y practicidad. Busca soluciones específicas a necesidades concretas. Menor influencia de tendencias pasajeras.
                     td Ropa laboral, uniformes, prendas básicas, líneas versátiles. Comunicación enfocada en beneficios tangibles, resistencia del material, garantía y funcionalidad del producto.
                   tr.bg-color-white
-                    td <b>Consciente.</b>
+                    td <b>Consciente</b>
                     td Valora sostenibilidad, ética empresarial y transparencia. Investiga procesos productivos y origen de materiales. Prefiere marcas con responsabilidad social y ambiental. Se inclina por consumo responsable y compra reflexiva.
                     td Moda ecológica, <em>slow fashion</em>, materiales reciclados u orgánicos. Comunicación basada en impacto ambiental positivo, certificaciones, trazabilidad y narrativa de propósito social.
     
@@ -202,7 +202,7 @@
         figure
           img(src="@/assets/curso/tema1/14.png", data-aos="zoom-in")
       .col-lg-8
-        p.mb-0(data-aos="fade-right") El análisis de competidores permite identificar fortalezas, debilidades y estrategias presentes en el entorno empresarial, constituyéndose en una herramienta fundamental para la toma de decisiones estratégicas. Este proceso incluye prácticas como el benchmarking, el monitoreo de precios y la evaluación del posicionamiento de marca, lo que facilita una comprensión estructurada del mercado. Al entender cómo actúan los competidores, las organizaciones pueden detectar oportunidades reales de diferenciación y evitar decisiones basadas en suposiciones. 
+        p.mb-0(data-aos="fade-right") El análisis de competidores permite identificar fortalezas, debilidades y estrategias presentes en el entorno empresarial, constituyéndose en una herramienta fundamental para la toma de decisiones estratégicas. Este proceso incluye prácticas como el <em>benchmarking</em>, el monitoreo de precios y la evaluación del posicionamiento de marca, lo que facilita una comprensión estructurada del mercado. Al entender cómo actúan los competidores, las organizaciones pueden detectar oportunidades reales de diferenciación y evitar decisiones basadas en suposiciones. 
     
     .row.justify-content-center.align-items-center.mb-3
       .col-md-8.col-lg-3.mb-3.order-2
@@ -284,7 +284,7 @@
               span Elementos de la mezcla de <em>marketing</em>
             img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/22.png", alt="La figura muestra la mezcla de marketing o 4P, integrada por cuatro elementos principales: Producto, relacionado con la oferta al consumidor; Precio, que define el valor económico; Plaza, enfocada en los canales de distribución; y Promoción, encargada de informar y persuadir al consumidor. Todos estos componentes se integran para apoyar las estrategias comerciales de la empres ")
             img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/22-1.png", alt="La figura muestra la mezcla de marketing o 4P, integrada por cuatro elementos principales: Producto, relacionado con la oferta al consumidor; Precio, que define el valor económico; Plaza, enfocada en los canales de distribución; y Promoción, encargada de informar y persuadir al consumidor. Todos estos componentes se integran para apoyar las estrategias comerciales de la empres ")
-            figcaption Fuente: SENA, 2026
+            figcaption Nota. SENA, 2026.
 
     .bg-color-1.mb-5.tarjeta.p-4
       .row.align-items-center
@@ -333,7 +333,7 @@
           img(src="@/assets/curso/tema1/26.png", data-aos="zoom-in")
       .col-lg-9.order-1
         .bg-color-9.p-5.tarjeta
-          p.mb-0 El <em>email marketing</em> funciona mejor cuando se concibe como una herramienta relacional y no únicamente promocional, fortaleciendo vínculos a largo plazo. En un entorno donde la saturación de mensajes es constante, la creatividad y la segmentación se vuelven indispensables para evitar comunicaciones irrelevantes. Asimismo, la automatización mejora la eficiencia operativa y permite escalar procesos. Implementado estratégicamente, el email <em>marketing</em> contribuye a consolidar ventas recurrentes y fidelización sostenible.
+          p.mb-0 El <em>email marketing</em> funciona mejor cuando se concibe como una herramienta relacional y no únicamente promocional, fortaleciendo vínculos a largo plazo. En un entorno donde la saturación de mensajes es constante, la creatividad y la segmentación se vuelven indispensables para evitar comunicaciones irrelevantes. Asimismo, la automatización mejora la eficiencia operativa y permite escalar procesos. Implementado estratégicamente, el <em>email marketing</em> contribuye a consolidar ventas recurrentes y fidelización sostenible.
 
     separador
     
@@ -349,7 +349,7 @@
           .col-lg-8
             p La estrategia digital es el plan integral que orienta la presencia de la marca en entornos digitales, estableciendo con claridad objetivos, audiencias, canales y métricas de evaluación. Su enfoque es sistémico y no meramente táctico, ya que articula planificación de contenidos, publicidad y analítica bajo una misma dirección estratégica. 
             .bg-color-9.p-4.tarjeta
-              p.mb-0 La coherencia entre lo que la empresa se propone alcanzar y las acciones que ejecuta determina el éxito de la gestión digital. En el sistema moda, esta estrategia permite conectar el storytelling de marca con procesos de conversión efectivos, integrando creatividad y datos para generar impacto comercial sostenible.
+              p.mb-0 La coherencia entre lo que la empresa se propone alcanzar y las acciones que ejecuta determina el éxito de la gestión digital. En el sistema moda, esta estrategia permite conectar el <em>storytelling</em> de marca con procesos de conversión efectivos, integrando creatividad y datos para generar impacto comercial sostenible.
 
         .bg-color-1.mb-5.tarjeta.p-4
           .row.align-items-center
@@ -363,7 +363,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema1/29.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 La estrategia digital incorpora la definición de indicadores clave de desempeño que permiten medir resultados y orientar decisiones. Métricas como alcance, engagement y conversión facilitan la evaluación objetiva del desempeño, mientras que la segmentación de audiencias posibilita la personalización de mensajes y ofertas. Dado que la innovación tecnológica genera constantemente nuevas oportunidades, las empresas deben revisar periódicamente su estrategia para adaptarse a un entorno digital cambiante. En este contexto, la flexibilidad estratégica y la planificación estructurada se convierten en factores determinantes para mejorar resultados comerciales.
+            p.mb-0 La estrategia digital incorpora la definición de indicadores clave de desempeño que permiten medir resultados y orientar decisiones. Métricas como alcance, <em>engagement</em> y conversión facilitan la evaluación objetiva del desempeño, mientras que la segmentación de audiencias posibilita la personalización de mensajes y ofertas. Dado que la innovación tecnológica genera constantemente nuevas oportunidades, las empresas deben revisar periódicamente su estrategia para adaptarse a un entorno digital cambiante. En este contexto, la flexibilidad estratégica y la planificación estructurada se convierten en factores determinantes para mejorar resultados comerciales.
 
         separador
         
@@ -418,15 +418,15 @@
                     th.bg-color-7 Aplicación en el sistema moda
                 tbody
                   tr.bg-color-white
-                    td <b>Tendencias.</b>
+                    td <b>Tendencias</b>
                     td Reflejan cambios culturales, sociales y estéticos que influyen en el comportamiento del consumidor. Se nutren de contextos globales, movimientos sociales, innovación textil y dinámicas digitales. Son cíclicas y evolucionan rápidamente.
                     td Diseño y desarrollo de colecciones alineadas con temporadas, adaptación de paletas de color, siluetas y materiales. Planeación anticipada de lanzamientos según calendario comercial y análisis de <em>forecasting</em>.
                   tr.bg-color-8
-                    td <b>Imagen de marca.</b>
+                    td <b>Imagen de marca</b>
                     td Conjunto de elementos visuales y simbólicos que construyen identidad y posicionamiento. Incluye logotipo, tono comunicativo, narrativa conceptual y coherencia estética. Determina percepción y diferenciación en el mercado.
                     td Desarrollo de campañas publicitarias coherentes con la identidad de la colección, construcción de <em>storytelling</em> visual en redes sociales, diseño de piezas gráficas y lineamientos de <em>branding</em> en entornos físicos y digitales.
                   tr.bg-color-white
-                    td <b>Experiencia.</b>
+                    td <b>Experiencia</b>
                     td Interacción integral del cliente con la marca en todos los puntos de contacto. Incluye percepción sensorial, navegación digital, atención al cliente y servicio postventa. Influye en fidelización y recomendación.
                     td Diseño de tiendas digitales intuitivas, visual <em>merchandising</em> en puntos físicos, implementación de tecnologías inmersivas, atención personalizada y estrategias omnicanal que integren compra, entrega y servicio.
 

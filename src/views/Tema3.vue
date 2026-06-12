@@ -79,7 +79,7 @@
               span Tipos de comercio electrónico
             img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema3/8.png", alt="la figura muestra los principales tipos de comercio electrónico en el mercado. B2C (empresa a consumidor) orientado a ventas de empresa a consumidor (minoristas. El modelo B2B (empresa a empresa)enfocado en operaciones entre empresas; modelo D2C (marca directa a consumidor) que elimina intermediarios para fortalecer la relación directa con el cliente. Finalmente, el modelo C2C (consumidor a consumidor) permite transacciones mediante plataformas digitales.")
             img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/8-1.png", alt="la figura muestra los principales tipos de comercio electrónico en el mercado. B2C (empresa a consumidor) orientado a ventas de empresa a consumidor (minoristas. El modelo B2B (empresa a empresa)enfocado en operaciones entre empresas; modelo D2C (marca directa a consumidor) que elimina intermediarios para fortalecer la relación directa con el cliente. Finalmente, el modelo C2C (consumidor a consumidor) permite transacciones mediante plataformas digitales.")
-            figcaption Fuente:SENA, 2026
+            figcaption Nota. SENA, 2026.
 
         p.mb-5 La elección del modelo depende de la estrategia empresarial. Cada tipo implica dinámicas operativas diferentes.
 
@@ -153,8 +153,8 @@
                 .col
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0
-                      h3.mb-1 Las 5 Mejores Plataformas de Ecommerce para Crear Tienda Online
-                      p.mb-0 Aprende a elegir la plataforma ideal según tu tipo de negocio, evaluando facilidad de uso, pagos, inventario y análisis. Conoce casos reales y toma decisiones estratégicas para lanzar tu tienda <em>online</em> de forma eficiente y segura.
+                      h3.mb-1 Las 5 mejores plataformas de <em>E-commerce</em> para crear tienda <em>online</em>
+                      p.mb-0 Aprenda a elegir la plataforma ideal según su tipo de negocio, evaluando facilidad de uso, pagos, inventario y análisis. Conozca casos reales y tome decisiones estratégicas para lanzar su tienda <em>online</em> de forma eficiente y segura.
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=WOXXQuf3jr8" target="_blank")
                         span Ir al video

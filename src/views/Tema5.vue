@@ -77,7 +77,7 @@
           span Tipos de <em>marketing</em> digital y sus características
         .tabla-a.color-secundario.mb-5.tbl
           table
-            caption Nota. SENA, (2026).
+            caption Nota. Adaptado de Chaffey y Smith, (2017). 
             thead
               tr
                 th.bg-color-7 Tipo de <em>marketing</em> digital
@@ -85,29 +85,29 @@
                 th.bg-color-7 Canal o herramienta común
             tbody
               tr.bg-color-white
-                td <b><em>Marketing</em> de contenidos.</b>
+                td <b><em>Marketing</em> de contenidos</b>
                 td Ofrece valor educativo o emocional antes de vender.
-                td Blogs, infografías, videos, podcasts.
+                td Blogs, infografías, videos, pódcast
               tr.bg-color-8
-                td <b><em>Email marketing.</em></b>
+                td <b><em>Email marketing</em></b>
                 td Comunicación directa, automatizada y personalizada.
                 td Plataformas de <em>mailing</em> (<em>Mailchimp</em>, etc.)
               tr.bg-color-white
-                td <b>Publicidad programática.</b>
+                td <b>Publicidad programática</b>
                 td Compra automatizada de espacios publicitarios por subasta.
-                td Google Ads, Meta Ads.
+                td Google Ads, Meta Ads
               tr.bg-color-8
-                td <b>Social media <em>marketing</em>.</b>
+                td <b><em>Social media marketing</em></b>
                 td Promueve la marca a través de redes sociales y comunidades.
-                td Facebook, Instagram, LinkedIn.
+                td Facebook, Instagram, LinkedIn
               tr.bg-color-white
-                td <b>SEO (optimización en buscadores).</b>
+                td <b>SEO (optimización en buscadores)</b>
                 td Mejora visibilidad orgánica en motores de búsqueda.
-                td Google, Bing, herramientas SEO.
+                td Google, Bing, herramientas SEO
               tr.bg-color-8
-                td <b>Influencer <em>marketing</em>.</b>
+                td <b><em>Influencer marketing</em></b>
                 td Utiliza líderes de opinión digitales para ganar credibilidad.
-                td YouTube, Instagram, TikTok.
+                td YouTube, Instagram, TikTok
     
     .row.justify-content-center.align-items-center.mb-5
       .col-xl-9.mb-3.mb-xl-0
@@ -147,7 +147,7 @@
         .titulo-con-imagen.mb-5(data-aos="fade-right")
           .titulo-con-imagen__fondo
             img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
-            h3.titulo-con-imagen__texto Técnicas de <em>Marketing</em>
+            h3.titulo-con-imagen__texto Técnicas de <em>marketing</em>
 
         .row.mb-5.align-items-center.justify-content-center
           .col-md-8.col-lg-5.mb-3.mb-lg-0
@@ -159,9 +159,9 @@
                 p.ms-5 Se orienta a mejorar la visibilidad orgánica en buscadores mediante optimización de contenidos y estructura web.
               div(titulo="SEM (<em>Search Engine Marketing</em>)")
                 p.ms-5 Utiliza publicidad paga para posicionar anuncios en resultados de búsqueda o plataformas digitales.
-              div(titulo="<em>marketing</em> de contenidos")
+              div(titulo="<em>Marketing</em> de contenidos")
                 p.ms-5 Busca atraer audiencias mediante información relevante.
-              div(titulo="<em>marketing</em> en redes sociales")
+              div(titulo="<em>Marketing</em> en redes sociales")
                 p.ms-5 Fortalece la interacción y la construcción de comunidad.
 
         .row.justify-content-center.align-items-center.mb-5
@@ -221,20 +221,20 @@
                 th.bg-color-7 Ejemplo aplicado al sistema moda
             tbody
               tr.bg-color-white
-                td <b>CRM (<em>Customer Relationship Management</em>).</b>
-                td Gestión y segmentación de clientes, historial de compras y seguimiento de interacción.
+                td <b>CRM (<em>Customer Relationship Management</em>)</b>
+                td Gestión y segmentación de clientes, historial de compras y seguimiento de interacción
                 td Una marca de ropa registra qué clientes compraron la colección primavera y le envía un acceso anticipado exclusivo a la nueva colección verano, aumentando recompra y fidelización.
               tr.bg-color-8
-                td <b>Analítica web.</b>
-                td Medición de tráfico, comportamiento del usuario y tasas de conversión en el sitio web.
+                td <b>Analítica web</b>
+                td Medición de tráfico, comportamiento del usuario y tasas de conversión en el sitio web
                 td Una tienda <em>online</em> detecta que muchas visitas abandonan el carrito en el paso de pago y optimiza ese proceso, reduciendo fricciones y aumentando ventas.
               tr.bg-color-white
-                td <b>Automatización de <em>marketing</em>.</b>
-                td Programación y ejecución automática de campañas digitales según comportamiento del usuario.
+                td <b>Automatización de <em>marketing</em></b>
+                td Programación y ejecución automática de campañas digitales según comportamiento del usuario
                 td Si un cliente visualiza varias veces una chaqueta sin comprarla, el sistema envía automáticamente un correo con descuento personalizado para incentivar la conversión.
               tr.bg-color-8
-                td <b>Gestión de redes sociales.</b>
-                td Programación, monitoreo y análisis de publicaciones en plataformas sociales.
+                td <b>Gestión de redes sociales</b>
+                td Programación, monitoreo y análisis de publicaciones en plataformas sociales
                 td Una marca programa el lanzamiento de su nueva colección con contenidos coordinados en Instagram, TikTok y Facebook, midiendo <em>engagement</em> y ajustando mensajes según interacción.
     
     .bg-color-16.p-4.tarjeta
@@ -263,7 +263,7 @@
               span Tipos de estrategias digitales
             img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema5/16.png", alt="La figura presenta los cuatro tipos de estrategias digitales: atracción, enfocada en generar tráfico mediante contenidos relevantes; conversión, orientada a transformar visitantes en clientes; fidelización, que fortalece la relación con los consumidores actuales; y posicionamiento, centrada en el reconocimiento de marca.")
             img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema5/16-1.png", alt="La figura presenta los cuatro tipos de estrategias digitales: atracción, enfocada en generar tráfico mediante contenidos relevantes; conversión, orientada a transformar visitantes en clientes; fidelización, que fortalece la relación con los consumidores actuales; y posicionamiento, centrada en el reconocimiento de marca.")
-            figcaption Fuente: SENA, 2026
+            figcaption Nota. SENA, 2026.
         
         .row.justify-content-center.align-items-center.mb-3
           .col-lg-10(data-aos="fade-up")
@@ -315,7 +315,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Tipos de arquetipos
-                  p.mb-0 Te invitamos a consultar el siguiente video educativo, donde podrás profundizar en la temática. Este contenido de Edutin Academy explica los arquetipos publicitarios y cómo ayudan a crear historias coherentes que conectan emocionalmente con el público.
+                  p.mb-0 Lo invitamos a consultar el siguiente video educativo, donde profundizará en la temática. Este contenido de Edutin Academy explica los arquetipos publicitarios y cómo ayudan a crear historias coherentes que conectan emocionalmente con el público.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://youtu.be/tdEv-yO1Uvg?si=W4kmv5psirpUbjwd " target="_blank")
                     span Ir al video
@@ -375,22 +375,22 @@
                     th.bg-color-7 Impacto estratégico
                 tbody
                   tr.bg-color-white
-                    td <b>Branding visual.</b>
+                    td <b>Branding visual</b>
                     td Define la identidad gráfica de la marca (logo, colores, tipografía, estilo fotográfico).
                     td Una marca de moda sostenible utiliza tonos tierra, fotografías en entornos naturales y empaques ecológicos coherentes en web y redes sociales.
                     td Genera reconocimiento inmediato y refuerza la identidad corporativa.
                   tr.bg-color-8
-                    td <b><em>Storytelling.</em></b>
+                    td <b><em>Storytelling</em></b>
                     td Construcción de narrativas que conectan emocionalmente con el consumidor.
                     td Una marca urbana comparte historias reales de sus diseñadores y procesos creativos en <em>reels</em> y videos, mostrando autenticidad.
                     td Fortalece vínculo emocional y aumenta la conexión con el público objetivo.
                   tr.bg-color-white
-                    td <b>Coherencia de contenidos.</b>
+                    td <b>Coherencia de contenidos</b>
                     td Uniformidad en tono, mensaje y estilo comunicativo en todos los canales digitales.
                     td Una marca elegante mantiene lenguaje sofisticado y estética minimalista tanto en Instagram como en su tienda <em>online</em> y campañas publicitarias.
                     td Consolida credibilidad, profesionalismo y consistencia comunicativa.
                   tr.bg-color-8
-                    td <b>Posicionamiento digital.</b>
+                    td <b>Posicionamiento digital</b>
                     td Estrategias para aumentar visibilidad en buscadores y plataformas digitales.
                     td Optimización SEO para búsquedas como “vestidos de fiesta”, campañas segmentadas en redes y colaboración con micro <em>influencers</em> locales.
                     td Incrementa tráfico cualificado, visibilidad de marca y ventas en comercio electrónico.
@@ -432,22 +432,22 @@
                 th.bg-color-7 Impacto estratégico
             tbody
               tr.bg-color-white
-                td <b>Publicidad en buscadores (SEM).</b>
+                td <b>Publicidad en buscadores (SEM)</b>
                 td Posiciona anuncios pagados según palabras clave ingresadas por los usuarios en motores de búsqueda.
                 td Una marca de ropa deportiva invierte en Google Ads para aparecer cuando alguien busca “<em>leggings</em> deportivos mujer” o “ropa <em>fitness</em> Bogotá”.
                 td Atrae tráfico con alta intención de compra y aumenta conversiones directas.
               tr.bg-color-8
-                td <b>Publicidad en redes sociales.</b>
+                td <b>Publicidad en redes sociales</b>
                 td Permite segmentar audiencias específicas según edad, intereses, ubicación y comportamiento digital.
-                td Una marca de moda femenina segmenta anuncios en Instagram a mujeres entre 20 y 35 años interesadas en tendencias y compras online.
+                td Una marca de moda femenina segmenta anuncios en Instagram a mujeres entre 20 y 35 años interesadas en tendencias y compras <em>online</em>.
                 td Incrementa alcance cualificado y mejora la eficiencia del presupuesto publicitario.
               tr.bg-color-white
-                td <b><em>Remarketing.</em></b>
+                td <b><em>Remarketing</em></b>
                 td Impacta nuevamente a usuarios que ya interactuaron con la marca, pero no finalizaron compra.
                 td Un usuario visita una tienda online de chaquetas y luego ve anuncios del mismo producto con descuento mientras navega en otras páginas o redes sociales.
                 td Recupera carritos abandonados y mejora la tasa de conversión.
               tr.bg-color-8
-                td <b>Publicidad programática.</b>
+                td <b>Publicidad programática</b>
                 td Automatiza la compra de espacios publicitarios digitales mediante algoritmos y datos de comportamiento.
                 td Una marca internacional de moda lanza una campaña automatizada que muestra anuncios personalizados según historial de navegación y perfil del usuario.
                 td Optimiza inversión publicitaria en tiempo real y aumenta precisión en segmentación.

@@ -58,7 +58,7 @@
         .col-lg-auto.mb-lg-0.order-2
           img.d-none.d-lg-flex(src="@/assets/curso/tema6/6.png").mx-auto
         .col-lg.order-1
-          p.mb-0 En el sistema moda, las redes sociales se posicionan como herramientas estratégicas al permitir <em>marketing</em> de influencia, <em>storytelling</em> (contar historias) visual y experiencias interactivas que fortalecen el reconocimiento de marca. La creación de comunidades digitales impulsa la fidelización y proporciona retroalimentación inmediata sobre productos y tendencias, mientras que la analítica social permite medir indicadores como engagement (enganche de las personas con las marcas), alcance y conversiones para optimizar decisiones. 
+          p.mb-0 En el sistema moda, las redes sociales se posicionan como herramientas estratégicas al permitir <em>marketing</em> de influencia, <em>storytelling</em> (contar historias) visual y experiencias interactivas que fortalecen el reconocimiento de marca. La creación de comunidades digitales impulsa la fidelización y proporciona retroalimentación inmediata sobre productos y tendencias, mientras que la analítica social permite medir indicadores como <em>engagement</em> (enganche de las personas con las marcas), alcance y conversiones para optimizar decisiones. 
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-3
@@ -104,7 +104,7 @@
               span Ruta de procedimientos en redes sociales
             img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema6/11.svg", alt="La figura muestra la ruta de procedimiento en redes sociales ; la cual presenta un proceso estratégico compuesto por varias etapas: inicia con el diagnóstico digital y la definición de objetivos, seguido de la segmentación de audiencia y la planificación de contenidos. Luego continúa con la producción y publicación de contenido, el monitoreo y gestión de comunidad, la medición y análisis de resultados, y finaliza con la optimización continua basada en datos para mejorar el desempeño estratégico.")
             img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema6/11-1.svg", alt="La figura muestra la ruta de procedimiento en redes sociales ; la cual presenta un proceso estratégico compuesto por varias etapas: inicia con el diagnóstico digital y la definición de objetivos, seguido de la segmentación de audiencia y la planificación de contenidos. Luego continúa con la producción y publicación de contenido, el monitoreo y gestión de comunidad, la medición y análisis de resultados, y finaliza con la optimización continua basada en datos para mejorar el desempeño estratégico.")
-            figcaption Fuente: SENA, 2026  
+            figcaption Nota. SENA, 2026.  
     
     .row.justify-content-center
       .col-xl-10
@@ -146,7 +146,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema6/13.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Las expresiones en redes sociales corresponden a las formas comunicativas utilizadas para transmitir mensajes de marca, incluyendo lenguaje visual, tono comunicativo, estilo narrativo y formatos de contenido.  Estas expresiones determinan la personalidad digital de la marca y su capacidad para conectar emocionalmente con las audiencias. En el sistema moda, el uso de imágenes, videos cortos y storytelling visual constituye el principal recurso expresivo para destacar productos y tendencias.
+            p.mb-0 Las expresiones en redes sociales corresponden a las formas comunicativas utilizadas para transmitir mensajes de marca, incluyendo lenguaje visual, tono comunicativo, estilo narrativo y formatos de contenido.  Estas expresiones determinan la personalidad digital de la marca y su capacidad para conectar emocionalmente con las audiencias. En el sistema moda, el uso de imágenes, videos cortos y <em>storytelling</em> visual constituye el principal recurso expresivo para destacar productos y tendencias.
 
         .row.justify-content-center
           .col-lg-12
@@ -164,22 +164,22 @@
                     th.bg-color-7 Impacto estratégico
                 tbody
                   tr.bg-color-white
-                    td <b>Informativa.</b>
+                    td <b>Informativa</b>
                     td Comunicación orientada a transmitir datos objetivos y verificables sobre productos o servicios.
                     td Publicación en Instagram que detalla composición de una chaqueta (100 % algodón orgánico), tallas disponibles, precio y política de envío.
                     td Genera confianza, reduce objeciones de compra y fortalece la transparencia de marca.
                   tr.bg-color-8
-                    td <b>Promocional.</b>
+                    td <b>Promocional</b>
                     td Mensaje diseñado para estimular la acción de compra mediante incentivos o llamados directos.
                     td Campaña digital “-30 % en nueva colección otoño” con botón de compra directa en <em>e-commerce</em>.
                     td Incrementa conversiones, acelera decisiones de compra y dinamiza inventario.
                   tr.bg-color-white
-                    td <b>Educativa.</b>
+                    td <b>Educativa</b>
                     td Contenido que aporta conocimiento útil relacionado con tendencias, uso o cuidado del producto.
-                    td Reel explicando cómo combinar prendas básicas para crear tres outfits distintos o cómo cuidar telas delicadas.
+                    td <em>Reel</em> explicando cómo combinar prendas básicas para crear tres <em>outfits</em> distintos o cómo cuidar telas delicadas.
                     td Posiciona a la marca como referente experto y fortalece la fidelización.
                   tr.bg-color-8
-                    td <b>Emocional.</b>
+                    td <b>Emocional</b>
                     td Comunicación enfocada en generar conexión afectiva a través de valores, historias o identidad de marca.
                     td Video <em>storytelling</em> que muestra el proceso artesanal detrás de una colección sostenible y la historia de sus diseñadores.
                     td Fortalece el vínculo emocional, mejora recordación de marca y construye identidad diferenciada.
@@ -315,7 +315,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3.mb-1 Guía de Publicidad en Redes Sociales (<em>Social Ads</em>) para Principiantes
+                  h3.mb-1 Guía de publicidad en redes sociales (<em>Social Ads</em>) para principiantes
                   p.mb-0 Lo invitamos a consultar el siguiente video educativo para profundizar en la temática abordada. Este recurso explica de forma práctica cómo planificar y ejecutar campañas pagas en redes sociales, incluyendo objetivos publicitarios, segmentación de audiencias, creación de anuncios y análisis de métricas.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Iky6l5Da9Vo" target="_blank")
@@ -332,9 +332,9 @@
         figure
           img(src="@/assets/curso/tema6/25.png", data-aos="zoom-in")
       .col-lg-8
-        p Los hashtags constituyen etiquetas digitales precedidas por el símbolo numeral (#) que permiten clasificar contenidos y facilitar su búsqueda dentro de las redes sociales, su uso estratégico mejora la visibilidad de publicaciones y permite integrar contenidos en conversaciones digitales relacionadas con temas específicos. 
+        p Los <em>hashtags</em> constituyen etiquetas digitales precedidas por el símbolo numeral (#) que permiten clasificar contenidos y facilitar su búsqueda dentro de las redes sociales, su uso estratégico mejora la visibilidad de publicaciones y permite integrar contenidos en conversaciones digitales relacionadas con temas específicos. 
         .bg-color-10.tarjeta.p-4
-          p.mb-0 En el sistema moda, los <em>hashtags</em> facilitan la difusión de tendencias, campañas y eventos promocionales, pueden clasificarse en hashtags de marca, de campaña y de tendencia; los de marca identifican a la empresa y fortalecen su posicionamiento, los de campaña se utilizan temporalmente para promociones específicas, y los de tendencia permiten vincular contenidos a temas populares en el entorno digital. 
+          p.mb-0 En el sistema moda, los <em>hashtags</em> facilitan la difusión de tendencias, campañas y eventos promocionales, pueden clasificarse en <em>hashtags</em> de marca, de campaña y de tendencia; los de marca identifican a la empresa y fortalecen su posicionamiento, los de campaña se utilizan temporalmente para promociones específicas, y los de tendencia permiten vincular contenidos a temas populares en el entorno digital. 
     
     .row.justify-content-center
       .col-xl-10
