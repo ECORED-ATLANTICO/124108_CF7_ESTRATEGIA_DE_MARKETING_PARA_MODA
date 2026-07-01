@@ -444,7 +444,7 @@
               tr.bg-color-white
                 td <b><em>Remarketing</em></b>
                 td Impacta nuevamente a usuarios que ya interactuaron con la marca, pero no finalizaron compra.
-                td Un usuario visita una tienda online de chaquetas y luego ve anuncios del mismo producto con descuento mientras navega en otras páginas o redes sociales.
+                td Un usuario visita una tienda <em>online</em> de chaquetas y luego ve anuncios del mismo producto con descuento mientras navega en otras páginas o redes sociales.
                 td Recupera carritos abandonados y mejora la tasa de conversión.
               tr.bg-color-8
                 td <b>Publicidad programática</b>

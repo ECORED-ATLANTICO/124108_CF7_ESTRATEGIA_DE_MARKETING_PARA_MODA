@@ -154,7 +154,7 @@
           figure
             img(src="@/assets/curso/tema1/12.png", data-aos="zoom-in")
         .col-lg-8
-          p.mb-0(data-aos="fade-right") Ejemplo aplicado. Empresas como Adidas utilizan analítica de comportamiento para personalizar experiencias en sus tiendas virtuales, las recomendaciones automáticas se basan en historial de navegación y compra. En el sector moda colombiano, marcas emergentes segmentan sus audiencias mediante Instagram Insights, esto permite adaptar contenido visual según intereses del público. 
+          p.mb-0(data-aos="fade-right") <b>Ejemplo aplicado</b>. Empresas como Adidas utilizan analítica de comportamiento para personalizar experiencias en sus tiendas virtuales, las recomendaciones automáticas se basan en historial de navegación y compra. En el sector moda colombiano, marcas emergentes segmentan sus audiencias mediante Instagram Insights, esto permite adaptar contenido visual según intereses del público. 
 
     .bg-full-width.bg-fondo-2
       .px-4.px-lg-5

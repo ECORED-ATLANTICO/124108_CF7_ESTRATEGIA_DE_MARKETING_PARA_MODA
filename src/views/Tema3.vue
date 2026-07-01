@@ -89,7 +89,7 @@
           figure
             img(src="@/assets/curso/tema3/9.png", data-aos="zoom-in")
         .col-lg-10
-          p.mb-0(data-aos="fade-right") <b>Ejemplo aplicado</b>. En el sistema moda, el modelo B2C predomina en tiendas virtuales de marcas comerciales. El modelo B2B es utilizado por proveedores textiles que venden a fabricantes. Plataformas como Mercado Libre facilitan operaciones C2C. El modelo D2C ha crecido gracias a redes sociales y tiendas propias online. Marcas emergentes utilizan D2C para controlar la experiencia del cliente. Este modelo incrementa márgenes de rentabilidad. Sin embargo, exige mayor inversión logística. 
+          p.mb-0(data-aos="fade-right") <b>Ejemplo aplicado</b>. En el sistema moda, el modelo B2C predomina en tiendas virtuales de marcas comerciales. El modelo B2B es utilizado por proveedores textiles que venden a fabricantes. Plataformas como Mercado Libre facilitan operaciones C2C. El modelo D2C ha crecido gracias a redes sociales y tiendas propias <em>online</em>. Marcas emergentes utilizan D2C para controlar la experiencia del cliente. Este modelo incrementa márgenes de rentabilidad. Sin embargo, exige mayor inversión logística. 
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-3.mb-lg-0
@@ -187,7 +187,7 @@
           img(src="@/assets/curso/tema3/18.png", data-aos="zoom-in")
       .col-lg-8
         .bg-color-2.tarjeta.p-4
-          p.mb-0 En el sistema moda, el cumplimiento normativo trasciende el ámbito administrativo y se convierte en un componente esencial de la estrategia digital, ya que implica publicar términos y condiciones visibles en la tienda online, garantizar que las políticas de tratamiento de datos cuenten con la autorización expresa del usuario y adoptar la facturación electrónica conforme al marco legal vigente; adicionalmente, las plataformas de pago deben cumplir con estándares de seguridad financiera que protejan la información sensible de los clientes, todo bajo la supervisión de la Superintendencia de Industria y Comercio, entidad que vigila estas prácticas para asegurar el respeto de los derechos del consumidor. 
+          p.mb-0 En el sistema moda, el cumplimiento normativo trasciende el ámbito administrativo y se convierte en un componente esencial de la estrategia digital, ya que implica publicar términos y condiciones visibles en la tienda <em>online</em>, garantizar que las políticas de tratamiento de datos cuenten con la autorización expresa del usuario y adoptar la facturación electrónica conforme al marco legal vigente; adicionalmente, las plataformas de pago deben cumplir con estándares de seguridad financiera que protejan la información sensible de los clientes, todo bajo la supervisión de la Superintendencia de Industria y Comercio, entidad que vigila estas prácticas para asegurar el respeto de los derechos del consumidor. 
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
