@@ -285,7 +285,7 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Atlántico ',
         },
         {
-          nombre: 'Jair Enrique Coll Gallardo ',
+          nombre: 'Jair Enrique Coll Gallardo',
           cargo: ' Evaluador instruccional ',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico  ',
         },
@@ -295,17 +295,17 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Jesus Antonio Vecino Valero ',
+          nombre: 'Jesus Antonio Vecino Valero',
           cargo: 'Diseñador de contenidos',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Carlos Andrés Diaz Pinto ',
+          nombre: 'Carlos Andrés Diaz Pinto',
           cargo: 'Desarrollador <i>full stack</i>',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nelson Iván Vera Briceño ',
+          nombre: 'Nelson Iván Vera Briceño',
           cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
