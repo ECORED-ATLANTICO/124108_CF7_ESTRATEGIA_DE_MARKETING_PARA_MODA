@@ -133,7 +133,7 @@
           span Proceso de planeación
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema2/10.png", alt="la figura muestra las etapas del proceso de planeación estratégica organizado en un ciclo continuo, conformado por cuatro etapas principales. El análisis situacional; que estudia el mercado y la competencia. La formulación estratégica, donde se define la dirección empresarial. La implementación, que convierte las estrategias en acciones concretas. El control, encargado de evaluar el desempeño y los resultados obtenidos.")
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema2/10-1.png", alt="la figura muestra las etapas del proceso de planeación estratégica organizado en un ciclo continuo, conformado por cuatro etapas principales. El análisis situacional; que estudia el mercado y la competencia. La formulación estratégica, donde se define la dirección empresarial. La implementación, que convierte las estrategias en acciones concretas. El control, encargado de evaluar el desempeño y los resultados obtenidos.")
-        figcaption Nota. SENA, 2026.
+        figcaption Nota. SENA, (2026).
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-3.mb-lg-0

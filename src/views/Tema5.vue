@@ -263,7 +263,7 @@
               span Tipos de estrategias digitales
             img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema5/16.png", alt="La figura presenta los cuatro tipos de estrategias digitales: atracción, enfocada en generar tráfico mediante contenidos relevantes; conversión, orientada a transformar visitantes en clientes; fidelización, que fortalece la relación con los consumidores actuales; y posicionamiento, centrada en el reconocimiento de marca.")
             img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema5/16-1.png", alt="La figura presenta los cuatro tipos de estrategias digitales: atracción, enfocada en generar tráfico mediante contenidos relevantes; conversión, orientada a transformar visitantes en clientes; fidelización, que fortalece la relación con los consumidores actuales; y posicionamiento, centrada en el reconocimiento de marca.")
-            figcaption Nota. SENA, 2026.
+            figcaption Nota. SENA, (2026).
         
         .row.justify-content-center.align-items-center.mb-3
           .col-lg-10(data-aos="fade-up")

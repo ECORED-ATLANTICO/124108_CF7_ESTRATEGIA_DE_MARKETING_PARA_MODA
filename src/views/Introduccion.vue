@@ -15,7 +15,7 @@
             .col-lg-auto.mb-3.mb-lg-0
               img.d-none.d-lg-flex(src="@/assets/curso/intro/1.svg").mx-auto
             .col-lg
-              p.mb-0 El componente formativo aborda los fundamentos estratégicos del <em>marketing</em> aplicados al Sistema Moda, integrando conceptos de mercadeo, planeación estratégica, comercio electrónico, ecosistemas digitales, <em>marketing</em> digital y gestión de redes sociales. Este enfoque permite comprender el entorno competitivo actual y las dinámicas del consumidor en escenarios digitales y omnicanales.
+              p.mb-0 El componente formativo aborda los fundamentos estratégicos del <em>marketing</em> aplicados al sistema moda, integrando conceptos de mercadeo, planeación estratégica, comercio electrónico, ecosistemas digitales, <em>marketing</em> digital y gestión de redes sociales. Este enfoque permite comprender el entorno competitivo actual y las dinámicas del consumidor en escenarios digitales y omnicanales.
         
         .row.justify-content-center.align-items-center.mb-5
           .col-md-8.col-lg-5.col-xl-4.mb-3.mb-xl-0

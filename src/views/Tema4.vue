@@ -239,7 +239,7 @@
               h5 Figura 4.
               span Tipos de plataformas digitales
             img(data-aos="fade-up", src="@/assets/curso/tema4/16.png", alt="La figura muestra los diferentes tipos de plataformas digitales, divididos en tres categorías: comerciales, orientadas a la compra y venta de productos; operativas, enfocadas en la gestión interna y optimización de procesos empresariales; y colaborativas, que facilitan la interacción y participación entre proveedores, clientes y aliados estratégicos")
-            figcaption Nota. SENA, 2026.
+            figcaption Nota. SENA, (2026).
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-3.mb-lg-0

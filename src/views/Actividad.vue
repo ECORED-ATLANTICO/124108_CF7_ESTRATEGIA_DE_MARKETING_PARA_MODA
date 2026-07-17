@@ -22,7 +22,7 @@ export default {
       introduccion:
         '<b> Objetivo:</b> verificar la comprensión de los fundamentos del <em>marketing</em> en el sistema moda mediante la resolución de preguntas de verdadero o falso aplicadas a contextos empresariales.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!.',
+      titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {
@@ -568,7 +568,7 @@ export default {
         {
           id: 16,
           texto:
-            '¿Qué función cumplen los <em>hashtags</em> dentro de las publicaciones digitales elegantes?',
+            '¿Qué función cumplen los <em>hashtags</em> dentro de las publicaciones digitales empresariales?',
           imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [

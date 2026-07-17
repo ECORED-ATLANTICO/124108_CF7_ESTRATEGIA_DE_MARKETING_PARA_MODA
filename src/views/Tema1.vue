@@ -181,7 +181,7 @@
                 tbody
                   tr.bg-color-white
                     td <b>Aspiracional</b>
-                    td Busca estatus simbólico y reconocimiento social. Se deja influenciar por tendencias, celebridades e influencers. Valora la exclusividad, el diseño diferencial y la identidad de marca. Está dispuesto a pagar más por percepción de prestigio. Alta sensibilidad a la imagen y reputación digital.
+                    td Busca estatus simbólico y reconocimiento social. Se deja influenciar por tendencias, celebridades e <em>influencers</em>. Valora la exclusividad, el diseño diferencial y la identidad de marca. Está dispuesto a pagar más por percepción de prestigio. Alta sensibilidad a la imagen y reputación digital.
                     td Moda <em>premium</em>, colecciones limitadas, colaboraciones con diseñadores o figuras públicas, <em>storytelling</em> de marca, campañas visuales de alto impacto y presencia fuerte en redes sociales aspiracionales.
                   tr.bg-color-8
                     td <b>Funcional</b>
@@ -284,7 +284,7 @@
               span Elementos de la mezcla de <em>marketing</em>
             img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/22.png", alt="La figura muestra la mezcla de marketing o 4P, integrada por cuatro elementos principales: Producto, relacionado con la oferta al consumidor; Precio, que define el valor económico; Plaza, enfocada en los canales de distribución; y Promoción, encargada de informar y persuadir al consumidor. Todos estos componentes se integran para apoyar las estrategias comerciales de la empres ")
             img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/22-1.png", alt="La figura muestra la mezcla de marketing o 4P, integrada por cuatro elementos principales: Producto, relacionado con la oferta al consumidor; Precio, que define el valor económico; Plaza, enfocada en los canales de distribución; y Promoción, encargada de informar y persuadir al consumidor. Todos estos componentes se integran para apoyar las estrategias comerciales de la empres ")
-            figcaption Nota. SENA, 2026.
+            figcaption Nota. SENA, (2026).
 
     .bg-color-1.mb-5.tarjeta.p-4
       .row.align-items-center

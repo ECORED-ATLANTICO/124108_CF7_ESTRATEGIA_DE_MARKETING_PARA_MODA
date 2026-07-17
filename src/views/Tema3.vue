@@ -79,7 +79,7 @@
               span Tipos de comercio electrónico
             img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema3/8.png", alt="la figura muestra los principales tipos de comercio electrónico en el mercado. B2C (empresa a consumidor) orientado a ventas de empresa a consumidor (minoristas. El modelo B2B (empresa a empresa)enfocado en operaciones entre empresas; modelo D2C (marca directa a consumidor) que elimina intermediarios para fortalecer la relación directa con el cliente. Finalmente, el modelo C2C (consumidor a consumidor) permite transacciones mediante plataformas digitales.")
             img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/8-1.png", alt="la figura muestra los principales tipos de comercio electrónico en el mercado. B2C (empresa a consumidor) orientado a ventas de empresa a consumidor (minoristas. El modelo B2B (empresa a empresa)enfocado en operaciones entre empresas; modelo D2C (marca directa a consumidor) que elimina intermediarios para fortalecer la relación directa con el cliente. Finalmente, el modelo C2C (consumidor a consumidor) permite transacciones mediante plataformas digitales.")
-            figcaption Nota. SENA, 2026.
+            figcaption Nota. SENA, (2026).
 
         p.mb-5 La elección del modelo depende de la estrategia empresarial. Cada tipo implica dinámicas operativas diferentes.
 

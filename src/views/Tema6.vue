@@ -104,7 +104,7 @@
               span Ruta de procedimientos en redes sociales
             img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema6/11.svg", alt="La figura muestra la ruta de procedimiento en redes sociales ; la cual presenta un proceso estratégico compuesto por varias etapas: inicia con el diagnóstico digital y la definición de objetivos, seguido de la segmentación de audiencia y la planificación de contenidos. Luego continúa con la producción y publicación de contenido, el monitoreo y gestión de comunidad, la medición y análisis de resultados, y finaliza con la optimización continua basada en datos para mejorar el desempeño estratégico.")
             img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema6/11-1.svg", alt="La figura muestra la ruta de procedimiento en redes sociales ; la cual presenta un proceso estratégico compuesto por varias etapas: inicia con el diagnóstico digital y la definición de objetivos, seguido de la segmentación de audiencia y la planificación de contenidos. Luego continúa con la producción y publicación de contenido, el monitoreo y gestión de comunidad, la medición y análisis de resultados, y finaliza con la optimización continua basada en datos para mejorar el desempeño estratégico.")
-            figcaption Nota. SENA, 2026.  
+            figcaption Nota. SENA, (2026).  
     
     .row.justify-content-center
       .col-xl-10
@@ -292,7 +292,7 @@
               img(src="@/assets/curso/tema6/22.png", data-aos="zoom-in")
           .col-lg-7.col-xl-6
             .bg-color-2.p-5.tarjeta 
-              p.mb-0 El pago de pauta digital corresponde a la inversión económica destinada a promocionar contenidos o anuncios en plataformas digitales con el fin de ampliar su alcance y segmentación 
+              p.mb-0 El pago de pauta digital corresponde a la inversión económica destinada a promocionar contenidos o anuncios en plataformas digitales con el fin de ampliar su alcance y segmentación. 
         .bg-color-sintesis.tarjeta.p-4
           .row.align-items-center
             .col-lg-auto.mb-3.mb-lg-0
