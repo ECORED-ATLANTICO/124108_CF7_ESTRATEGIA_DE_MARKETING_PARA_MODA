@@ -177,7 +177,7 @@
                       p.mb-0 A continuación, se presenta un ejemplo condensado, en el cual cada aspecto puede desarrollarse con la profundidad conceptual necesaria para precisar y contextualizar su intención estratégica. 
                     .col-sm-auto
                       a.boton.color-acento-botones(:href="obtenerLink('/downloads/Plan_estrategico_de_mercadeo_D1.pdf')" target="_blank")
-                        span Descargar pdf
+                        span Descargar PDF
                         i.fas.fa-file-download
 
         .row.justify-content-center.align-items-center.mb-5

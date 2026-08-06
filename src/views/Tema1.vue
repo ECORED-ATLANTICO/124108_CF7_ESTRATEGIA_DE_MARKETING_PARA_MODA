@@ -133,7 +133,7 @@
               img(src="@/assets/curso/tema1/9.png", data-aos="zoom-in")
           .col-lg-7.col-xl-6.mb-3
             .bg-color-2.p-4.tarjeta 
-              p.mb-0 El consumidor es el eje del mercadeo contemporáneo, especialmente en el sistema moda donde la identidad simbólica influye en la decisión de compra. El análisis del consumidor permite identificar motivaciones, comportamientos y preferencias, conllevando a definir las personalidades de compra o <em>buyer</em> personas, los cuales representan perfiles semi ficticios basados en datos reales. Estos perfiles integran variables demográficas, psicográficas y digitales, comprenderlos facilita diseñar mensajes relevantes, con segmentos bien definidos, lo que permite optimizar recursos publicitarios. 
+              p.mb-0 El consumidor es el eje del mercadeo contemporáneo, especialmente en el sistema moda donde la identidad simbólica influye en la decisión de compra. El análisis del consumidor permite identificar motivaciones, comportamientos y preferencias, conllevando a definir las personalidades de compra o <em>buyer</em> personas, los cuales representan perfiles semificticios basados en datos reales. Estos perfiles integran variables demográficas, psicográficas y digitales, comprenderlos facilita diseñar mensajes relevantes, con segmentos bien definidos, lo que permite optimizar recursos publicitarios. 
           
           .bg-color-sintesis.tarjeta.p-4
             .row.align-items-center
@@ -154,7 +154,7 @@
           figure
             img(src="@/assets/curso/tema1/12.png", data-aos="zoom-in")
         .col-lg-8
-          p.mb-0(data-aos="fade-right") <b>Ejemplo aplicado</b>. Empresas como Adidas utilizan analítica de comportamiento para personalizar experiencias en sus tiendas virtuales, las recomendaciones automáticas se basan en historial de navegación y compra. En el sector moda colombiano, marcas emergentes segmentan sus audiencias mediante Instagram Insights, esto permite adaptar contenido visual según intereses del público. 
+          p.mb-0(data-aos="fade-right") <b>Ejemplo aplicado</b>. Empresas como Adidas utilizan analítica de comportamiento para personalizar experiencias en sus tiendas virtuales, las recomendaciones automáticas se basan en historial de navegación y compra. En el sector moda colombiano, marcas emergentes segmentan sus audiencias mediante Instagram <em>Insights</em>, esto permite adaptar contenido visual según intereses del público. 
 
     .bg-full-width.bg-fondo-2
       .px-4.px-lg-5
@@ -282,8 +282,8 @@
             .titulo-sexto.color-acento-contenido.mb-4
               h5 Figura 1.
               span Elementos de la mezcla de <em>marketing</em>
-            img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/22.png", alt="La figura muestra la mezcla de marketing o 4P, integrada por cuatro elementos principales: Producto, relacionado con la oferta al consumidor; Precio, que define el valor económico; Plaza, enfocada en los canales de distribución; y Promoción, encargada de informar y persuadir al consumidor. Todos estos componentes se integran para apoyar las estrategias comerciales de la empres ")
-            img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/22-1.png", alt="La figura muestra la mezcla de marketing o 4P, integrada por cuatro elementos principales: Producto, relacionado con la oferta al consumidor; Precio, que define el valor económico; Plaza, enfocada en los canales de distribución; y Promoción, encargada de informar y persuadir al consumidor. Todos estos componentes se integran para apoyar las estrategias comerciales de la empres ")
+            img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/22.png", alt="La figura muestra la mezcla de marketing o 4P, integrada por cuatro elementos principales: Producto, relacionado con la oferta al consumidor; Precio, que define el valor económico; Plaza, enfocada en los canales de distribución; y Promoción, encargada de informar y persuadir al consumidor. Todos estos componentes se integran para apoyar las estrategias comerciales de la empresa.")
+            img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/22-1.png", alt="La figura muestra la mezcla de marketing o 4P, integrada por cuatro elementos principales: Producto, relacionado con la oferta al consumidor; Precio, que define el valor económico; Plaza, enfocada en los canales de distribución; y Promoción, encargada de informar y persuadir al consumidor. Todos estos componentes se integran para apoyar las estrategias comerciales de la empresa.")
             figcaption Nota. SENA, (2026).
 
     .bg-color-1.mb-5.tarjeta.p-4
@@ -302,7 +302,7 @@
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up")
-        p.banner-text El <em>marketing</em> digital se refiere al conjunto de estrategias y acciones comerciales que utilizan plataformas digitales y tecnologías de la información para promover productos, servicios o experiencias; este enfoque trasciende el objetivo tradicional de venta, ya que se basa en crear relaciones interactivas y medibles entre la marca y el consumidor, aprovechando medios como redes sociales, motores de búsqueda, sitios web, correo electrónico y publicidad en línea; en el capítulo cinco (5), de la presente guía, se trabajará de forma ampliada esta temática. 
+        p.banner-text El <em>marketing</em> digital se refiere al conjunto de estrategias y acciones comerciales que utilizan plataformas digitales y tecnologías de la información para promover productos, servicios o experiencias; este enfoque trasciende el objetivo tradicional de venta, ya que se basa en crear relaciones interactivas y medibles entre la marca y el consumidor, aprovechando medios como redes sociales, motores de búsqueda, sitios web, correo electrónico y publicidad en línea; esta información será ampliada en el capítulo cinco (5), del presente componente formativo, se trabajará de forma ampliada esta temática. 
     
     separador
     

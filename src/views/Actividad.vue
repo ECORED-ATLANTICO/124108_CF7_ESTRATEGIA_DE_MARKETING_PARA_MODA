@@ -57,8 +57,7 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Identificar necesidades del consumidor y generar valor mediante productos y estrategias comerciales constituye la esencia fundamental del mercadeo.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -93,8 +92,7 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Se caracterizan por la integración de plataformas digitales para alcanzar objetivos comerciales específicos de la marca.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -129,8 +127,7 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Es indispensable analizar las estrategias, el posicionamiento y la propuesta de valor de las marcas competidoras en el entorno virtual.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -165,8 +162,7 @@ export default {
               esCorrecta: true,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Su función consiste en integrar de forma coherente las variables estratégicas de producto, precio, plaza y promoción empresarial.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -201,8 +197,7 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Esta herramienta destaca porque permite establecer una comunicación directa y totalmente personalizada con clientes y consumidores digitales.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -237,8 +232,7 @@ export default {
               esCorrecta: true,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Su fin primordial es definir de forma clara los objetivos, recursos y acciones requeridas para alcanzar las metas organizacionales futuras.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -273,8 +267,7 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Se caracterizan por integrar diferentes herramientas, plataformas y canales conectados para gestionar eficientemente la información digital.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -309,8 +302,7 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Su infraestructura está diseñada específicamente para facilitar transacciones comerciales y procesar ventas mediante medios digitales especializados.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -345,8 +337,7 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Son los encargados de garantizar tanto la seguridad como la transmisión óptima y adecuada de la información digital empresarial.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -381,8 +372,7 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Es fundamental estudiar con precisión la estructura interna y el funcionamiento específico del sistema informático donde se integrarán dichos datos.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -417,8 +407,7 @@ export default {
               esCorrecta: true,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Se define a través de la integración coherente y sin fricciones entre los canales físicos y digitales para optimizar la experiencia global del usuario.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -453,8 +442,7 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Tienen como finalidad verificar exhaustivamente que todos los sistemas y herramientas operen correctamente antes de su lanzamiento o implementación definitiva.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -489,8 +477,7 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Logran construir una sólida identidad y una diferenciación clara en el mercado mediante el desarrollo de contenidos y experiencias virtuales coherentes.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -525,8 +512,7 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Su función consiste en estructurar de manera nítida los rasgos narrativos, psicológicos y emocionales de la marca para conectar con sus audiencias en internet.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -561,8 +547,7 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Están orientadas a potenciar significativamente la visibilidad, los niveles de conversión y el posicionamiento de marca mediante acciones promocionales en entornos virtuales.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -597,8 +582,7 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Sirven como etiquetas de indexación para facilitar la correcta clasificación, expandir el alcance orgánico y promover el descubrimiento de contenidos relacionados en las plataformas sociales.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -633,8 +617,7 @@ export default {
               esCorrecta: true,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Logran un impacto real porque consiguen integrar altos niveles de creatividad, mensajes claros y una sólida adaptación a las dinámicas de comportamiento de la audiencia digital.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -669,8 +652,7 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Su principal beneficio radica en optimizar los tiempos de ejecución, permitiendo la programación inteligente y una gestión centralizada de los contenidos estratégicos.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -705,8 +687,7 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Busca robustecer la visibilidad online, consolidar el posicionamiento competitivo de la firma y acelerar los flujos de ventas por medio de canales virtuales especializados.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -741,14 +722,14 @@ export default {
               esCorrecta: true,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Actúan como plataformas idóneas para entablar comunicación bidireccional, forjar comunidades de marca sólidas y desplegar campañas de promoción comercial efectivas.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
       ],
-      mensaje_final_aprobado: '¡Excelente! Ha superado la actividad.',
+      mensaje_final_aprobado:
+        '¡Excelente! ha superado la actividad y demuestra sólidos conocimientos sobre el componente formativo.',
       mensaje_final_reprobado:
-        'Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
+        'No ha superado la actividad. Recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
     },
   }),
 }

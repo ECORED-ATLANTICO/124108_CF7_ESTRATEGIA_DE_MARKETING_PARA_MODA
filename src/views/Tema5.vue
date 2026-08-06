@@ -278,7 +278,7 @@
                       p.mb-0 Zara, marca del grupo Inditex, es uno de los referentes globales del sistema moda en integración de estrategias digitales con retail físico y comercio electrónico.
                     .col-sm-auto
                       a.boton.color-acento-botones(:href="obtenerLink('/downloads/Aplicacion_de_estrategias_digitales_D2.pdf')" target="_blank")
-                        span Descargar pdf
+                        span Descargar PDF
                         i.fas.fa-file-download
         
     .row.justify-content-center.align-items-center.mb-5
@@ -317,7 +317,7 @@
                   h3.mb-1 Tipos de arquetipos
                   p.mb-0 Lo invitamos a consultar el siguiente video educativo, donde profundizará en la temática. Este contenido de Edutin Academy explica los arquetipos publicitarios y cómo ayudan a crear historias coherentes que conectan emocionalmente con el público.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://youtu.be/tdEv-yO1Uvg?si=W4kmv5psirpUbjwd " target="_blank")
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=LuD86mxHedY " target="_blank")
                     span Ir al video
                     i.fas.fa-file-download
     

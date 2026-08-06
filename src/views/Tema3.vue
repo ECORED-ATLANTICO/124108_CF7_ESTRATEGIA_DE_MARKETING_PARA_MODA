@@ -197,7 +197,7 @@
               img.d-none.d-lg-flex(src="@/assets/curso/tema3/3.svg").mx-auto
             .col-lg
               h5.mb-0 Cita de reflexión
-              p.mb-0  “La integridad empresarial comienza cuando la legalidad guía cada transacción.”
+              p.mb-0  “La integridad empresarial comienza cuando la legalidad guía cada transacción”.
     
 
 

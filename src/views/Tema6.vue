@@ -66,7 +66,7 @@
           img(src="@/assets/curso/tema6/7.png", data-aos="zoom-in")
       .col-lg-8
         .bg-color-2.p-4
-          p.mb-0 Además, posibilitan probar micro campañas con menor riesgo antes de realizar inversiones mayores, su integración con plataformas de comercio electrónico facilita compras directas desde publicaciones o transmisiones en vivo, reduciendo complicaciones en el proceso de compra. No obstante, su efectividad depende de una gestión profesional que incluya planificación editorial, automatización y monitoreo de reputación, consolidándolas como activos estratégicos de crecimiento empresarial.
+          p.mb-0 Además, posibilitan probar microcampañas con menor riesgo antes de realizar inversiones mayores, su integración con plataformas de comercio electrónico facilita compras directas desde publicaciones o transmisiones en vivo, reduciendo complicaciones en el proceso de compra. No obstante, su efectividad depende de una gestión profesional que incluya planificación editorial, automatización y monitoreo de reputación, consolidándolas como activos estratégicos de crecimiento empresarial.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.order-2
@@ -372,7 +372,7 @@
               img.d-none.d-lg-flex(src="@/assets/curso/tema6/29.png").mx-auto
             .col-lg
               h5.mb-0 Cita de reflexión
-              p.mb-0  “La coherencia entre lo que se comunica en público y lo que se practica en privado es la base de la credibilidad personal y profesional.”
+              p.mb-0  “La coherencia entre lo que se comunica en público y lo que se practica en privado es la base de la credibilidad personal y profesional”.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5.mb-3.mb-lg-0.order-lg-2

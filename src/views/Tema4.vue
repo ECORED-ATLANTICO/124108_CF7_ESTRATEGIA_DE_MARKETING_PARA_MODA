@@ -89,7 +89,7 @@
               img(src="@/assets/curso/tema4/9.png", alt="alt")
           .crd_hover_txt--body
             h4.mb-3 Servicios
-            p.mb-0 Integran soluciones tecnológicas. Enfatizan interoperabilidad tecnológica.     
+            p.mb-0 Integran soluciones tecnológicas. Enfatizan la interoperabilidad tecnológica.     
       .col-xl-3.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
@@ -247,7 +247,7 @@
           img(src="@/assets/curso/tema4/17.png", data-aos="zoom-in")
       .col-lg-8
         .bg-color-16.tarjeta.p-4
-          p.mb-0 Cada categoría presenta características técnicas relacionadas con almacenamiento de datos, integraciones API (<em>Application Programming Interface</em> - Interfaz de Programación de Aplicaciones - conjunto de reglas y protocolos que permite que dos sistemas o aplicaciones diferentes se comuniquen entre sí sin que el usuario tenga que intervenir.), seguridad informática y automatización, la elección depende de la etapa de madurez digital de la empresa, así mismo su integración mejora la eficiencia operativa, además de permitir una visión integral del cliente.
+          p.mb-0 Cada categoría presenta características técnicas relacionadas con almacenamiento de datos, integraciones API (<em>Application Programming Interface</em> - Interfaz de Programación de Aplicaciones - conjunto de reglas y protocolos que permite que dos sistemas o aplicaciones diferentes se comuniquen entre sí sin que el usuario tenga que intervenir.), seguridad informática y automatización, la elección depende de la etapa de madurez digital de la empresa, así mismo, su integración mejora la eficiencia operativa, además de permitir una visión integral del cliente.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.order-2
