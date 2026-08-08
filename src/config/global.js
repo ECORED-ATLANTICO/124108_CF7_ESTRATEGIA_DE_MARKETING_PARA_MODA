@@ -270,7 +270,7 @@ export default {
           centro: 'Centro Agroturistico - Regional Santander',
         },
         {
-          nombre: 'Miguel de Jesús Paredes Maestre ',
+          nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de la línea de producción ',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
