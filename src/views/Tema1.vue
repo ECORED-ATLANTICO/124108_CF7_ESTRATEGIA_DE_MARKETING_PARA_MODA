@@ -302,7 +302,7 @@
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up")
-        p.banner-text El <em>marketing</em> digital se refiere al conjunto de estrategias y acciones comerciales que utilizan plataformas digitales y tecnologías de la información para promover productos, servicios o experiencias; este enfoque trasciende el objetivo tradicional de venta, ya que se basa en crear relaciones interactivas y medibles entre la marca y el consumidor, aprovechando medios como redes sociales, motores de búsqueda, sitios web, correo electrónico y publicidad en línea; esta información será ampliada en el capítulo cinco (5), del presente componente formativo, se trabajará de forma ampliada esta temática. 
+        p.banner-text El <em>marketing</em> digital se refiere al conjunto de estrategias y acciones comerciales que utilizan plataformas digitales y tecnologías de la información para promover productos, servicios o experiencias; este enfoque trasciende el objetivo tradicional de venta, ya que se basa en crear relaciones interactivas y medibles entre la marca y el consumidor, aprovechando medios como redes sociales, motores de búsqueda, sitios web, correo electrónico y publicidad en línea; esta información será ampliada en el capítulo cinco (5), del presente componente formativo. 
     
     separador
     
